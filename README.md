@@ -1,2 +1,130 @@
 # Awesome-Controllable-Video-Generation
 🚀🚀🚀A curated list of papers on controllable video generation. 
+
+
+# 🤗 Introduction
+
+
+
+# 📋 Contents
+- [🤗 Introduction](#-introduction)
+- [📋 Contents](#-contents)
+- [💘 Tips](#-tips)
+  - [Video Generation](#video-generation)
+    - [Single Control](#single-control)
+      - [Character Control/ID/Video Customization/Personalization](#character-controlidvideo-customizationpersonalization)
+        - [Spatial Control](#spatial-control)
+        - [Pose Control](#pose-control)
+        - [BEV-Control](#bev-control)
+        - [Style Control](#style-control)
+        - [Point Control](#point-control)
+        - [Depth Control](#depth-control)
+        - [Landmark Control](#landmark-control)
+      - [Text Rendering](#text-rendering)
+      - [Temporal Control](#temporal-control)
+        - [Flow-Guided](#flow-guided)
+        - [Camera-Guided](#camera-guided)
+        - [Traj-Guided](#traj-guided)
+        - [Motion Customization/Motion Mask/Motion Video(traj)](#motion-customizationmotion-maskmotion-videotraj)
+      - [Advanced Text-Conditioned](#advanced-text-conditioned)
+      - [In-Context](#in-context)
+      - [Image-guided](#image-guided)
+      - [Sound-Guided](#sound-guided)
+      - [Audio/Music-Guided](#audiomusic-guided)
+      - [Layout Control](#layout-control)
+      - [Sketch Control](#sketch-control)
+      - [Language-Gesture Controlled](#language-gesture-controlled)
+    - [Multi Control/I2V](#multi-controli2v)
+      - [Image + Traj](#image--traj)
+      - [Image + Camera](#image--camera)
+      - [Traj + Camera](#traj--camera)
+      - [Image + Audio](#image--audio)
+      - [Video + Camera](#video--camera)
+      - [Image + Flow](#image--flow)
+      - [Image + Pose](#image--pose)
+      - [Text + Sound](#text--sound)
+      - [Personalized + Motion](#personalized--motion)
+    - [Unified Controllable Generation](#unified-controllable-generation)
+
+- [📍 Related Surveys](#-related-surveys)
+
+- [👨‍💻 Team](#-team)
+- [😉 Citation](#-citation)
+- [⭐️ Star History](#️-star-history)
+
+
+# 💘 Tips
+- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
+- **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
+- **✅ Paper searching via tag**: You can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation` `tokenizer`. (More tags are ongoing)
+
+
+## 🔹 Single Control
+
+### 🌟 Character Control/ID/Video Customization/Personalization
+
+### 📍 Spatial Control
+
+#### 🕺 Pose Control
+
+#### 🚗 BEV-Control
+
+#### 🎨 Style Control
+
+#### 📌 Point Control
+
+#### 📏 Depth Control
+
+#### 🗺️ Landmark Control
+
+### ✍️ Text Rendering
+
+### ⏳ Temporal Control
+
+#### 🌊 Flow-Guided
+
+#### 📸 Camera-Guided
+
+#### 🛤️ Traj-Guided
+
+#### 🎥 Motion Customization/Motion Mask/Motion Video(traj)
+
+### 📝 Advanced Text-Conditioned
+
+### 🔄 In-Context
+
+### 🖼️ Image-guided
+
+### 🔊 Sound-Guided
+
+### 🎵 Audio/Music-Guided
+
+### 🗂️ Layout Control
+
+### ✏️ Sketch Control
+
+### 🤲 Language-Gesture Controlled
+
+## 🔸 Multi Control/I2V
+
+### 🖼️ + 🛤️ Image + Traj
+
+### 🖼️ + 📸 Image + Camera
+
+### 🛤️ + 📸 Traj + Camera
+
+### 🖼️ + 🔊 Image + Audio
+
+### 🎥 + 📸 Video + Camera
+
+### 🖼️ + 🌊 Image + Flow
+
+### 🖼️ + 🕺 Image + Pose
+
+### ✍️ + 🔊 Text + Sound
+
+### 🌟 + 🎥 Personalized + Motion
+
+## ❓ To be sorted
+
+## 🌐 Unified controllable generation
