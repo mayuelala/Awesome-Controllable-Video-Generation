@@ -1,5 +1,5 @@
 # Awesome-Controllable-Video-Generation
-🚀🚀🚀A curated list of papers on controllable video generation. 
+🚀🚀🚀A curated list of papers on controllable video generation. Please join us for more comprehensive summary. If you have any additions to the list, please raise them in the issue section. 欢迎补充👏
 
 
 # 🤗 Introduction
