@@ -42,11 +42,16 @@
       - [Video + Camera](#video--camera)
       - [Image + Flow](#image--flow)
       - [Image + Pose](#image--pose)
-        + **StableAnimator: High-Quality Identity-Preserving Human Image Animation** (16 Nov 2024)<details><summary>Shuyuan Tu, Zhen Xing, Xintong Han, et al.</summary>Shuyuan Tu, Zhen Xing, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</details>
+        - **StableAnimator: High-Quality Identity-Preserving Human Image Animation** (16 Nov 2024)<details><summary>Shuyuan Tu, Zhen Xing, Xintong Han, et al.</summary>Shuyuan Tu, Zhen Xing, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17697)
 [![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=94053805cd59f2e9a47fe3f080c7e7afefb337cc)](https://www.semanticscholar.org/paper/StableAnimator%3A-High-Quality-Identity-Preserving-Tu-Xing/1562333c6fb82bdf5e764a6bdc72de57122fbe33)
 [![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)]((https://github.com/Francis-Rings/StableAnimator))
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](http://218.91.113.230:9002)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://francis-rings.github.io/StableAnimator/)
+
+        - **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** (28 Nov 2023)<details><summary>Li Hu, Xin Gao, Peng Zhang, et al.</summary>
+      Li Hu, Xin Gao, Peng Zhang, Ke Sun, Bang Zhang, Liefeng Bo</details>
+      [![Paper](https://img.shields.io/badge/arXiv-2311.17117v3-b31b1b.svg)](https://arxiv.org/abs/2311.17117v3)
+      [![citation](https://img.shields.io/badge/citation-0-blue.svg)](https://www.semanticscholar.org/search?q=2311.17117v3)
 
       - [Text + Sound](#text--sound)
       - [Personalized + Motion](#personalized--motion)
