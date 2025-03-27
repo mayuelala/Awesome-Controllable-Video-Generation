@@ -124,7 +124,7 @@
         + **DreaMoving: A Human Video Generation Framework based on Diffusion Models** (8 Dec 2023)<details><summary>Mengyang Feng, Jinlin Liu, Kai Yu, et al.</summary>
         Mengyang Feng, Jinlin Liu, Kai Yu, Yuan Yao, Zheng Hui, Xiefan Guo, Xianhui Lin, Haolan Xue, Chen Shi, Xiaowen Li, Aojie Li, Xiaoyang Kang, Biwen Lei, Miaomiao Cui, Peiran Ren, Xuansong Xie</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.05107)
-        [![Code](https://img.shields.io/github/stars/dreamoving/dreamoving-projectF.svg?style=social&label=Star)](https://github.com/dreamoving/dreamoving-projectF)          
+        [![Code](https://img.shields.io/github/stars/dreamoving/dreamoving-project.svg?style=social&label=Star)](https://github.com/dreamoving/dreamoving-project)          
       - [Text + Sound](#text--sound)
       - [Personalized + Motion](#personalized--motion)
     - [Unified Controllable Generation](#unified-controllable-generation)
