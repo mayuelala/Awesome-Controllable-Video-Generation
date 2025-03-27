@@ -148,6 +148,102 @@
         Lijie Liu, Tianxiang Ma, Bingchuan Li, Zhuowei Chen, Jiawei Liu, Qian He, Xinglong Wu</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11079)
         [![Code](https://img.shields.io/github/stars/Phantom-video/Phantom.svg?style=social&label=Star)](https://github.com/Phantom-video/Phantom)
++ **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (25 Mar 2024)
+  <details><summary> Shenghai Yuan, Jinfa Huang, et al.</summary>
+        Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440)
+
+
++ **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**  
+   <details><summary>Yingqing He, Menghan Xia, et al.</summary>  
+         Yingqing He, Menghan Xia, Haoxin Chen, Xiaodong Cun, Yuan Gong, Jinbo Xing, Yong Zhang, Xintao Wang, Chao Weng, Ying Shan, Qifeng Chen</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)  
+   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/VideoCrafter/Animate-A-Story)
+
++ **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**  
+   <details><summary>Yuzhou Huang, Ziyang Yuan, Quande Liu, et al.</summary>  
+         Yuzhou Huang, Ziyang Yuan, Quande Liu, Qiulin Wang, Xintao Wang, Ruimao Zhang, Pengfei Wan, Di Zhang, Kun Gai</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04698)
+
++ **Videodreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning**  
+   <details><summary>Hong Chen, Xin Wang, Guanning Zeng, et al.</summary>  
+         Hong Chen, Xin Wang, Guanning Zeng, Yipeng Zhang, Yuwei Zhou, Feilin Han, Wenwu Zhu</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00990)
+
++ **VideoBooth: Diffusion-based Video Generation with Image Prompts**  
+   <details><summary>Yuming Jiang, Tianxing Wu, et al.</summary>  
+         Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777)  
+   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/Vchitect/VideoBooth)
+
++ **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**  
+   <details><summary>Tao Wu, Yong Zhang, Xintao Wang, et al.</summary>  
+         Tao Wu, Yong Zhang, Xintao Wang, Xianpan Zhou, Guangcong Zheng, Zhongang Qi, Ying Shan, Xi Li</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13239)
+
++ **Still-Moving: Customized Video Generation Without Customized Video Data**  
+   <details><summary>Hila Chefer, Shiran Zada, Roni Paiss, Ariel Ephrat, et al.</summary>  
+         Hila Chefer, Shiran Zada, Roni Paiss, Ariel Ephrat, Omer Tov, Michael Rubinstein, Lior Wolf, Tali Dekel, Tomer Michaeli, Inbar Mosseri</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.08674)
+
++ **Customvideo: Customizing Text-to-Video Generation with Multiple Subjects**  
+   <details><summary>Zhao Wang, Aoxue Li, et al.</summary>  
+         Zhao Wang, Aoxue Li, Lingting Zhu, Yong Guo, Qi Dou, Zhenguo Li</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09962)
+
++ **Dreamvideo: Composing Your Dream Videos with Customized Subject and Motion**  
+   <details><summary>Yujie Wei, Shiwei Zhang, Zhiwu Qing, et al.</summary>  
+         Yujie Wei, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433)
+   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://dreamvideo-t2v.github.io/)
+
++ **MotionBooth: Motion-Aware Customized Text-to-Video Generation**  
+   <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, et al.</summary>  
+         Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17758)
+
++ **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** (25 Jun 2024)  
+   <details><summary>Xuanhua He, Quande Liu, et al.</summary>  
+         Xuanhua He, Quande Liu, Shengju Qian, Xin Wang, Tao Hu, Ke Cao, Keyu Yan, Jie Zhang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275)  
+   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/ID-Animator/ID-Animator)
+
++ **PERSONALVIDEO: High ID-Fidelity Video Customization with Static Images**  
+   <details><summary>Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, et al.</summary>  
+         Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, Yujie Wei, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai</details>  
+
+   [![Paper](https://img.shields.io/badge/OpenReview-0077b5.svg)](https://arxiv.org/abs/2411.17048)
+
++ **TaleCrafter: Interactive Story Visualization with Multiple Characters**  
+   <details><summary>Yuan Gong, Youxin Pang, et al.</summary>  
+         Yuan Gong, Youxin Pang, Xiaodong Cun, Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Ying Shan, Yujiu Yang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18247)  
+   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/VideoCrafter/TaleCrafter)
+
++ **Dreamix: Video Diffusion Models are General Video Editors**  
+   <details><summary>Eyal Molad, Eliahu Horwitz, et al.</summary>  
+         Eyal Molad, Eliahu Horwitz, Dani Valevski, Alex Rav Acha, Yossi Matias, Yael Pritch, Yaniv Leviathan, Yedid Hoshen</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.01329)  
+
+
++ **VideoAlchemy: Open-set Personalization in Video Generation**  
+   <details><summary>Tsai-Shien Chen, Aliaksandr Siarohin, et al.</summary>  
+        Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Yuwei Fang, Ivan Skorokhodov, Jun-Yan Zhu, Kfir Aberman, Ming-Hsuan Yang, Sergey Tulyakov </details>  
+
+   [![Paper](https://img.shields.io/badge/OpenReview-0077b5.svg)](https://openreview.net/pdf?id=popKM1zAYa)   
 
 
 ### 📍 Spatial Control
