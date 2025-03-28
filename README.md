@@ -441,6 +441,75 @@ Zehuan Wu, Jingcheng Ni, Xiaodong Wang, Yuxin Guo, Rui Chen, Lewei Lu, Jifeng Da
 ### ✍️ + 🔊 Text + Sound
 
 ### 🌟 + 🎥 Personalized + Motion
++ **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** (17 Oct 2024)<details><summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, et al.</summary>
+  Yujie Wei, Shiwei Zhang, Hangjie Yuan, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Feng Liu, Zhizhong Huang, Jiaxin Ye, Yingya Zhang, Hongming Shan</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13830)
+
++ **Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions** (3 Jan 2024)<details><summary>David Junhao Zhang, Dongxu Li, Hung Le, et al.</summary>
+  David Junhao Zhang, Dongxu Li, Hung Le, Mike Zheng Shou, Caiming Xiong, Doyen Sahoo</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01827)
+
++ **MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation** (27 Nov 2024)<details><summary>Haopeng Fang, Di Qiu, Binjie Mao, et al.</summary>
+  Haopeng Fang, Di Qiu, Binjie Mao, Pengfei Yan, He Tang</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18281)
+
++ **Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models** (30 May 2023)<details><summary>Ernie Chu, Shuo-Yen Lin, Jun-Cheng Chen</summary>
+  Ernie Chu, Shuo-Yen Lin, Jun-Cheng Chen</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19193)
+
++ **VideoComposer: Compositional Video Synthesis with Motion Controllability** (3 Jun 2023)<details><summary>Xiang Wang, Hangjie Yuan, Shiwei Zhang, et al.</summary>
+  Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02018)
+  [![Code](https://img.shields.io/github/stars/damo-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/damo-vilab/videocomposer)
+
++ **ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond** (26 May 2023)<details><summary>Min Zhao, Rongzhen Wang, Fan Bao, et al.</summary>
+  Min Zhao, Rongzhen Wang, Fan Bao, Chongxuan Li, Jun Zhu</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17098)
+  [![Code](https://img.shields.io/github/stars/thu-ml/controlvideo.svg?style=social&label=Star)](https://github.com/thu-ml/controlvideo)
+
++ **Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning** (23 May 2023)<details><summary>Weifeng Chen, Yatai Ji, Jie Wu, et al.</summary>
+  Weifeng Chen, Yatai Ji, Jie Wu, Hefeng Wu, Pan Xie, Jiashi Li, Xin Xia, Xuefeng Xiao, Liang Lin</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13840)
+  [![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Star)](https://github.com/Weifeng-Chen/control-a-video)
+  
+  
++ **ControlVideo: Training-free Controllable Text-to-Video Generation** (22 May 2023)<details><summary>Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, et al.</summary>
+  Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, Xiaopeng Zhang, Wangmeng Zuo, Qi Tian</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13840)
+  [![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Star)](https://github.com/YBYBZhang/ControlVideo)
+
++ **Motion-Conditioned Diffusion Model for Controllable Video Synthesis** (27 Apr 2023)<details><summary>Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, et al.</summary>
+  Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14797)
+
++ **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators** (23 Mar 2023)<details><summary>Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, et al.</summary>
+  Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, Roberto Henschel, Zhangyang Wang, Shant Navasardyan, Humphrey Shi</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13439)
+  [![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+
++ **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning** (4 Mar 2022)<details><summary>Ligong Han, Jian Ren, Hsin-Ying Lee, et al.</summary>
+  Ligong Han, Jian Ren, Hsin-Ying Lee, Francesco Barbieri, Kyle Olszewski, Shervin Minaee, Dimitris Metaxas, Sergey Tulyakov</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.02573)
+  [![Code](https://img.shields.io/github/stars/snap-research/MMVID.svg?style=social&label=Star)](https://github.com/snap-research/MMVID)
+
++ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024)<details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
+  Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
+  [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
+
+ + **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control** (7 Jan 2025)<details><summary>Zekai Gu, Rui Yan, Jiahao Lu, et al.</summary>
+  Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03847)
+  [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
+
++ **Boximator: Generating Rich and Controllable Motions for Video Synthesis** (2 Feb 2024)<details><summary>Jiawei Wang, Yuchen Zhang, Jiaxin Zou, et al.</summary>
+  Jiawei Wang, Yuchen Zhang, Jiaxin Zou, Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00015)
+****
++ **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** (22 Feb 2024)<details><summary>Yixuan Ren, Yang Zhou, Jimei Yang, et al.</summary>
+  Yixuan Ren, Yang Zhou, Jimei Yang, Jing Shi, Difan Liu, Feng Liu, Mingi Kwon, Abhinav Shrivastava</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14780)
+  [![Code](https://img.shields.io/github/stars/customize-a-video/customize-a-video.svg?style=social&label=Star)](https://github.com/customize-a-video/customize-a-video)
 
 ## ❓ To be sorted
 
