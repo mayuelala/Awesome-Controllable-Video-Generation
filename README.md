@@ -97,6 +97,10 @@
 
 ### 🔊 Sound-Guided
 
++ **（ECCV 22) Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
+Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
+[![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
 ### 🎵 Audio/Music-Guided
 
 ### 🗂️ Layout Control
