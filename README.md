@@ -159,8 +159,7 @@
    <details><summary>Yingqing He, Menghan Xia, et al.</summary>  
          Yingqing He, Menghan Xia, Haoxin Chen, Xiaodong Cun, Yuan Gong, Jinbo Xing, Yong Zhang, Xintao Wang, Chao Weng, Ying Shan, Qifeng Chen</details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)  
-   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/VideoCrafter/Animate-A-Story)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)  [![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://github.com/VideoCrafter/Animate-A-Story)
 
 + **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**  
    <details><summary>Yuzhou Huang, Ziyang Yuan, Quande Liu, et al.</summary>  
@@ -178,8 +177,7 @@
    <details><summary>Yuming Jiang, Tianxing Wu, et al.</summary>  
          Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu</details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777)  
-   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/Vchitect/VideoBooth)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00777)  [![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://github.com/Vchitect/VideoBooth)
 
 + **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**  
    <details><summary>Tao Wu, Yong Zhang, Xintao Wang, et al.</summary>  
@@ -203,8 +201,7 @@
    <details><summary>Yujie Wei, Shiwei Zhang, Zhiwu Qing, et al.</summary>  
          Yujie Wei, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan</details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433)
-   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://dreamvideo-t2v.github.io/)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433)[![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://dreamvideo-t2v.github.io/)
 
 + **MotionBooth: Motion-Aware Customized Text-to-Video Generation**  
    <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, et al.</summary>  
@@ -216,21 +213,19 @@
    <details><summary>Xuanhua He, Quande Liu, et al.</summary>  
          Xuanhua He, Quande Liu, Shengju Qian, Xin Wang, Tao Hu, Ke Cao, Keyu Yan, Jie Zhang</details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275)  
-   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/ID-Animator/ID-Animator)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275) [![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://github.com/ID-Animator/ID-Animator)
 
 + **PERSONALVIDEO: High ID-Fidelity Video Customization with Static Images**  
    <details><summary>Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, et al.</summary>  
          Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, Yujie Wei, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai</details>  
 
-   [![Paper](https://img.shields.io/badge/OpenReview-0077b5.svg)](https://arxiv.org/abs/2411.17048)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17048)
 
 + **TaleCrafter: Interactive Story Visualization with Multiple Characters**  
    <details><summary>Yuan Gong, Youxin Pang, et al.</summary>  
          Yuan Gong, Youxin Pang, Xiaodong Cun, Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Ying Shan, Yujiu Yang</details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18247)  
-   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg)](https://github.com/VideoCrafter/TaleCrafter)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18247) [![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://github.com/VideoCrafter/TaleCrafter)
 
 + **Dreamix: Video Diffusion Models are General Video Editors**  
    <details><summary>Eyal Molad, Eliahu Horwitz, et al.</summary>  
@@ -243,7 +238,8 @@
    <details><summary>Tsai-Shien Chen, Aliaksandr Siarohin, et al.</summary>  
         Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Yuwei Fang, Ivan Skorokhodov, Jun-Yan Zhu, Kfir Aberman, Ming-Hsuan Yang, Sergey Tulyakov </details>  
 
-   [![Paper](https://img.shields.io/badge/OpenReview-0077b5.svg)](https://openreview.net/pdf?id=popKM1zAYa)   
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=popKM1zAYa)   
+
 
 
 ### 📍 Spatial Control
