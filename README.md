@@ -526,7 +526,7 @@ Zehuan Wu, Jingcheng Ni, Xiaodong Wang, Yuxin Guo, Rui Chen, Lewei Lu, Jifeng Da
 + **Boximator: Generating Rich and Controllable Motions for Video Synthesis** (2 Feb 2024)<details><summary>Jiawei Wang, Yuchen Zhang, Jiaxin Zou, et al.</summary>
   Jiawei Wang, Yuchen Zhang, Jiaxin Zou, Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00015)
-****
+  
 + **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** (22 Feb 2024)<details><summary>Yixuan Ren, Yang Zhou, Jimei Yang, et al.</summary>
   Yixuan Ren, Yang Zhou, Jimei Yang, Jing Shi, Difan Liu, Feng Liu, Mingi Kwon, Abhinav Shrivastava</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14780)
