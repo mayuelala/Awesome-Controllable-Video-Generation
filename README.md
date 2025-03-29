@@ -274,6 +274,105 @@
 
 ### 🖼️ Image-guided
 
++ **STIV: Scalable Text and Image Conditioned Video Generation** (10 Dec 2024) <details><summary>Zongyu Lin, Wei Liu, Chen Chen, et al.</summary>
+Zongyu Lin, Wei Liu, Chen Chen, Jiasen Lu, Wenze Hu, Tsu-Jui Fu, Jesse Allardice, Zhengfeng Lai, Liangchen Song, Bowen Zhang, Cha Chen, Yiran Fei, Yifan Jiang, Lezhi Li, Yizhou Sun, Kai-Wei Chang, Yinfei Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07730)
+
++ **Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation** (6 Jan 2025) <details><summary>Guy Yariv, Yuval Kirstain, Amit Zohar, et al.</summary>
+Guy Yariv, Yuval Kirstain, Amit Zohar, Shelly Sheynin, Yaniv Taigman, Yossi Adi, Sagie Benaim, Adam Polyak</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03059)
+
++ **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation** (5 Mar 2024) <details><summary>Weijie Li, Litong Gong, Yiran Zhu, et al.</summary>
+Weijie Li, Litong Gong, Yiran Zhu, Fanda Fan, Biao Wang, Tiezheng Ge, Bo Zheng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02827)
+
++ **Decouple Content and Motion for Conditional Image-to-Video Generation** (24 Nov 2023) <details><summary>Cuifeng Shen, Yulu Gan, Chen Chen, et al.</summary>
+Cuifeng Shen, Yulu Gan, Chen Chen, Xiongwei Zhu, Lele Cheng, Tingting Gao, Jinzhi Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294)
+
++ **MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** (8 Dec 2024) <details><summary>Shuwei Shi, Biao Gong, Xi Chen, et al.</summary>
+Shuwei Shi, Biao Gong, Xi Chen, Dandan Zheng, Shuai Tan, Zizheng Yang, Yuyuan Li, Jingwen He, Kecheng Zheng, Jingdong Chen, Ming Yang, Yinqiang Zheng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05848)
+
++ **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** (6 Feb 2025) <details><summary>Jinbo Xing, Long Mai, Cusuh Ham, et al.</summary>
+Jinbo Xing, Long Mai, Cusuh Ham, Jiahui Huang, Aniruddha Mahapatra, Chi-Wing Fu, Tien-Tsin Wong, Feng Liu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04299)
+
++ **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction** (10 Jun 2024) <details><summary>Zhen Xing, Qi Dai, Zejia Weng, et al.</summary>
+Zhen Xing, Qi Dai, Zejia Weng, Zuxuan Wu, Yu-Gang Jiang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06465)
+
++ **LaMD: Latent Motion Diffusion for Video Generation** (23 Apr 2023) <details><summary>Yaosi Hu, Zhenzhong Chen, Chong Luo</summary>
+Yaosi Hu, Zhenzhong Chen, Chong Luo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)
+
++ **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** (7 Nov 2024) <details><summary>Koichi Namekata, Sherwin Bahmani, Ziyi Wu, et al.</summary>
+Koichi Namekata, Sherwin Bahmani, Ziyi Wu, Yash Kant, Igor Gilitschenski, David B. Lindell</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04033)
+[![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Star)](https://github.com/Kmcode1/SG-I2V)
+
++ **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (29 May 2024) <details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>
+Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
+[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
+
++ **AtomoVideo: High Fidelity Image-to-Video Generation** (4 Mar 2024) <details><summary>Litong Gong, Yiran Zhu, Weijie Li, et al.</summary>
+Litong Gong, Yiran Zhu, Weijie Li, Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800)
+
++ **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** (25 Mar 2024) <details><summary>Zhongwei Zhang, Fuchen Long, Yingwei Pan, et al.</summary>
+Zhongwei Zhang, Fuchen Long, Yingwei Pan, Zhaofan Qiu, Ting Yao, Yang Cao, Tao Mei</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17005)
+
++ **CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers** (21 May 2024) <details><summary>Andrew Marmon, Grant Schindler, José Lezama, et al.</summary>
+Andrew Marmon, Grant Schindler, José Lezama, Dan Kondratyuk, Bryan Seybold, Irfan Essa</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.13195)
+
++ **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation** (27 Aug 2024) <details><summary>Xiaojuan Wang, Boyang Zhou, Brian Curless, et al.</summary>
+Xiaojuan Wang, Boyang Zhou, Brian Curless, Ira Kemelmacher-Shlizerman, Aleksander Holynski, Steven M. Seitz</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15239)
+[![Code](https://img.shields.io/github/stars/jeanne-wang/svd_keyframe_interpolation.svg?style=social&label=Star)](https://github.com/jeanne-wang/svd_keyframe_interpolation)
+
++ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (30 Oct 2023) <details><summary>Haoxin Chen, Menghan Xia, Yingqing He, et al.</summary>
+Haoxin Chen, Menghan Xia, Yingqing He, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Jinbo Xing, Yaofang Liu, Qifeng Chen, Xintao Wang, Chao Weng, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
+
++ **Lumiere: A Space-Time Diffusion Model for Video Generation** (23 Jan 2024) <details><summary>Omer Bar-Tal, Hila Chefer, Omer Tov, et al.</summary>
+Omer Bar-Tal, Hila Chefer, Omer Tov, Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945)
+
++ **Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** (22 Jun 2024) <details><summary>Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</summary>
+Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12533)
+[![Code](https://img.shields.io/github/stars/thu-ml/cond-image-leakage.svg?style=social&label=Star)](https://github.com/thu-ml/cond-image-leakage)
+
++ **MoVideo: Motion-Aware Video Generation with Diffusion Models** (19 Nov 2023) <details><summary>Jingyun Liang, Yuchen Fan, Kai Zhang, et al.</summary>
+Jingyun Liang, Yuchen Fan, Kai Zhang, Radu Timofte, Luc Van Gool, Rakesh Ranjan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325)
+
++ **Synthesizing Videos from Images for Image-to-Video Adaptation** (27 Oct 2023) <details><summary>Junbao Zhuo, Xingyu Zhao, Shuhui Wang, et al.</summary>
+Junbao Zhuo, Xingyu Zhao, Shuhui Wang, Huimin Ma, Qingming Huang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3581783.3611897)
+
++ **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** (25 Apr 2024) <details><summary>Haomiao Ni, Bernhard Egger, Suhas Lohit, et al.</summary>
+Haomiao Ni, Bernhard Egger, Suhas Lohit, Anoop Cherian, Ye Wang, Toshiaki Koike-Akino, Sharon X. Huang, Tim K. Marks</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16306)
+
++ **Ultrasound Image-to-Video Synthesis via Latent Dynamic Diffusion Models** (19 Mar 2025) <details><summary>Tingxiu Chen, Yilei Shi, Zixuan Zheng, et al.</summary>
+Tingxiu Chen, Yilei Shi, Zixuan Zheng, Bingcong Yan, Jingliang Hu, Xiao Xiang Zhu, Lichao Mou</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14966)
+
++ **UniVG: Towards UNIfied-modal Video Generation** (17 Jan 2024) <details><summary>Ludan Ruan, Lei Tian, Chuanwei Huang, et al.</summary>
+Ludan Ruan, Lei Tian, Chuanwei Huang, Xu Zhang, Xinyan Xiao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084)
+
++ **Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation** (22 Dec 2024) <details><summary>Luoxu Jin, Hiroshi Watanabe</summary>
+Luoxu Jin, Hiroshi Watanabe</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17042)
+
+
+
 ### 🔊 Sound-Guided
 
 + **（ECCV 22) Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
