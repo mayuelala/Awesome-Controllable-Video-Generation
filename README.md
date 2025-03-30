@@ -15,6 +15,7 @@
 
 
 # 📋 Contents
+- [Awesome-Controllable-Video-Generation](#awesome-controllable-video-generation)
 - [🤗 Introduction](#-introduction)
 - [📋 Contents](#-contents)
 - [💘 Tips](#-tips)
@@ -116,7 +117,7 @@
 + **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers** (9 May 2024)<details><summary>Peng Gao, Le Zhuo, Dongyang Liu, et al.</summary>
         Peng Gao, Le Zhuo, Dongyang Liu, Ruoyi Du, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05945)
-        [![Code](https://img.shields.io/github/stars/wz0919/DreamRunner.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)
+        [![Code](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)
 + **VIMI: Grounding Video Generation through Multi-modal Instruction** (8 Jul 2024)<details><summary>Yuwei Fang, Willi Menapace, Aliaksandr Siarohin, et al.</summary>
         Yuwei Fang, Willi Menapace, Aliaksandr Siarohin, Tsai-Shien Chen, Kuan-Chien Wang, Ivan Skorokhodov, Graham Neubig, Sergey Tulyakov</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.06304)
@@ -455,7 +456,7 @@
 
 + **CameraCtrl: Enabling Camera Control for Text-to-Video Generation** (30 Mar 2025)<details><summary>Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.02101)
-[![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
 
 + **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** (30 Mar 2025)<details><summary>Wangbo Yu, Jinbo Xing, Li Yuan, et al.</summary>Wenbo Hu, Xiaoyu Li, Zhipeng Huang, Xiangjun Gao, Tien-Tsin Wong, Ying Shan, Yonghong Tian</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048)
@@ -489,29 +490,29 @@
 + **CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models** (30 Mar 2025)<details><summary>Hao He, Ceyuan Yang, Shanchuan Lin, et al.</summary>Yinghao Xu, Meng Wei, Liangke Gui, Qi Zhao, Gordon Wetzstein, Lu Jiang, Hongsheng Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10592)
 #### 🛤️ Traj-Guided
-+ **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** (no specific date provided)<details><summary>Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao</summary></details>
++ **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** <details><summary>Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2402.03162)
-+ **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation(Both are based on T2V, not I2V.)** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation(Both are based on T2V, not I2V.)** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.00896)
-+ **Freetraj: Tuning-free trajectory control in video diffusion models(T2V)** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Freetraj: Tuning-free trajectory control in video diffusion models(T2V)** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.16863)
-+ **Peekaboo: Interactive video generation via masked-diffusion(T2V)** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Peekaboo: Interactive video generation via masked-diffusion(T2V)** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.07509)
-+ **MotionBooth: Motion-Aware Customized Text-to-Video Generation** (no specific date provided)<details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</summary></details>
++ **MotionBooth: Motion-Aware Customized Text-to-Video Generation** <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.17758)
-+ **Collaborative video diffusion: Consistent multi-video generation with camera control** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Collaborative video diffusion: Consistent multi-video generation with camera control** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.17414)
-+ **Tora: Trajectory-oriented Diffusion Transformer for Video Generation** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Tora: Trajectory-oriented Diffusion Transformer for Video Generation** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.21705)
-+ **Motion-Zero: A Zero-Shot Trajectory Control Framework of Moving Object** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Motion-Zero: A Zero-Shot Trajectory Control Framework of Moving Object** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.10150)
-+ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control** (no specific date provided)<details><summary>Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</summary></details>
++ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control** <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12781)
-+ **Controllable Video Generation With Sparse Trajectories** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **Controllable Video Generation With Sparse Trajectories** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)
-+ **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** (no specific date provided)<details><summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</summary></details>
++ **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** <details><summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.16421v1)
-+ **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** (no specific date provided)<details><summary>Authors not provided</summary></details>
++ **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** <details><summary>Authors not provided</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2502.04299v1) 
 #### 🎥 Motion Customization/Motion Mask/Motion Video(traj)
 + **MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent** <details><summary>Xinyao Liao, Xianfang Zeng, Liao Wang, Gang Yu, Guosheng Lin, Chi Zhang</summary></details>
@@ -519,25 +520,25 @@
 
 + **Motionbooth: Motion-aware customized text-to-video generation** <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17758)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/jianzongwu/MotionBooth)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/jianzongwu/MotionBooth)
 
 + **Motion Prompting: Controlling Video Generation with Motion Trajectories** <details><summary>Daniel Geng, Charles Herrmann, Junhwa Hur, Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02700)
 
 + **Video Motion Transfer with Diffusion Transformers** <details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07776)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
 
 + **MOTION INVERSION FOR VIDEO CUSTOMIZATION** <details><summary>Luozhou Wang, Ziyang Mai, Guibao Shen, Yixun Liang, Xin Tao, Pengfei Wan, Di Zhang, Yijun Li, Yingcong Chen</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2403.20193)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/EnVision-Research/MotionInversion)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/EnVision-Research/MotionInversion)
 
 + **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer** <details><summary>Danah Yatim, Rafail Fridman, Omer Bar-Tal, Yoni Kasten, Tali Dekel</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17009)
 
 + **Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** <details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2403.15249)
-[![Code](https://img.shields.io/github/stars/zhuangshaobin/Vlogger.svg?style=social&label=Star)](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer)
 
 + **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** <details><summary>Xiaomin Li, Xu Jia, Qinghe Wang</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01343)
@@ -549,31 +550,31 @@
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.07602)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamrelation.github.io/#)
 
-+ **Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss** (no specific date provided)<details><summary>Xinyu Zhang, Zicheng Duan, Dong Gong, Lingqiao Liu</summary></details>
++ **Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss** <details><summary>Xinyu Zhang, Zicheng Duan, Dong Gong, Lingqiao Liu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.07563)
-+ **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance(输入为motion视频)** (no specific date provided)<details><summary>Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu</summary></details>
++ **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**<details><summary>Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
-+ **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion(可以single motion vedios和multiple vedios)** (no specific date provided)<details><summary>Yujie Wei, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
++ **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion(可以single motion vedios和multiple vedios)** <details><summary>Yujie Wei, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
-+ **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (no specific date provided)<details><summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
++ **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** <details><summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.05020)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
-+ **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models (hand mask sequence as control signal)** (no specific date provided)<details><summary>Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fern´andez Abrevaya</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
++ **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models (hand mask sequence as control signal)** <details><summary>Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fern´andez Abrevaya</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.11785)
-+ **LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds** (no specific date provided)<details><summary>Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo</summary></details>
++ **LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds** <details><summary>Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://lingtengqiu.github.io/LHM/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/aigc3d/LHM)
-+ **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** (no specific date provided)<details><summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/aigc3d/LHM)
++ **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** <details><summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.16421v1)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/quanhaol/MagicMotion)
-+ **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control** (no specific date provided)<details><summary>Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/quanhaol/MagicMotion)
++ **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control** <details><summary>Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://igl-hkust.github.io/das/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
-+ **Zero-Shot Controllable Image-to-Video Animation via Motion Decomposition** (no specific date provided)<details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
++ **Zero-Shot Controllable Image-to-Video Animation via Motion Decomposition** <details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07776)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/Yui010206/IVA-0) 
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/Yui010206/IVA-0) 
 
 ### 📝 Advanced Text-Conditioned
 
@@ -1044,7 +1045,7 @@ Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02101)
 [![citation](https://img.shields.io/badge/citation-82-blue.svg?paper=3fc6184c72fd55b67409ef87493c333f15a33180)](https://www.semanticscholar.org/paper/3fc6184c72fd55b67409ef87493c333f15a33180)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/projects-CameraCtrl/)
-[![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/hehao13/CameraCtrl-svd)
 
 + **ToonCrafter: Generative Cartoon Interpolation** (19 Nov 2024)<details><summary>[ACM TOG] Jinbo Xing, Hanyuan Liu, Menghan Xia, et al.</summary>
@@ -1167,11 +1168,11 @@ Mohit Bansal</details>
 
 + **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (30 Mar 2025)<details><summary>Yingjie Chen, Yifang Men, Yuan Yao, et al.</summary>Miaomiao Cui, Liefeng Bo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.05020)
-[![Code](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
 
 + **I2VControl: Disentangled and Unified Video Motion Synthesis Control** (30 Mar 2025)<details><summary>Wanquan Feng, Tianhao Qi, Jiawei Liu, et al.</summary>Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17765)
-[![Code](https://img.shields.io/github/stars/wanquanf/None.svg?style=social&label=Star)](https://wanquanf.github.io/None)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Star)](https://wanquanf.github.io/I2VControl)
 
 + **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (30 Mar 2025)<details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.07531)
@@ -1195,7 +1196,7 @@ Mohit Bansal</details>
 
 + **CameraCtrl: Enabling Camera Control for Text-to-Video Generation (包含天t2v,i2v)** (30 Mar 2025)<details><summary>Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.02101)
-[![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
 
 + **Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis** (30 Mar 2025)<details><summary>Wonjoon Jin, Qi Dai, Chong Luo, et al.</summary>Seung-Hwan Baek, Sunghyun Cho, POSTECH, Microsoft Research Asia</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.08244)
@@ -1424,19 +1425,19 @@ Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://generative-video-camera-controls.github.io/)
 + **Reangle-A-Video: 4D Video Generation as Video-to-Video Translation** <details><summary>Hyeonho Jeong, Suhyeon Lee, Jong Chul Ye</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyeonho99.github.io/reangle-a-video/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/HyeonHo99/Reangle-Video)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/HyeonHo99/Reangle-Video)
 + **Redirecting Camera Trajectory for Monocular Videos via Diffusion Models** (25 Mar 2025)<details><summary>Mark YU, Wenbo Hu, Jinbo Xing, et al.</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05638)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://trajectorycrafter.github.io/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/TrajectoryCrafter/TrajectoryCrafter)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/TrajectoryCrafter/TrajectoryCrafter)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
 + **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers** <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, et al.</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/ac3d/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/snap-research/ac3d)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/snap-research/ac3d)
 + **MotionDirector: Motion Customization of Text-to-Video Diffusion Models** <details><summary>Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, et al.</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/MotionDirector/)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://huggingface.co/spaces/ruizhaocv/MotionDirector) 
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://huggingface.co/spaces/ruizhaocv/MotionDirector) 
 
 ### 🖼️ + 🌊 Image + Flow
 
