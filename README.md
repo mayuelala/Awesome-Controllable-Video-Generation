@@ -245,6 +245,162 @@
 ### 📍 Spatial Control
 
 #### 🕺 Pose Control
++ **TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation** (14 Mar 2025)
+   <details><summary>Hongxiang Zhao, Xingchen Liu, et al.</summary>  
+        Hongxiang Zhao, Xingchen Liu, Mutian Xu, Yiming Hao, Weikai Chen, Xiaoguang Han </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11423)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://taste-rob.github.io/)
+
++ **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** (12 Feb 2025)
+   <details><summary>Zhao Wang, Hao Wen, et al.</summary>  
+        Zhao Wang, Hao Wen, Lingting Zhu, Chenming Shang, Yujiu Yang, Qi Dou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
+   [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
+
++ **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** (10 Feb 2025)
+   <details><summary>Li Hu, Guangyuan Wang, et al.</summary>  
+        Li Hu, Guangyuan Wang, Zhen Shen, Xin Gao, Dechao Meng, Lian Zhuo, Peng Zhang, Bang Zhang, Liefeng Bo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06145)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/animate-anyone-2/)
+
++ **Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** (19 Dec 2024)
+   <details><summary>Mingdeng Cao, Chong Mou, et al.</summary>  
+        Mingdeng Cao, Chong Mou, Ziyang Yuan, Xintao Wang, Zhaoyang Zhang, Ying Shan, Yinqiang Zheng </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14484)
+   [![Code](https://img.shields.io/github/stars/ljzycmd/SCD.svg?style=social&label=Star)](https://github.com/ljzycmd/SCD)
+
++ **DirectorLLM for Human-Centric Video Generation** (19 Dec 2024)
+   <details><summary>Kunpeng Song, Tingbo Hou, et al.</summary>  
+        Kunpeng Song, Tingbo Hou, Zecheng He, Haoyu Ma, Jialiang Wang, Animesh Sinha, Sam Tsai, Yaqiao Luo, Xiaoliang Dai, Li Chen, Xide Xia, Peizhao Zhang, Peter Vajda, Ahmed Elgammal, Felix Juefei-Xu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14484)
+
++ **Generative Inbetweening through Frame-wise Conditions-Driven Video Generation** (16 Dec 2024)
+   <details><summary>Tianyi Zhu, Dongwei Ren, et al.</summary>  
+        Tianyi Zhu, Dongwei Ren, Qilong Wang, Xiaohe Wu, Wangmeng Zuo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11755)
+   [![Code](https://img.shields.io/github/stars/Tian-one/FCVGe.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fcvg-inbetween.github.io/)
+
++ **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** (12 Dec 2024)
+   <details><summary>Hongxiang Li, Yaowei Li, et al.</summary>  
+        Hongxiang Li, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09349)
+   [![Code](https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star)](https://github.com/lihxxx/DisPose)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lihxxx.github.io/DisPose/)
+
++ **ControlNeXt: Powerful and Efficient Control for Image and Video Generation** (12 Aug 2024)
+   <details><summary>Bohao Peng, Jian Wang, et al.</summary>  
+        Bohao Peng, Jian Wang, Yuechen Zhang, Wenbo Li, Ming-Chang Yang, Jiaya Jia </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
+   [![Code](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pbihao.github.io/projects/controlnext/index.html)
+
++ **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** (28 Jun 2024)
+   <details><summary>Yuang Zhang, Jiaxi Gu, et al.</summary>  
+        Yuang Zhang, Jiaxi Gu, Li-Wen Wang, Han Wang, Junqi Cheng, Yuefeng Zhu, Fangyuan Zou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680)
+   [![Code](https://img.shields.io/github/stars/tencent/MimicMotion.svg?style=social&label=Star)](https://github.com/tencent/MimicMotion)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tencent.github.io/MimicMotion/)
+
++ **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance** (21 Mar 2024)
+   <details><summary>Shenhao Zhu, Junming Leo Chen, et al.</summary>  
+        Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+   [![Code](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fudan-generative-vision.github.io/champ/#/)
+
++ **Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons** (24 Jan 2024)
+   <details><summary>Zhe Xu, Kun Wei, et al.</summary>  
+        Zhe Xu, Kun Wei, Xu Yang, Cheng Deng </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363)
+
++ **Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models** (3 Dec 2023)
+   <details><summary>Shengqu Cai, Duygu Ceylan, et al.</summary>  
+        Shengqu Cai, Duygu Ceylan, Matheus Gadelha, Chun-Hao Paul Huang, Tuanfeng Yang Wang, Gordon Wetzstein </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://primecai.github.io/generative_rendering/)
+
+
++ **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** (28 Nov 2023)
+   <details><summary>Li Hu, Xin Gao, et al.</summary>  
+        Li Hu, Xin Gao, Peng Zhang, Ke Sun, Bang Zhang, Liefeng Bo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117)
+   [![Code](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone.svg?style=social&label=Star)](https://github.com/HumanAIGC/AnimateAnyone)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/animate-anyone/)
+
++ **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** (27 Nov 2023)
+   <details><summary>Zhongcong Xu, Jianfeng Zhang, et al.</summary>  
+        Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
+   [![Code](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/magicanimate/)
+
++ **MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion** (18 Nov 2023)
+   <details><summary>Zhongcong Xu, Jianfeng Zhang, et al.</summary>  
+        Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
+   [![Code](https://img.shields.io/github/stars/Boese0601/MagicDance.svg?style=social&label=Star)](https://github.com/Boese0601/MagicDance)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://boese0601.github.io/magicdance/)
+
++ **Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model** (15 Aug 2023)
+   <details><summary>Bosheng Qin, Wentao Ye, et al.</summary>  
+        Bosheng Qin, Wentao Ye, Qifan Yu, Siliang Tang, Yueting Zhuang </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
+
++ **DisCo: Disentangled Control for Realistic Human Dance Generation** (30 Jun 2023)
+   <details><summary>Tan Wang, Linjie Li, et al.</summary>  
+        Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040)
+   [![Code](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://disco-dance.github.io/)
+
++ **DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** (12 Apr 2023)
+   <details><summary>Johanna Karras, Aleksander Holynski, et al.</summary>  
+        Johanna Karras, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025)
+   [![Code](https://img.shields.io/github/stars/johannakarras/DreamPose.svg?style=social&label=Star)](https://github.com/johannakarras/DreamPose)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://grail.cs.washington.edu/projects/dreampose/)
+
++ **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023)
+   <details><summary>Yue Ma, Yingqing He, et al.</summary>  
+        Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+   [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
+
++ **Point-to-Point Video Generation** (5 Apr 2019)
+   <details><summary>Tsun-Hsuan Wang, Yen-Chi Cheng, et al.</summary>  
+        Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
+   [![Code](https://img.shields.io/github/stars/yccyenchicheng/p2pvg.svg?style=social&label=Star)](https://github.com/yccyenchicheng/p2pvg)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zswang666.github.io/P2PVG-Project-Page/)
+
++ **Pose Guided Human Video Generation** (3 Apr 2023)
+   <details><summary>Ceyuan Yang, Zhe Wang, et al.</summary>  
+        Ceyuan Yang, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
 
 #### 🚗 BEV-Control
 
