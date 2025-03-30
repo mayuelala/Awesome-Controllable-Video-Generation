@@ -445,14 +445,14 @@
 
 + **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** (30 Mar 2025)<details><summary>Shiyuan Yang, Liang Hou, Haibin Huang, et al.</summary>Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2402.03162)
-[![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Star)](https://github.com/ysy31415/direct_a_video)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/ysy31415/direct_a_video)
 
 + **3DTRAJMASTER: MASTERING 3D TRAJECTORY FOR MULTI-ENTITY MOTION IN VIDEO GENERATION** (30 Mar 2025)<details><summary>Xiao Fu, Xian Liu, Xintao Wang, et al.</summary>Sida Peng, Menghan Xia, Xiaoyu Shi, Ziyang Yuan, Pengfei Wan, Di Zhang, Dahua Lin</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07759)
 
 + **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers** (30 Mar 2025)<details><summary>Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, et al.</summary>Aliaksandr Siarohin, Willi Menapace, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.18673)
-[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/snap-research/ac3d)
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.18673)
+  [![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/snap-research/ac3d)
 
 + **CameraCtrl: Enabling Camera Control for Text-to-Video Generation** (30 Mar 2025)<details><summary>Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.02101)
@@ -460,7 +460,7 @@
 
 + **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** (30 Mar 2025)<details><summary>Wangbo Yu, Jinbo Xing, Li Yuan, et al.</summary>Wenbo Hu, Xiaoyu Li, Zhipeng Huang, Xiangjun Gao, Tien-Tsin Wong, Ying Shan, Yonghong Tian</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048)
-[![Code](https://img.shields.io/github/stars/Drexubery/ViewCrafter.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter)
 
 + **EgoSim: Egocentric Exploration in Virtual Worlds with Multi-modal Conditioning** (30 Mar 2025)<details><summary>Wei Yu, Songheng Yin, Steve Easterbrook, Animesh Garg</summary></details>
 [![Paper](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/pdf?id=hN5h0hrQ6a)
