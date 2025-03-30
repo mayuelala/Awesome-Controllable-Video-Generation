@@ -520,25 +520,25 @@
 
 + **Motionbooth: Motion-aware customized text-to-video generation** <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17758)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/jianzongwu/MotionBooth)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/jianzongwu/MotionBooth)
 
 + **Motion Prompting: Controlling Video Generation with Motion Trajectories** <details><summary>Daniel Geng, Charles Herrmann, Junhwa Hur, Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02700)
 
 + **Video Motion Transfer with Diffusion Transformers** <details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07776)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/ditflow/ditflow)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/ditflow/ditflow)
 
 + **MOTION INVERSION FOR VIDEO CUSTOMIZATION** <details><summary>Luozhou Wang, Ziyang Mai, Guibao Shen, Yixun Liang, Xin Tao, Pengfei Wan, Di Zhang, Yijun Li, Yingcong Chen</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2403.20193)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/EnVision-Research/MotionInversion)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/EnVision-Research/MotionInversion)
 
 + **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer** <details><summary>Danah Yatim, Rafail Fridman, Omer Bar-Tal, Yoni Kasten, Tali Dekel</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2311.17009)
 
 + **Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** <details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2403.15249)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer)
 
 + **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** <details><summary>Xiaomin Li, Xu Jia, Qinghe Wang</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01343)
@@ -554,27 +554,27 @@
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.07563)
 + **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance(输入为motion视频)** (no specific date provided)<details><summary>Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/fudan-generative-vision/champ)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
 + **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion(可以single motion vedios和multiple vedios)** (no specific date provided)<details><summary>Yujie Wei, Shiwei Zhang, Zhiwu Qing, Hangjie Yuan, Zhiheng Liu, Yu Liu, Yingya Zhang, Jingren Zhou, Hongming Shan</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04433)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/ali-vilab/VGen)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
 + **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (no specific date provided)<details><summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.05020)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/chen-yingjie/Perception-as-Control)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
 + **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models (hand mask sequence as control signal)** (no specific date provided)<details><summary>Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fern´andez Abrevaya</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.11785)
 + **LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds** (no specific date provided)<details><summary>Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://lingtengqiu.github.io/LHM/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/aigc3d/LHM)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/aigc3d/LHM)
 + **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** (no specific date provided)<details><summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.16421v1)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/quanhaol/MagicMotion)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/quanhaol/MagicMotion)
 + **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control** (no specific date provided)<details><summary>Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://igl-hkust.github.io/das/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/IGL-HKUST/DiffusionAsShader)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader)
 + **Zero-Shot Controllable Image-to-Video Animation via Motion Decomposition** (no specific date provided)<details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.07776)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/Yui010206/IVA-0) 
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/Yui010206/IVA-0) 
 
 ### 📝 Advanced Text-Conditioned
 
@@ -1425,19 +1425,19 @@ Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://generative-video-camera-controls.github.io/)
 + **Reangle-A-Video: 4D Video Generation as Video-to-Video Translation** <details><summary>Hyeonho Jeong, Suhyeon Lee, Jong Chul Ye</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyeonho99.github.io/reangle-a-video/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/HyeonHo99/Reangle-Video)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/HyeonHo99/Reangle-Video)
 + **Redirecting Camera Trajectory for Monocular Videos via Diffusion Models** (25 Mar 2025)<details><summary>Mark YU, Wenbo Hu, Jinbo Xing, et al.</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05638)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://trajectorycrafter.github.io/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/TrajectoryCrafter/TrajectoryCrafter)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/TrajectoryCrafter/TrajectoryCrafter)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
 + **AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers** <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Guocheng Qian, et al.</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/ac3d/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/snap-research/ac3d)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/snap-research/ac3d)
 + **MotionDirector: Motion Customization of Text-to-Video Diffusion Models** <details><summary>Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, et al.</summary></details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/MotionDirector/)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://github.com/showlab/MotionDirector)
-[![Code](https://img.shields.io/badge/Code-000000.svg)](https://huggingface.co/spaces/ruizhaocv/MotionDirector) 
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/showlab/MotionDirector)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://huggingface.co/spaces/ruizhaocv/MotionDirector) 
 
 ### 🖼️ + 🌊 Image + Flow
 
