@@ -414,6 +414,80 @@
 
 #### 🎨 Style Control
 
++ **StyleMaster: Stylize Your Video with Artistic Generation and Translation** (10 Dec 2024)
+   <details><summary>Zixuan Ye, Huijuan Huang, Xintao Wang, et al.</summary>  
+        Pengfei Wan, Di Zhang, Wenhan Luo </details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07744)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/StyleMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/StyleMaster.git)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=0b0847aeb0eca4a26f838b0969b35c26ff8d8cc2)](https://www.semanticscholar.org/paper/0b0847aeb0eca4a26f838b0969b35c26ff8d8cc2)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://laulampaul.github.io/text-animator)
++ **UniVST: A Unified Framework for Training-free Localized Video Style Transfer** (26 Oct 2024)
+   <details><summary>Quanjian Song, Mingbao Lin, Wengyi Zhan, et al.</summary>
+        Shuicheng Yan, Liujuan Cao, Rongrong Ji</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.20084)
+[![Code](https://img.shields.io/github/stars/QuanjianSong/UniVST.svg?style=social&label=Star)](https://github.com/QuanjianSong/UniVST)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=fcc87eec6543d4e33a2cd679b705292af9020cb4)](https://www.semanticscholar.org/paper/fcc87eec6543d4e33a2cd679b705292af9020cb4)
++ **Coherent online video style transfer** (27 Mar 2017)
+   <details><summary>Dongdong Chen, Jing Liao, Lu Yuan, et al.</summary>
+      Nenghai Yu, Gang Hua</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1703.09211)
+[![citation](https://img.shields.io/badge/citation-335-blue.svg?paper=2d5b4144124f47a6357e6390dc6c0f8806ac54f5)](https://www.semanticscholar.org/paper/2d5b4144124f47a6357e6390dc6c0f8806ac54f5)
++ **Arbitrary video style transfer via multi-channel correlation** (17 Sep 2020)
+   <details><summary>Yingying Deng, Fan Tang, Weiming Dong, et al.</summary>
+        Yingying Deng, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Changsheng Xu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2009.08003)
+[![Code](https://img.shields.io/github/stars/diyiiyiii/MCCNet.svg?style=social&label=Star)](https://github.com/diyiiyiii/MCCNet)
+[![citation](https://img.shields.io/badge/citation-170-blue.svg?paper=6c6aa5974edccd33117bdd1f6d2a8b6b3d0b44da)](https://www.semanticscholar.org/paper/6c6aa5974edccd33117bdd1f6d2a8b6b3d0b44da)
++ **Fast video multi-style transfer** (2020)
+   <details><summary>Wei Gao, Yijun Li, et al.</summary>
+        Yihang Yin, Ming-Hsuan Yang</details>
+[![Paper](https://img.shields.io/badge/WACV-4b7bec.svg)](https://openaccess.thecvf.com/content_WACV_2020/papers/Gao_Fast_Video_Multi-Style_Transfer_WACV_2020_paper.pdf)
+[![Code](https://img.shields.io/github/stars/gaow0007/Fast-Multi-Video-Style-Transfer.svg?style=social&label=Star)](https://github.com/gaow0007/Fast-Multi-Video-Style-Transfer.git)
+[![citation](https://img.shields.io/badge/citation-69-blue.svg?paper=0da4bd286cac8a8aa8577867ff87cab279ca964f)](https://www.semanticscholar.org/paper/0da4bd286cac8a8aa8577867ff87cab279ca964f)
++ **Real-time neural style transfer for videos** (2017)
+   <details><summary>Haozhi Huang, Hao Wang, Wenhan Luo, et al.</summary>
+        Lin Ma, Wenhao Jiang, Xiaolong Zhu, Zhifeng Li, Wei Liu </details>
+[![Paper](https://img.shields.io/badge/CVPR-4b7bec.svg)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
+[![citation](https://img.shields.io/badge/citation-286-blue.svg?paper=6d05778f51fb0138a4ba46a6f007702a9a93654c)](https://www.semanticscholar.org/paper/6d05778f51fb0138a4ba46a6f007702a9a93654c)
++ **StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** (1 Dec 2023)
+   <details><summary>Gongye Liu, Menghan Xia, Yong Zhang, et al.</summary>
+        Haoxin Chen, Jinbo Xing, Yibo Wang, Xintao Wang, Yujiu Yang, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00330)
+[![Code](https://img.shields.io/github/stars/GongyeLiu/StyleCrafter.svg?style=social&label=Star)](https://github.com/GongyeLiu/StyleCrafter.git)
+[![citation](https://img.shields.io/badge/citation-19-blue.svg?paper=b013c9eb1284554ae696fba02bd4d7fc599890b6)](https://www.semanticscholar.org/paper/b013c9eb1284554ae696fba02bd4d7fc599890b6)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://gongyeliu.github.io/StyleCrafter.github.io/)
++ **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** (13 Jun 2023)
+   <details><summary>Shuai Yang, Yifan Zhou, Ziwei Liu, et al.</summary>
+         Chen Change Loy</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07954)
+[![Code](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)](https://github.com/williamyang1991/Rerender_A_Video.git)
+[![citation](https://img.shields.io/badge/citation-184-blue.svg?paper=1e09b83fe064826a9a1ac61a7bdc00f26be41aee)](https://www.semanticscholar.org/paper/1e09b83fe064826a9a1ac61a7bdc00f26be41aee)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/rerender/)
++ **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** (19 Mar 2024)
+   <details><summary>Shuai Yang, Yifan Zhou, Ziwei Liu, et al.</summary>
+         Chen Change Loy</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12962)
+[![Code](https://img.shields.io/github/stars/williamyang1991/FRESCO.svg?style=social&label=Star)](https://github.com/williamyang1991/FRESCO.git)
+[![citation](https://img.shields.io/badge/citation-22-blue.svg?paper=2900738d1d9a51726b6baae203d100e379f74418)](https://www.semanticscholar.org/paper/2900738d1d9a51726b6baae203d100e379f74418)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/fresco/)
++ **StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces** (21 Jul 2023)
+   <details><summary>Shuai Yang, Liming Jiang, Ziwei Liu, et al.</summary>
+        Chen Change Loy</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.06146)
+[![Code](https://img.shields.io/github/stars/williamyang1991/StyleGANEX.svg?style=social&label=Star)](https://github.com/williamyang1991/StyleGANEX.git)
+[![citation](https://img.shields.io/badge/citation-22-blue.svg?paper=06aa2aa2a29f25437545478e7361744aa35a0419)](https://www.semanticscholar.org/paper/06aa2aa2a29f25437545478e7361744aa35a0419)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/styleganex/)
++ **VToonify: Controllable High-Resolution Portrait Video Style Transfer** (22 Sep 2022)
+   <details><summary>Shuai Yang, Liming Jiang, Ziwei Liu, et al.</summary>
+        Chen Change Loy</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.11224)
+[![Code](https://img.shields.io/github/stars/williamyang1991/VToonify.svg?style=social&label=Star)](https://github.com/williamyang1991/VToonify.git)
+[![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=866e09b1b9fcca7371346fd225479485a2bae20b)](https://www.semanticscholar.org/paper/866e09b1b9fcca7371346fd225479485a2bae20b) 
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/vtoonify/)
+
+
+
+
 #### 📌 Point Control
 
 #### 📏 Depth Control
