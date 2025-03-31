@@ -522,9 +522,62 @@
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wkbian.github.io/Projects/GS-DiT/)
 
 
-
-
 #### 📏 Depth Control
++ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (1 Jun 2023)
+   <details><summary>Jinbo Xing, Menghan Xia, Yuxin Liu, et al.</summary>
+        Yuechen Zhang, Yong Zhang, Yingqing He, Hanyuan Liu, Haoxin Chen, Xiaodong Cun, Xintao Wang, Ying Shan, Tien-Tsin Wong</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/Make-Your-Video.svg?style=social&label=Star)](https://github.com/AILab-CVC/Make-Your-Video.git)
+[![citation](https://img.shields.io/badge/citation-69-blue.svg?paper=52b10ae66d025e99fbb602935e155f97f4f0696f)](https://www.semanticscholar.org/paper/52b10ae66d025e99fbb602935e155f97f4f0696f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/Make-Your-Video/)
++ **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** (28 Nov 2023)
+   <details><summary>Yuwei Guo, Ceyuan Yang, Anyi Rao, et al.</summary>
+        Maneesh Agrawala, Dahua Lin, Bo Dai</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16933)
+[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff.git)
+[![citation](https://img.shields.io/badge/citation-97-blue.svg?paper=40626a059bcd8d3e7f364b410f831b9baf997b0c)](https://www.semanticscholar.org/paper/40626a059bcd8d3e7f364b410f831b9baf997b0c)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guoyww.github.io/projects/SparseCtrl/)
++ **ControlNeXt: Powerful and Efficient Control for Image and Video Generation** (12 Aug 2024)
+   <details><summary>Bohao Peng, Jian Wang, Yuechen Zhang, et al.</summary>
+        Wenbo Li, Ming-Chang Yang, Jiaya Jia</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
+[![Code](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt.git)
+[![citation](https://img.shields.io/badge/citation-45-blue.svg?paper=e4ec4dea3e6f26e69f39a96d00d228070f4bde60)](https://www.semanticscholar.org/paper/e4ec4dea3e6f26e69f39a96d00d228070f4bde60)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pbihao.github.io/projects/controlnext/index.html)
++ **GD-VDM: Generated Depth for better Diffusion-based Video Generation** (19 Jun 2023)
+   <details><summary>Ariel Lapid, Idan Achituve, Lior Bracha, et al.</summary>
+        Ethan Fetaya</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11173)
+[![Code](https://img.shields.io/github/stars/lapid92/GD-VDM.svg?style=social&label=Star)](https://github.com/lapid92/GD-VDM.git)
+[![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=da771b92882d87f97dead9c5705d67ae0c717916)](https://www.semanticscholar.org/paper/da771b92882d87f97dead9c5705d67ae0c717916)
++ **Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning** (23 May 2023)
+   <details><summary>Weifeng Chen, Yatai Ji, Jie Wu, et al.</summary>
+        Hefeng Wu, Pan Xie, Jiashi Li, Xin Xia, Xuefeng Xiao, Liang Lin</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13840)
+[![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Star)](https://github.com/Weifeng-Chen/control-a-video.git)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=7f37a93af316e16245498337bb160ee08e82346f)](https://www.semanticscholar.org/paper/7f37a93af316e16245498337bb160ee08e82346f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlavideo.github.io/)
++ **ControlVideo: Training-free Controllable Text-to-Video Generation** (22 May 2023)
+   <details><summary>Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, et al.</summary>
+      Xiaopeng Zhang, Wangmeng Zuo, Qi Tian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13077)
+[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Star)](https://github.com/YBYBZhang/ControlVideo.git)
+[![citation](https://img.shields.io/badge/citation-249-blue.svg?paper=529191401a8a5f0a8bdb2a1c01301d76af585a3a)](https://www.semanticscholar.org/paper/529191401a8a5f0a8bdb2a1c01301d76af585a3a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlvideov1.github.io/)
++ **MoonShot: Towards Controllable Video Generation and Editing with Multimodal Conditions** (3 Jan 2024)
+   <details><summary>David Junhao Zhang, Dongxu Li, Hung Le, et al.</summary>
+      Mike Zheng Shou, Caiming Xiong, Doyen Sahoo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01827)
+[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS.git)
+[![citation](https://img.shields.io/badge/citation-37-blue.svg?paper=9be8950710e375cf47a002e9b4094b04814bde62)](https://www.semanticscholar.org/paper/9be8950710e375cf47a002e9b4094b04814bde62)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/Moonshot/)
++ **8. Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance** (21 Mar 2024)
+   <details><summary>Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, et al.</summary>
+      Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+[![Code](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ.git)
+[![citation](https://img.shields.io/badge/citation-89-blue.svg?paper=ec41ad3a2a538da7eda1a7b0979d6904ade17d82)](https://www.semanticscholar.org/paper/ec41ad3a2a538da7eda1a7b0979d6904ade17d82)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fudan-generative-vision.github.io/champ/#/)
 
 #### 🗺️ Landmark Control
 
