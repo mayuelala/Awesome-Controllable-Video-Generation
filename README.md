@@ -1464,6 +1464,14 @@ Mohit Bansal</details>
 
 ### 🛤️ + 📸 Traj + Camera
 
++ **MotionCtrl** (no specific date provided)<details><summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang</summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.03641) [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wzhouxiff.github.io/projects/MotionCtrl/)   [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/TencentARC/MotionCtrl)
++ **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (no specific date provided)<details><summary>Yingjie Chen, Yifang Men, Yuan Yao</summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.05020)
+[![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
++ **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (no specific date provided)<details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou</summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.07531) 
+
 ### 🖼️ + 🔊 Image + Audio
 
 + **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** (27 Feb 2024)<details><summary>Linrui Tian, Qi Wang, Bang Zhang, et al.</summary>
