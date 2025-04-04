@@ -417,22 +417,17 @@ Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang 
 [![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Star)](https://github.com/cure-lab/MagicDrive)
 [![Project](https://img.shields.io/badge/Project-111111.svg)](http://gaoruiyuan.com/magicdrive/)
 
-+ **Seeing Beyond Views: Multi-View Driving Scene Video Generation with   Holistic Attention** (04 Dec 2024)<details><summary>Hannan Lu, Xiaohe Wu, Shudong Wang, et al.</summary>
-Hannan Lu, Xiaohe Wu, Shudong Wang, Xiameng Qin, Xinyu Zhang, Junyu Han, Wangmeng Zuo, Ji Tao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03520)
-[![Project](https://img.shields.io/badge/Project-111111.svg)](https://luhannan.github.io/CogDrivingPage/)
++ **Panacea: Panoramic and Controllable Video Generation for Autonomous   Driving** (28 Nov 2023)<details><summary>Yuqing Wen, Yucheng Zhao, Yingfei Liu, et al.</summary>
+Yuqing Wen, Yucheng Zhao, Yingfei Liu, Fan Jia, Yanhui Wang, Chong Luo, Chi Zhang, Tiancai Wang, Xiaoyan Sun, Xiangyu Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16813)
+[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Star)](https://github.com/wenyuqing/panacea)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](https://panacea-ad.github.io)
 
 + **DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video   Generation** (11 Mar 2024)<details><summary>Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, et al.</summary>
 Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, Xinze Chen, Guan Huang, Xiaoyi Bao, Xingang Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.06845)
 [![Code](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2.svg?style=social&label=Star)](https://github.com/f1yfisher/DriveDreamer2)
 [![Project](https://img.shields.io/badge/Project-111111.svg)](https://drivedreamer2.github.io)
-
-+ **MagicDrive-V2: High-Resolution Long Video Generation for Autonomous   Driving with Adaptive Control** (21 Nov 2024)<details><summary>Ruiyuan Gao, Kai Chen, Bo Xiao, et al.</summary>
-Ruiyuan Gao, Kai Chen, Bo Xiao, Lanqing Hong, Zhenguo Li, Qiang Xu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13807)
-[![Code](https://img.shields.io/github/stars/flymin/MagicDrive-V2.svg?style=social&label=Star)](https://github.com/flymin/MagicDrive-V2)
-[![Project](https://img.shields.io/badge/Project-111111.svg)](http://gaoruiyuan.com/magicdrive-v2/)
 
 + **Unleashing Generalization of End-to-End Autonomous Driving with   Controllable Long Video Generation** (03 Jun 2024)<details><summary>Enhui Ma, Lijun Zhou, Tao Tang, et al.</summary>
 Enhui Ma, Lijun Zhou, Tao Tang, Zhan Zhang, Dong Han, Junpeng Jiang, Kun Zhan, Peng Jia, Xianpeng Lang, Haiyang Sun, Di Lin, Kaicheng Yu</details>
@@ -452,11 +447,16 @@ Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, Yu Yang, Tiantian Wei, Yukai Ma
 [![Code](https://img.shields.io/github/stars/PJLab-ADG/DriveArena.svg?style=social&label=Star)](https://github.com/PJLab-ADG/DriveArena)
 [![Project](https://img.shields.io/badge/Project-111111.svg)](https://pjlab-adg.github.io/DriveArena/dreamforge/)
 
-+ **Panacea: Panoramic and Controllable Video Generation for Autonomous   Driving** (28 Nov 2023)<details><summary>Yuqing Wen, Yucheng Zhao, Yingfei Liu, et al.</summary>
-Yuqing Wen, Yucheng Zhao, Yingfei Liu, Fan Jia, Yanhui Wang, Chong Luo, Chi Zhang, Tiancai Wang, Xiaoyan Sun, Xiangyu Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16813)
-[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Star)](https://github.com/wenyuqing/panacea)
-[![Project](https://img.shields.io/badge/Project-111111.svg)](https://panacea-ad.github.io)
++ **MagicDrive-V2: High-Resolution Long Video Generation for Autonomous   Driving with Adaptive Control** (21 Nov 2024)<details><summary>Ruiyuan Gao, Kai Chen, Bo Xiao, et al.</summary>
+Ruiyuan Gao, Kai Chen, Bo Xiao, Lanqing Hong, Zhenguo Li, Qiang Xu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13807)
+[![Code](https://img.shields.io/github/stars/flymin/MagicDrive-V2.svg?style=social&label=Star)](https://github.com/flymin/MagicDrive-V2)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](http://gaoruiyuan.com/magicdrive-v2/)
+
++ **Seeing Beyond Views: Multi-View Driving Scene Video Generation with   Holistic Attention** (04 Dec 2024)<details><summary>Hannan Lu, Xiaohe Wu, Shudong Wang, et al.</summary>
+Hannan Lu, Xiaohe Wu, Shudong Wang, Xiameng Qin, Xinyu Zhang, Junyu Han, Wangmeng Zuo, Ji Tao</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03520)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](https://luhannan.github.io/CogDrivingPage/)
 
 #### 🎨 Style Control
 
@@ -1217,26 +1217,30 @@ Luoxu Jin, Hiroshi Watanabe</details>
 Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
 [![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
+
 ### 🎵 Audio/Music-Guided
 + **(AAAI 24) Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation** (28 Sep 2023)<details><summary>Guy Yariv, Itai Gat, Sagie Benaim, et al.</summary>
 Guy Yariv, Itai Gat, Sagie Benaim, Lior Wolf, Idan Schwartz, Yossi Adi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16429)
 [![Code](https://img.shields.io/github/stars/guyyariv/TempoTokens.svg?style=social&label=Star)](https://github.com/guyyariv/TempoTokens)
-
-+ **(ECCV 24) MOFA-Video: Controllable Image Animation via Generative Motion Field   Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
-Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
-
-+ **(ECCV 24) Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
-Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado </details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05659)
-[![Code](https://img.shields.io/github/stars/lzhangbj/ASVA.svg?style=social&label=Star)](https://github.com/lzhangbj/ASVA)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/)
 
 + **(TMM) Ta2v: Text-audio guided video generation** (01 Jan 2024) <details><summary>Minglu Zhao, Wenmin Wang, Tongbao Chen, et al.</summary>
 Minglu Zhao, Wenmin Wang, Tongbao Chen, Rui Zhang, Ruochen Li </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1109/TMM.2024.3362149)
 [![Code](https://img.shields.io/github/stars/Minglu58/TA2V.svg?style=social&label=Star)](https://github.com/Minglu58/TA2V)
+
++ **(ECCV 24) Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
+Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado </details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05659)
+[![Code](https://img.shields.io/github/stars/lzhangbj/ASVA.svg?style=social&label=Star)](https://github.com/lzhangbj/ASVA)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](https://lzhangbj.github.io/projects/asva/asva.html)
+
++ **(ECCV 24) MOFA-Video: Controllable Image Animation via Generative Motion Field   Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
+Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
+[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
+[![Project](https://img.shields.io/badge/Project-111111.svg)](https://myniuuu.github.io/MOFA_Video/)
 
 ### 🗂️ Layout Control
 + **DrivingDiffusion: Layout-Guided multi-view driving scene video   generation with latent diffusion model** (11 Oct 2023)<details><summary>Xiaofan Li, Yifu Zhang, Xiaoqing Ye</summary>
