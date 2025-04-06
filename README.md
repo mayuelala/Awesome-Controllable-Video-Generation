@@ -539,6 +539,18 @@ Hannan Lu, Xiaohe Wu, Shudong Wang, Xiameng Qin, Xinyu Zhang, Junyu Han, Wangmen
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Star)](https://github.com/IGL-HKUST/DiffusionAsShader.git)
 [![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=db6df95b051f02c28926f448faf0046f18ebc454)](https://www.semanticscholar.org/paper/db6df95b051f02c28926f448faf0046f18ebc454)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://igl-hkust.github.io/das/)
++ **GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking** (5 Jan 2025)
+   <details><summary>Weikang Bian, Zhaoyang Huang, Xiaoyu Shi, et al.</summary>
+        Yijin Li, Fu-Yun Wang, Hongsheng Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.02690)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=00166f6852bc348570bf65e27a23407bd789ab37)](https://www.semanticscholar.org/paper/00166f6852bc348570bf65e27a23407bd789ab37)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wkbian.github.io/Projects/GS-DiT/)
++ **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** (8 Dec 2024)
+   <details><summary>[CVPR 2025] Hyeonho Jeong, Chun-Hao Paul Huang, et al.</summary> 
+       Jong Chul Ye, Niloy Mitra, Duygu Ceylan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
+[![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=e1fabe62210b24456b558f0864faa4b35b056f98)](https://www.semanticscholar.org/paper/e1fabe62210b24456b558f0864faa4b35b056f98)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyeonho99.github.io/track4gen/)
 + **Drag-A-Video: Non-rigid Video Editing with Point-based Interaction** (5 Dec 2023)
    <details><summary>Yao Teng, Enze Xie, Yue Wu, Haoyu Han, et al.</summary> 
        Zhenguo Li, Xihui Liu</details>
@@ -546,25 +558,14 @@ Hannan Lu, Xiaohe Wu, Shudong Wang, Xiameng Qin, Xinyu Zhang, Junyu Han, Wangmen
 [![Code](https://img.shields.io/github/stars/tyshiwo1/drag-a-video.svg?style=social&label=Star)](https://github.com/tyshiwo1/drag-a-video.git)
 [![citation](https://img.shields.io/badge/citation-14-blue.svg?paper=58dfc9cfc39787322a74cc93c22c9d3028aa9ad7)](https://www.semanticscholar.org/paper/58dfc9cfc39787322a74cc93c22c9d3028aa9ad7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://drag-a-video.github.io/)
-+ **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** (8 Dec 2024)
-   <details><summary>Hyeonho Jeong, Chun-Hao Paul Huang, et al.</summary> 
-       Jong Chul Ye, Niloy Mitra, Duygu Ceylan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
-[![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=e1fabe62210b24456b558f0864faa4b35b056f98)](https://www.semanticscholar.org/paper/e1fabe62210b24456b558f0864faa4b35b056f98)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyeonho99.github.io/track4gen/)
 + **Point-to-Point Video Generation** (5 Apr 2019)
-   <details><summary>Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, et al.</summary> 
+   <details><summary>[ICCV 2019] Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, et al.</summary> 
       Hwann-Tzong Chen, Min Sun </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
 [![Code](https://img.shields.io/github/stars/yccyenchicheng/p2pvg.svg?style=social&label=Star)](https://github.com/yccyenchicheng/p2pvg.git)
 [![citation](https://img.shields.io/badge/citation-30-blue.svg?paper=cb0a151cf8740c66b461ff809e086b91f14bd23b)](https://www.semanticscholar.org/paper/cb0a151cf8740c66b461ff809e086b91f14bd23b)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zswang666.github.io/P2PVG-Project-Page/)
-+ **GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking** (5 Jan 2025)
-   <details><summary>Weikang Bian, Zhaoyang Huang, Xiaoyu Shi, et al.</summary>
-        Yijin Li, Fu-Yun Wang, Hongsheng Li</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.02690)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=00166f6852bc348570bf65e27a23407bd789ab37)](https://www.semanticscholar.org/paper/00166f6852bc348570bf65e27a23407bd789ab37)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wkbian.github.io/Projects/GS-DiT/)
+
 
 
 #### 📏 Depth Control
