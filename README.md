@@ -1735,17 +1735,19 @@ Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Yi
 
 ### 🛤️ + 📸 Traj + Camera
 
++ **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (2 Apr 2025)<details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07531) 
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sixiaozheng.github.io/VidCRAFT3/)
++ **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (10 Mar 2025)<details><summary>Yingjie Chen, Yifang Men, Yuan Yao, et al.</summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05020)
+[![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
+[![code](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
 + **MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**（16 Jul 2024）<details><summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, et al.</summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03641) 
 [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wzhouxiff.github.io/projects/MotionCtrl/)   
 [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/TencentARC/MotionCtrl)
-+ **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (10 Mar 2025 )<details><summary>Yingjie Chen, Yifang Men, Yuan Yao, et al.</summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05020)
-[![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
-[![code](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)
-+ **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (2 Apr 2025)<details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07531) 
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sixiaozheng.github.io/VidCRAFT3/)
+
+
 
 
 
