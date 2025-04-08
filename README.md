@@ -904,29 +904,116 @@ Yuming Li, Chenguang Ma</details>
 ### 🔄 In-Context
 
 ### 🖼️ Image-guided
-+ **Autoregressive Video Generation without Vector Quantization** (9 Jan 2025)<details><summary>[ICLR 2025] Haoge Deng, Ting Pan, Haiwen Diao, et al.</summary>Zhengxiong Luo, Yufeng Cui, Huchuan Lu, Shiguang Shan, Yonggang Qi, Xinlong Wang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14169)
-[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=735b7f4f91bcc5e9712df7f419eade672b1d3968)](https://www.semanticscholar.org/paper/735b7f4f91bcc5e9712df7f419eade672b1d3968)
-[![Code](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/BAAI/nova-d48w1024-osp480)
 
-+ **I4VGen: Image as Free Stepping Stone for Text-to-Video Generation** (3 Oct 2024)<details><summary>Xiefan Guo, Jinlin Liu, Miaomiao Cui, et al.</summary>Liefeng Bo, Di Huang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02230)
-[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=74b41f1723263a8a2f2999a0cdffb57b79b1e97e)](https://www.semanticscholar.org/paper/74b41f1723263a8a2f2999a0cdffb57b79b1e97e)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiefan-guo.github.io/i4vgen/)
-[![Code](https://img.shields.io/github/stars/xiefan-guo/i4vgen.svg?style=social&label=Star)](https://github.com/xiefan-guo/i4vgen)
++ **Make It Move: Controllable Image-to-Video Generation With Text Descriptions** (31 Mar 2022)<details><summary>[CVPR 2022] Yaosi Hu, Chong Luo, Zhenzhong Chen</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.html)
+[![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=e829046a7f9a65e3bbe937ce4ce4649a0f78f0e7)](https://www.semanticscholar.org/paper/e829046a7f9a65e3bbe937ce4ce4649a0f78f0e7)
+[![Code](https://img.shields.io/github/stars/Youncy-Hu/MAGE.svg?style=social&label=Star)](https://github.com/Youncy-Hu/MAGE)
 
-+ **DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance** (16 Sep 2024)<details><summary>[ICASSP 2025] Cong Wang, Jiaxi Gu, Panwen Hu, et al.</summary>Songcen Xu, Hang Xu, Xiaodan Liang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10887583)
-[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=a30883a9408914732f816933f0a5f1f3980fd5c8)](https://www.semanticscholar.org/paper/a30883a9408914732f816933f0a5f1f3980fd5c8)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anonymous0769.github.io/DreamVideo/)
-[![Code](https://img.shields.io/github/stars/anonymous0769/DreamVideo.svg?style=social&label=Star)](https://github.com/anonymous0769/DreamVideo)
++ **Prompt Image to Life: Training-Free Text-Driven Image-to-Video Generation** (2023)<details><summary>Jinxiu Liu, Yuan Yao, Bingwen Zhu, et al.</summary>Fanyi Wang, Weijian Luo, Jingwen Su,
+Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.cs.rochester.edu/u/yyao39/files/PiLife.pdf)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ed1dfe38b52c0c1cdd8b20f860520858f28ed9a6)](https://www.semanticscholar.org/paper/ed1dfe38b52c0c1cdd8b20f860520858f28ed9a6)
 
-+ **HunyuanVideo: A Systematic Framework For Large Video Generative Models** (11 Mar 2025)<details><summary>Weijie Kong, Qi Tian, Zijian Zhang, et al.</summary>Rox Min, Zuozhuo Dai, Jin Zhou, Jiangfeng Xiong, Xin Li, Bo Wu, Jianwei Zhang, Kathrina Wu, Qin Lin, Junkun Yuan, Yanxin Long, Aladdin Wang, Andong Wang, Changlin Li, Duojun Huang, Fang Yang, Hao Tan, Hongmei Wang, Jacob Song, Jiawang Bai, Jianbing Wu, Jinbao Xue, Joey Wang, Kai Wang, Mengyang Liu, Pengyu Li, Shuai Li, Weiyan Wang, Wenqing Yu, Xinchi Deng, Yang Li, Yi Chen, Yutao Cui, Yuanbo Peng, Zhentao Yu, Zhiyu He, Zhiyong Xu, Zixiang Zhou, Zunnan Xu, Yangyu Tao, Qinglin Lu, Songtao Liu, Dax Zhou, Hongfa Wang, Yong Yang, Di Wang, Yuhong Liu, Jie Jiang, Caesar Zhong</details></details>
-[![Paper](https://img.shields.io/badge/Technical%20Report-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
-[![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=1fa298e3f745099d39ca5bd088fcb62f87e8cc2f)](https://www.semanticscholar.org/paper/1fa298e3f745099d39ca5bd088fcb62f87e8cc2f)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aivideo.hunyuan.tencent.com/)
-[![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo-I2V.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo-I2V)
++ **LaMD: Latent Motion Diffusion for Video Generation** (23 Apr 2023)<details><summary>Yaosi Hu, Zhenzhong Chen, Chong Luo</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)
+[![citation](https://img.shields.io/badge/citation-16-blue.svg?paper=e1d5c8ee59031f19ea9979d05f6e92295a540f88)](https://www.semanticscholar.org/paper/e1d5c8ee59031f19ea9979d05f6e92295a540f88)
+
++ **VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases** (26 July 2023)<details><summary>[ACM Transactions on Graphics] Emilie Yu, Kevin Blackburn-Matzen, Cuong Nguyen, et al.</summary>Oliver Wang, Rubaiat Habib Kazi, Adrien Bousseau</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3592413)
+[![citation](https://img.shields.io/badge/citation-12-blue.svg?paper=ffd1f7b6bc38579b5e4a02d1cde64bdda030dce5)](https://www.semanticscholar.org/paper/ffd1f7b6bc38579b5e4a02d1cde64bdda030dce5)
+
+
+
++ **Synthesizing Videos from Images for Image-to-Video Adaptation** (27 Oct 2023)<details><summary>[ACM MM 2023] Junbao Zhuo, Xingyu Zhao, Shuhui Wang, et al.</summary>Huimin Ma, Qingming Huang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3581783.3611897)
+[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=b26d4c0b127e4a3e81b94cad4b2c8ecb0dda1bd9)](https://www.semanticscholar.org/paper/b26d4c0b127e4a3e81b94cad4b2c8ecb0dda1bd9)
+[![Code](https://img.shields.io/github/stars/junbaoZHUO/ST-I2V.svg?style=social&label=Star)](https://github.com/junbaoZHUO/ST-I2V)
+
++ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (30 Oct 2023)<details><summary>Haoxin Chen, Menghan Xia, Yingqing He, et al.</summary>Yong Zhang, Xiaodong Cun, Shaoshu Yang, Jinbo Xing, Yaofang Liu, Qifeng Chen, Xintao Wang, Chao Weng, Ying Shan</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
+[![citation](https://img.shields.io/badge/citation-244-blue.svg?paper=1891c3756f870d902a0b793a1dcd5cc34c778612)](https://www.semanticscholar.org/paper/1891c3756f870d902a0b793a1dcd5cc34c778612)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter2/)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
+
+
++ **I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models** (7 Nov 2023)<details><summary>Shiwei Zhang, Jiayu Wang, Yingya Zhang, et al.</summary>Kang Zhao, Hangjie Yuan, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04145)
+[![citation](https://img.shields.io/badge/citation-168-blue.svg?paper=9b86ce1bde87b304141641b49299f4d0f1f7ba1d)](https://www.semanticscholar.org/paper/9b86ce1bde87b304141641b49299f4d0f1f7ba1d)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://i2vgen-xl.github.io/)
+[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
+
++ **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** (25 Nov 2023)<details><summary>Andreas Blattmann, Tim Dockhorn, Sumith Kulal, et al.</summary>Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, Vikram Voleti, Adam Letts, Varun Jampani, Robin Rombach</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15127)
+[![citation](https://img.shields.io/badge/citation-878-blue.svg?paper=1206b05eae5a06ba662ae79fb291b50e359c4f42)](https://www.semanticscholar.org/paper/1206b05eae5a06ba662ae79fb291b50e359c4f42)
+[![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
+
++ **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance** (4 Dec 2023)<details><summary>[TMLR 2024] Zuozhuo Dai, Zhenghao Zhang, Yao Yao, et al.</summary>Bingxue Qiu, Siyu Zhu, Long Qin, Weizhi Wang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12886)
+[![citation](https://img.shields.io/badge/citation-40-blue.svg?paper=ff1715c4a33a58cc8069b86be8b99e760134eb78)](https://www.semanticscholar.org/paper/ff1715c4a33a58cc8069b86be8b99e760134eb78)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://animationai.github.io/AnimateAnything/)
+[![Code](https://img.shields.io/github/stars/alibaba/animate-anything.svg?style=social&label=Star)](https://github.com/alibaba/animate-anything)
+
++ **Decouple Content and Motion for Conditional Image-to-Video Generation** (14 Dec 2023)<details><summary>[AAAI 2024] Cuifeng Shen, Yulu Gan, Chen Chen, et al.</summary>Xiongwei Zhu, Lele Cheng, Tingting Gao, Jinzhi Wang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=8e37c6d2442ece49a80e63b65bcc4e9c0b49d580)](https://www.semanticscholar.org/paper/8e37c6d2442ece49a80e63b65bcc4e9c0b49d580)
+
++ **UniVG: Towards UNIfied-modal Video Generation** (17 Jan 2024)<details><summary>Ludan Ruan, Lei Tian, Chuanwei Huang, et al.</summary>Xu Zhang, Xinyan Xiao</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084)
+[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=147ceee32c1e33f332ac7b2dcabf397788a01d1a)](https://www.semanticscholar.org/paper/147ceee32c1e33f332ac7b2dcabf397788a01d1a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://univg-baidu.github.io/)
+
++ **Motion-i2v: Consistent and controllable image-to-video generation with explicit motion modeling** (31 Jan 2024)<details><summary>[ACM SIGGRAPH 2024] Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, et al.</summary>Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3641519.3657497)
+[![citation](https://img.shields.io/badge/citation-61-blue.svg?paper=450011c7e089675b25dad11cd7611c310a7a8e9b)](https://www.semanticscholar.org/paper/450011c7e089675b25dad11cd7611c310a7a8e9b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiaoyushi97.github.io/Motion-I2V/)
+
++ **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation** (5 Mar 2024)<details><summary>Weijie Li, Litong Gong, Yiran Zhu, et al.</summary>Fanda Fan, Biao Wang, Tiezheng Ge, Bo Zheng</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02827)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=cf0a5c9eeaf52d02661c8a52c2ccc12d7fb58b15)](https://www.semanticscholar.org/paper/cf0a5c9eeaf52d02661c8a52c2ccc12d7fb58b15)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://noise-rectification.github.io/)
+[![Code](https://img.shields.io/github/stars/alimama-creative/Noise-Rectification.svg?style=social&label=Star)](https://github.com/alimama-creative/Noise-Rectification)
+
++ **AtomoVideo: High Fidelity Image-to-Video Generation** (5 Mar 2024)<details><summary>Litong Gong, Yiran Zhu, Weijie Li, et al.</summary>Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800)
+[![citation](https://img.shields.io/badge/citation-11-blue.svg?paper=1f2dfc535180bf6806b13086fe4f25d622483ada)](https://www.semanticscholar.org/paper/1f2dfc535180bf6806b13086fe4f25d622483ada)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://atomo-video.github.io/)
+
+
++ **Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts** (13 Mar 2024)<details><summary>Yue Ma, Yingqing He, Hongfa Wang, et al.</summary>Andong Wang, Chenyang Qi, Chengfei Cai, Xiu Li, Zhifeng Li, Heung-Yeung Shum, Wei Liu, Qifeng Chen</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08268)
+[![citation](https://img.shields.io/badge/citation-31-blue.svg?paper=d9c20c449a51910ef2d107668d962b4a2e182f52)](https://www.semanticscholar.org/paper/d9c20c449a51910ef2d107668d962b4a2e182f52)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-click.github.io/)
+[![Code](https://img.shields.io/github/stars/mayuelala/FollowYourClick.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourClick)
+
++ **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** (25 Mar 2024)<details><summary>[CVPR 2024] Zhongwei Zhang, Fuchen Long, Yingwei Pan, et al.</summary>Zhaofan Qiu, Ting Yao, Yang Cao, Tao Mei</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_TRIP_Temporal_Residual_Learning_with_Image_Noise_Prior_for_Image-to-Video_CVPR_2024_paper.html)
+[![citation](https://img.shields.io/badge/citation-17-blue.svg?paper=c87c910063dfaba7b5abcf49989a6e9ae1d9d7ce)](https://www.semanticscholar.org/paper/c87c910063dfaba7b5abcf49989a6e9ae1d9d7ce)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://trip-i2v.github.io/TRIP/)
+
+
++ **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** (25 Apr 2024)<details><summary>[CVPR 2024] Haomiao Ni, Bernhard Egger, Suhas Lohit, et al.</summary>Anoop Cherian, Ye Wang, Toshiaki Koike-Akino, Sharon X. Huang, Tim K. Marks</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16306)
+[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=5cbe42a201e2d1a90ac83dadc78afec6a3d20fec)](https://www.semanticscholar.org/paper/5cbe42a201e2d1a90ac83dadc78afec6a3d20fec)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.merl.com/demos/TI2V-Zero)
+[![Code](https://img.shields.io/github/stars/merlresearch/TI2V-Zero.svg?style=social&label=Star)](https://github.com/merlresearch/TI2V-Zero)
+
+
+
+
++ **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction** (10 Jun 2024)<details><summary>Zhen Xing, Qi Dai, Zejia Weng, et al.</summary>Zuxuan Wu, Yu-Gang Jiang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06465)
+[![citation](https://img.shields.io/badge/citation-10-blue.svg?paper=d657de11802239a58a77f486a0c6861e89d4da50)](https://www.semanticscholar.org/paper/d657de11802239a58a77f486a0c6861e89d4da50)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenhsing.github.io/AID/)
+[![Code](https://img.shields.io/github/stars/ChenHsing/AID.svg?style=social&label=Star)](https://github.com/ChenHsing/AID)
+
++ **OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation** (13 Jun 2024)<details><summary>[NeurIPS 2024] Junke Wang, Yi Jiang, Zehuan Yuan, et al.</summary>Binyue Peng, Zuxuan Wu, Yu-Gang Jiang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
+[![citation](https://img.shields.io/badge/citation-27-blue.svg?paper=8613c1081a6ab34e2f980e35c06a1af461d7314e)](https://www.semanticscholar.org/paper/8613c1081a6ab34e2f980e35c06a1af461d7314e)
+[![Code](https://img.shields.io/github/stars/FoundationVision/OmniTokenizer.svg?style=social&label=Star)](https://github.com/FoundationVision/OmniTokenizer)
+
+
 
 + **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation** (1 Jul 2024)<details><summary>[TMLR 2024] Weiming Ren, Huan Yang, Ge Zhang, et al.</summary>Cong Wei, Xinrun Du, Wenhao Huang, Wenhu Chen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04324)
@@ -935,32 +1022,46 @@ Yuming Li, Chenguang Ma</details>
 [![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/ConsistI2V.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/ConsistI2V)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/TIGER-Lab/ConsistI2V)
 
-+ **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance** (4 Dec 2023)<details><summary>[TMLR 2024] Zuozhuo Dai, Zhenghao Zhang, Yao Yao, et al.</summary>Bingxue Qiu, Siyu Zhu, Long Qin, Weizhi Wang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12886)
-[![citation](https://img.shields.io/badge/citation-40-blue.svg?paper=ff1715c4a33a58cc8069b86be8b99e760134eb78)](https://www.semanticscholar.org/paper/ff1715c4a33a58cc8069b86be8b99e760134eb78)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://animationai.github.io/AnimateAnything/)
-[![Code](https://img.shields.io/github/stars/alibaba/animate-anything.svg?style=social&label=Star)](https://github.com/alibaba/animate-anything)
++ **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (5 Jul 2024)<details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
+[![citation](https://img.shields.io/badge/citation-26-blue.svg?paper=40122a222374504fda4997ef6204dcdcee1678da)](https://www.semanticscholar.org/paper/40122a222374504fda4997ef6204dcdcee1678da)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://easyanimate.github.io/)
+[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alibaba-pai/EasyAnimate)
 
-+ **Make It Move: Controllable Image-to-Video Generation With Text Descriptions** (31 Mar 2022)<details><summary>[CVPR 2022] Yaosi Hu, Chong Luo, Zhenzhong Chen</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.html)
-[![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=e829046a7f9a65e3bbe937ce4ce4649a0f78f0e7)](https://www.semanticscholar.org/paper/e829046a7f9a65e3bbe937ce4ce4649a0f78f0e7)
-[![Code](https://img.shields.io/github/stars/Youncy-Hu/MAGE.svg?style=social&label=Star)](https://github.com/Youncy-Hu/MAGE)
++ **I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models** (13 July 2024)<details><summary>[ACM SIGGRAPH 2024] Xun Guo1, Mingwu Zheng, Liang Hou, et al.</summary>Yuan Gao, Yufan Deng, Pengfei Wan,
+Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3641519.3657407)
+[![citation](https://img.shields.io/badge/citation-21-blue.svg?paper=9512a9bbef95560c719a746676611bfcded428a1)](https://www.semanticscholar.org/paper/9512a9bbef95560c719a746676611bfcded428a1)
+
++ **MoVideo: Motion-Aware Video Generation with Diffusion Model** (29 Jul 2024)<details><summary>[ECCV 2024] Jingyun Liang, Yuchen Fan, Kai Zhang, et al.</summary>Radu Timofte, Luc Van Gool, Rakesh Ranjan</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325)
+[![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=b57a0f46b4b5148b8bdd3cc2969d4ed43333bda0)](https://www.semanticscholar.org/paper/b57a0f46b4b5148b8bdd3cc2969d4ed43333bda0)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyunliang.github.io/MoVideo/)
+
++ **Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning** (2 Aug 2024)<details><summary>[ECCV 2024] Rohit Girdhar, Mannat Singh, Andrew Brown, et al.</summary>Quentin Duval, Samaneh Azadi, Sai Saketh Rambhatla, Akbar Shah, Xi Yin, Devi Parikh, Ishan Misra</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.10709)
+[![citation](https://img.shields.io/badge/citation-179-blue.svg?paper=85b10400864187230714506412c85610c786b5c3)](https://www.semanticscholar.org/paper/85b10400864187230714506412c85610c786b5c3)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://emu-video.metademolab.com/)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://emu-video.metademolab.com/#/demo)
+
++ **DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance** (16 Sep 2024)<details><summary>[ICASSP 2025] Cong Wang, Jiaxi Gu, Panwen Hu, et al.</summary>Songcen Xu, Hang Xu, Xiaodan Liang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10887583)
+[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=a30883a9408914732f816933f0a5f1f3980fd5c8)](https://www.semanticscholar.org/paper/a30883a9408914732f816933f0a5f1f3980fd5c8)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anonymous0769.github.io/DreamVideo/)
+[![Code](https://img.shields.io/github/stars/anonymous0769/DreamVideo.svg?style=social&label=Star)](https://github.com/anonymous0769/DreamVideo)
+
+
++ **Structure and Content-Guided Video Synthesis with Diffusion Models** (27 Sep 2024)<details><summary>[ICCV 2023] Patrick Esser, Johnathan Chiu, Parmida Atighehchian, et al.</summary>Jonathan Granskog, Anastasis Germanidis</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.html)
+[![citation](https://img.shields.io/badge/citation-459-blue.svg?paper=07be0ec1f45e21a1032616535d0290ee6bfe0f6b)](https://www.semanticscholar.org/paper/07be0ec1f45e21a1032616535d0290ee6bfe0f6b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://runwayml.com/research/gen-1)
 
 + **PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation** (27 Sep 2024)<details><summary>[ECCV 2024] Shaowei Liu, Zhongzheng Ren, Saurabh Gupta, et al.</summary>Shenlong Wang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18964)
 [![citation](https://img.shields.io/badge/citation-19-blue.svg?paper=3c314149c36871bace898f3dcff03fb21de0ba64)](https://www.semanticscholar.org/paper/3c314149c36871bace898f3dcff03fb21de0ba64)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://stevenlsw.github.io/physgen/)
 [![Code](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Star)](https://github.com/stevenlsw/physgen)
-
-+ **Motion-i2v: Consistent and controllable image-to-video generation with explicit motion modeling** (31 Jan 2024)<details><summary>[ACM SIGGRAPH 2024] Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, et al.</summary>Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3641519.3657497)
-[![citation](https://img.shields.io/badge/citation-61-blue.svg?paper=450011c7e089675b25dad11cd7611c310a7a8e9b)](https://www.semanticscholar.org/paper/450011c7e089675b25dad11cd7611c310a7a8e9b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiaoyushi97.github.io/Motion-I2V/)
-
-+ **I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models** (13 July 2024)<details><summary>[ACM SIGGRAPH 2024] Xun Guo1, Mingwu Zheng, Liang Hou, et al.</summary>Yuan Gao, Yufan Deng, Pengfei Wan,
-Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3641519.3657407)
-[![citation](https://img.shields.io/badge/citation-21-blue.svg?paper=9512a9bbef95560c719a746676611bfcded428a1)](https://www.semanticscholar.org/paper/9512a9bbef95560c719a746676611bfcded428a1)
 
 + **DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors** (1 Oct 2024)<details><summary>[ECCV 2024] Jinbo Xing, Menghan Xia, Yong Zhang,  et al.</summary>Haoxin Chen, Wangbo Yu, Hanyuan Liu, Gongye Liu, Xintao Wang, Ying Shan, Tien-Tsin Wong</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/chapter/10.1007/978-3-031-72952-2_23)
@@ -969,20 +1070,12 @@ Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</detai
 [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Star)](https://github.com/Doubiiu/DynamiCrafter)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Doubiiu/DynamiCrafter)
 
-+ **VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases** (26 July 2023)<details><summary>[ACM Transactions on Graphics] Emilie Yu, Kevin Blackburn-Matzen, Cuong Nguyen, et al.</summary>Oliver Wang, Rubaiat Habib Kazi, Adrien Bousseau</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3592413)
-[![citation](https://img.shields.io/badge/citation-12-blue.svg?paper=ffd1f7b6bc38579b5e4a02d1cde64bdda030dce5)](https://www.semanticscholar.org/paper/ffd1f7b6bc38579b5e4a02d1cde64bdda030dce5)
++ **I4VGen: Image as Free Stepping Stone for Text-to-Video Generation** (3 Oct 2024)<details><summary>Xiefan Guo, Jinlin Liu, Miaomiao Cui, et al.</summary>Liefeng Bo, Di Huang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02230)
+[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=74b41f1723263a8a2f2999a0cdffb57b79b1e97e)](https://www.semanticscholar.org/paper/74b41f1723263a8a2f2999a0cdffb57b79b1e97e)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiefan-guo.github.io/i4vgen/)
+[![Code](https://img.shields.io/github/stars/xiefan-guo/i4vgen.svg?style=social&label=Star)](https://github.com/xiefan-guo/i4vgen)
 
-+ **Structure and Content-Guided Video Synthesis with Diffusion Models** (27 Sep 2024)<details><summary>[ICCV 2023] Patrick Esser, Johnathan Chiu, Parmida Atighehchian, et al.</summary>Jonathan Granskog, Anastasis Germanidis</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.html)
-[![citation](https://img.shields.io/badge/citation-459-blue.svg?paper=07be0ec1f45e21a1032616535d0290ee6bfe0f6b)](https://www.semanticscholar.org/paper/07be0ec1f45e21a1032616535d0290ee6bfe0f6b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://runwayml.com/research/gen-1)
-
-+ **Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts** (13 Mar 2024)<details><summary>Yue Ma, Yingqing He, Hongfa Wang, et al.</summary>Andong Wang, Chenyang Qi, Chengfei Cai, Xiu Li, Zhifeng Li, Heung-Yeung Shum, Wei Liu, Qifeng Chen</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.08268)
-[![citation](https://img.shields.io/badge/citation-31-blue.svg?paper=d9c20c449a51910ef2d107668d962b4a2e182f52)](https://www.semanticscholar.org/paper/d9c20c449a51910ef2d107668d962b4a2e182f52)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-click.github.io/)
-[![Code](https://img.shields.io/github/stars/mayuelala/FollowYourClick.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourClick)
 
 
 + **FrameBridge: Improving Image-to-Video Generation with Bridge Models** (20 Oct 2024)<details><summary>Yuji Wang, Zehua Chen, Xiaoyu Chen, et al.</summary>Jun Zhu, Jianfei Chen</details></details>
@@ -990,16 +1083,23 @@ Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</detai
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=355544f41ff0f28234c3f5190a7ce75d74dd8f61)](https://www.semanticscholar.org/paper/355544f41ff0f28234c3f5190a7ce75d74dd8f61)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://framebridge-demo.github.io/)
 
-+ **I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models** (7 Nov 2023)<details><summary>Shiwei Zhang, Jiayu Wang, Yingya Zhang, et al.</summary>Kang Zhao, Hangjie Yuan, Zhiwu Qin, Xiang Wang, Deli Zhao, Jingren Zhou</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04145)
-[![citation](https://img.shields.io/badge/citation-168-blue.svg?paper=9b86ce1bde87b304141641b49299f4d0f1f7ba1d)](https://www.semanticscholar.org/paper/9b86ce1bde87b304141641b49299f4d0f1f7ba1d)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://i2vgen-xl.github.io/)
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
 
-+ **Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think** (2 Mar 2025)<details><summary>[CVPR 2025] Jie Tian, Xiaoye Qu, Zhenyi Lu, et al.</summary>Wei Wei, Sichen Liu, Yu Cheng</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00948)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=7ab6ed3edb7d781a34f2c8a67aa974903b1f9f4f)](https://www.semanticscholar.org/paper/7ab6ed3edb7d781a34f2c8a67aa974903b1f9f4f)
-[![Code](https://img.shields.io/github/stars/Chuge0335/EDG.svg?style=social&label=Star)](https://github.com/Chuge0335/EDG)
++ **Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** (6 Nov 2024)<details><summary>[NeurIPS 2024] Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</summary>Kaiwen Zheng, Chongxuan Li, Jun Zhu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15735)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=ebf4f746d24d79d61c070f8c354b3371f461aafb)](https://www.semanticscholar.org/paper/ebf4f746d24d79d61c070f8c354b3371f461aafb)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cond-image-leak.github.io/)
+[![Code](https://img.shields.io/github/stars/thu-ml/cond-image-leakage.svg?style=social&label=Star)](https://github.com/thu-ml/cond-image-leakage)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Xiang-cd/DynamiCrafter-CIL)
+
+
++ **Lumiere: A Space-Time Diffusion Model for Video Generation** (3 Dec 2024)<details><summary>[SIGGRAPH Asia 2024] Omer Bar-Tal, Hila Chefer, Omer Tov, et al.</summary>Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/full/10.1145/3680528.3687614)
+[![citation](https://img.shields.io/badge/citation-189-blue.svg?paper=94f7d8bce3bb848d127c8f113afc5bb0243579df)](https://www.semanticscholar.org/paper/94f7d8bce3bb848d127c8f113afc5bb0243579df)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lumiere-video.github.io/)
+
++ **MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** (8 Dec 2024)<details><summary>Shuwei Shi, Biao Gong, Xi Chen, et al.</summary>Dandan Zheng, Shuai Tan, Zizheng Yang, Yuyuan Li, Jingwen He, Kecheng Zheng, Jingdong Chen, Ming Yang, Yinqiang Zheng</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05848)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=d66fa35283319bacc82cbbde80b7cc710bd4cb38)](https://www.semanticscholar.org/paper/d66fa35283319bacc82cbbde80b7cc710bd4cb38)
 
 + **STIV: Scalable Text and Image Conditioned Video Generation** (10 Dec 2024)<details><summary>Zongyu Lin, Wei Liu, Chen Chen, et al.</summary>Jiasen Lu, Wenze Hu, Tsu-Jui Fu, Jesse Allardice, Zhengfeng Lai, Liangchen Song, Bowen Zhang, Cha Chen, Yiran Fei, Yifan Jiang, Lezhi Li, Yizhou Sun, Kai-Wei Chang, Yinfei Yang</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07730)
@@ -1010,47 +1110,11 @@ Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</detai
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=44eac98880108aef441ee8ca0c0edac9a8d53b67)](https://www.semanticscholar.org/paper/44eac98880108aef441ee8ca0c0edac9a8d53b67)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guyyariv.github.io/TTM/)
 
-+ **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation** (5 Mar 2024)<details><summary>Weijie Li, Litong Gong, Yiran Zhu, et al.</summary>Fanda Fan, Biao Wang, Tiezheng Ge, Bo Zheng</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02827)
-[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=cf0a5c9eeaf52d02661c8a52c2ccc12d7fb58b15)](https://www.semanticscholar.org/paper/cf0a5c9eeaf52d02661c8a52c2ccc12d7fb58b15)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://noise-rectification.github.io/)
-[![Code](https://img.shields.io/github/stars/alimama-creative/Noise-Rectification.svg?style=social&label=Star)](https://github.com/alimama-creative/Noise-Rectification)
-
-+ **Decouple Content and Motion for Conditional Image-to-Video Generation** (14 Dec 2023)<details><summary>[AAAI 2024] Cuifeng Shen, Yulu Gan, Chen Chen, et al.</summary>Xiongwei Zhu, Lele Cheng, Tingting Gao, Jinzhi Wang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294)
-[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=8e37c6d2442ece49a80e63b65bcc4e9c0b49d580)](https://www.semanticscholar.org/paper/8e37c6d2442ece49a80e63b65bcc4e9c0b49d580)
-
-+ **MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** (8 Dec 2024)<details><summary>Shuwei Shi, Biao Gong, Xi Chen, et al.</summary>Dandan Zheng, Shuai Tan, Zizheng Yang, Yuyuan Li, Jingwen He, Kecheng Zheng, Jingdong Chen, Ming Yang, Yinqiang Zheng</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05848)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=d66fa35283319bacc82cbbde80b7cc710bd4cb38)](https://www.semanticscholar.org/paper/d66fa35283319bacc82cbbde80b7cc710bd4cb38)
-
-
-+ **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction** (10 Jun 2024)<details><summary>Zhen Xing, Qi Dai, Zejia Weng, et al.</summary>Zuxuan Wu, Yu-Gang Jiang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06465)
-[![citation](https://img.shields.io/badge/citation-10-blue.svg?paper=d657de11802239a58a77f486a0c6861e89d4da50)](https://www.semanticscholar.org/paper/d657de11802239a58a77f486a0c6861e89d4da50)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenhsing.github.io/AID/)
-[![Code](https://img.shields.io/github/stars/ChenHsing/AID.svg?style=social&label=Star)](https://github.com/ChenHsing/AID)
-
-+ **LaMD: Latent Motion Diffusion for Video Generation** (23 Apr 2023)<details><summary>Yaosi Hu, Zhenzhong Chen, Chong Luo</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)
-[![citation](https://img.shields.io/badge/citation-16-blue.svg?paper=e1d5c8ee59031f19ea9979d05f6e92295a540f88)](https://www.semanticscholar.org/paper/e1d5c8ee59031f19ea9979d05f6e92295a540f88)
-
-+ **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (5 Jul 2024)<details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
-[![citation](https://img.shields.io/badge/citation-26-blue.svg?paper=40122a222374504fda4997ef6204dcdcee1678da)](https://www.semanticscholar.org/paper/40122a222374504fda4997ef6204dcdcee1678da)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://easyanimate.github.io/)
-[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/alibaba-pai/EasyAnimate)
-
-+ **AtomoVideo: High Fidelity Image-to-Video Generation** (5 Mar 2024)<details><summary>Litong Gong, Yiran Zhu, Weijie Li, et al.</summary>Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800)
-[![citation](https://img.shields.io/badge/citation-11-blue.svg?paper=1f2dfc535180bf6806b13086fe4f25d622483ada)](https://www.semanticscholar.org/paper/1f2dfc535180bf6806b13086fe4f25d622483ada)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://atomo-video.github.io/)
-
-+ **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** (25 Mar 2024)<details><summary>[CVPR 2024] Zhongwei Zhang, Fuchen Long, Yingwei Pan, et al.</summary>Zhaofan Qiu, Ting Yao, Yang Cao, Tao Mei</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_TRIP_Temporal_Residual_Learning_with_Image_Noise_Prior_for_Image-to-Video_CVPR_2024_paper.html)
-[![citation](https://img.shields.io/badge/citation-17-blue.svg?paper=c87c910063dfaba7b5abcf49989a6e9ae1d9d7ce)](https://www.semanticscholar.org/paper/c87c910063dfaba7b5abcf49989a6e9ae1d9d7ce)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://trip-i2v.github.io/TRIP/)
++ **Autoregressive Video Generation without Vector Quantization** (9 Jan 2025)<details><summary>[ICLR 2025] Haoge Deng, Ting Pan, Haiwen Diao, et al.</summary>Zhengxiong Luo, Yufeng Cui, Huchuan Lu, Shiguang Shan, Yonggang Qi, Xinlong Wang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14169)
+[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=735b7f4f91bcc5e9712df7f419eade672b1d3968)](https://www.semanticscholar.org/paper/735b7f4f91bcc5e9712df7f419eade672b1d3968)
+[![Code](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/BAAI/nova-d48w1024-osp480)
 
 
 + **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation** (12 Feb 2025)<details><summary>[ICLR 2025] Xiaojuan Wang, Boyang Zhou, Brian Curless, et al.</summary>Ira Kemelmacher-Shlizerman, Aleksander Holynski, Steven M. Seitz</details></details>
@@ -1060,153 +1124,28 @@ Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</detai
 [![Code](https://img.shields.io/github/stars/jeanne-wang/svd_keyframe_interpolation.svg?style=social&label=Star)](https://github.com/jeanne-wang/svd_keyframe_interpolation)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/fffiloni/svd_keyframe_interpolation)
 
-+ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (30 Oct 2023)<details><summary>Haoxin Chen, Menghan Xia, Yingqing He, et al.</summary>Yong Zhang, Xiaodong Cun, Shaoshu Yang, Jinbo Xing, Yaofang Liu, Qifeng Chen, Xintao Wang, Chao Weng, Ying Shan</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
-[![citation](https://img.shields.io/badge/citation-244-blue.svg?paper=1891c3756f870d902a0b793a1dcd5cc34c778612)](https://www.semanticscholar.org/paper/1891c3756f870d902a0b793a1dcd5cc34c778612)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/videocrafter2/)
-[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/VideoCrafter/VideoCrafter)
 
-+ **Lumiere: A Space-Time Diffusion Model for Video Generation** (3 Dec 2024)<details><summary>[SIGGRAPH Asia 2024] Omer Bar-Tal, Hila Chefer, Omer Tov, et al.</summary>Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/full/10.1145/3680528.3687614)
-[![citation](https://img.shields.io/badge/citation-189-blue.svg?paper=94f7d8bce3bb848d127c8f113afc5bb0243579df)](https://www.semanticscholar.org/paper/94f7d8bce3bb848d127c8f113afc5bb0243579df)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lumiere-video.github.io/)
-
-+ **Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** (6 Nov 2024)<details><summary>[NeurIPS 2024] Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</summary>Kaiwen Zheng, Chongxuan Li, Jun Zhu</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15735)
-[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=ebf4f746d24d79d61c070f8c354b3371f461aafb)](https://www.semanticscholar.org/paper/ebf4f746d24d79d61c070f8c354b3371f461aafb)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cond-image-leak.github.io/)
-[![Code](https://img.shields.io/github/stars/thu-ml/cond-image-leakage.svg?style=social&label=Star)](https://github.com/thu-ml/cond-image-leakage)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Xiang-cd/DynamiCrafter-CIL)
-
-+ **MoVideo: Motion-Aware Video Generation with Diffusion Model** (29 Jul 2024)<details><summary>[ECCV 2024] Jingyun Liang, Yuchen Fan, Kai Zhang, et al.</summary>Radu Timofte, Luc Van Gool, Rakesh Ranjan</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325)
-[![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=b57a0f46b4b5148b8bdd3cc2969d4ed43333bda0)](https://www.semanticscholar.org/paper/b57a0f46b4b5148b8bdd3cc2969d4ed43333bda0)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyunliang.github.io/MoVideo/)
-
-+ **Synthesizing Videos from Images for Image-to-Video Adaptation** (27 Oct 2023)<details><summary>[ACM MM 2023] Junbao Zhuo, Xingyu Zhao, Shuhui Wang, et al.</summary>Huimin Ma, Qingming Huang</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3581783.3611897)
-[![citation](https://img.shields.io/badge/citation-4-blue.svg?paper=b26d4c0b127e4a3e81b94cad4b2c8ecb0dda1bd9)](https://www.semanticscholar.org/paper/b26d4c0b127e4a3e81b94cad4b2c8ecb0dda1bd9)
-[![Code](https://img.shields.io/github/stars/junbaoZHUO/ST-I2V.svg?style=social&label=Star)](https://github.com/junbaoZHUO/ST-I2V)
-
-+ **Prompt Image to Life: Training-Free Text-Driven Image-to-Video Generation** (2023)<details><summary>Jinxiu Liu, Yuan Yao, Bingwen Zhu, et al.</summary>Fanyi Wang, Weijian Luo, Jingwen Su,
-Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.cs.rochester.edu/u/yyao39/files/PiLife.pdf)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=ed1dfe38b52c0c1cdd8b20f860520858f28ed9a6)](https://www.semanticscholar.org/paper/ed1dfe38b52c0c1cdd8b20f860520858f28ed9a6)
-
-+ **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** (25 Apr 2024)<details><summary>[CVPR 2024] Haomiao Ni, Bernhard Egger, Suhas Lohit, et al.</summary>Anoop Cherian, Ye Wang, Toshiaki Koike-Akino, Sharon X. Huang, Tim K. Marks</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16306)
-[![citation](https://img.shields.io/badge/citation-9-blue.svg?paper=5cbe42a201e2d1a90ac83dadc78afec6a3d20fec)](https://www.semanticscholar.org/paper/5cbe42a201e2d1a90ac83dadc78afec6a3d20fec)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.merl.com/demos/TI2V-Zero)
-[![Code](https://img.shields.io/github/stars/merlresearch/TI2V-Zero.svg?style=social&label=Star)](https://github.com/merlresearch/TI2V-Zero)
-
-
-+ **UniVG: Towards UNIfied-modal Video Generation** (17 Jan 2024)<details><summary>Ludan Ruan, Lei Tian, Chuanwei Huang, et al.</summary>Xu Zhang, Xinyan Xiao</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084)
-[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=147ceee32c1e33f332ac7b2dcabf397788a01d1a)](https://www.semanticscholar.org/paper/147ceee32c1e33f332ac7b2dcabf397788a01d1a)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://univg-baidu.github.io/)
 
 + **Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation** (17 Feb 2025)<details><summary>Luoxu Jin, Hiroshi Watanabe</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17042)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=25fc7b5cdfaf5ecca730115671788dbde95c96c4)](https://www.semanticscholar.org/paper/25fc7b5cdfaf5ecca730115671788dbde95c96c4)
 
 
-+ **STIV: Scalable Text and Image Conditioned Video Generation** (10 Dec 2024) <details><summary>Zongyu Lin, Wei Liu, Chen Chen, et al.</summary>
-Zongyu Lin, Wei Liu, Chen Chen, Jiasen Lu, Wenze Hu, Tsu-Jui Fu, Jesse Allardice, Zhengfeng Lai, Liangchen Song, Bowen Zhang, Cha Chen, Yiran Fei, Yifan Jiang, Lezhi Li, Yizhou Sun, Kai-Wei Chang, Yinfei Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07730)
++ **Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think** (2 Mar 2025)<details><summary>[CVPR 2025] Jie Tian, Xiaoye Qu, Zhenyi Lu, et al.</summary>Wei Wei, Sichen Liu, Yu Cheng</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.00948)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=7ab6ed3edb7d781a34f2c8a67aa974903b1f9f4f)](https://www.semanticscholar.org/paper/7ab6ed3edb7d781a34f2c8a67aa974903b1f9f4f)
+[![Code](https://img.shields.io/github/stars/Chuge0335/EDG.svg?style=social&label=Star)](https://github.com/Chuge0335/EDG)
 
-+ **Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation** (6 Jan 2025) <details><summary>Guy Yariv, Yuval Kirstain, Amit Zohar, et al.</summary>
-Guy Yariv, Yuval Kirstain, Amit Zohar, Shelly Sheynin, Yaniv Taigman, Yossi Adi, Sagie Benaim, Adam Polyak</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03059)
++ **HunyuanVideo: A Systematic Framework For Large Video Generative Models** (11 Mar 2025)<details><summary>Weijie Kong, Qi Tian, Zijian Zhang, et al.</summary>Rox Min, Zuozhuo Dai, Jin Zhou, Jiangfeng Xiong, Xin Li, Bo Wu, Jianwei Zhang, Kathrina Wu, Qin Lin, Junkun Yuan, Yanxin Long, Aladdin Wang, Andong Wang, Changlin Li, Duojun Huang, Fang Yang, Hao Tan, Hongmei Wang, Jacob Song, Jiawang Bai, Jianbing Wu, Jinbao Xue, Joey Wang, Kai Wang, Mengyang Liu, Pengyu Li, Shuai Li, Weiyan Wang, Wenqing Yu, Xinchi Deng, Yang Li, Yi Chen, Yutao Cui, Yuanbo Peng, Zhentao Yu, Zhiyu He, Zhiyong Xu, Zixiang Zhou, Zunnan Xu, Yangyu Tao, Qinglin Lu, Songtao Liu, Dax Zhou, Hongfa Wang, Yong Yang, Di Wang, Yuhong Liu, Jie Jiang, Caesar Zhong</details></details>
+[![Paper](https://img.shields.io/badge/Technical%20Report-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
+[![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=1fa298e3f745099d39ca5bd088fcb62f87e8cc2f)](https://www.semanticscholar.org/paper/1fa298e3f745099d39ca5bd088fcb62f87e8cc2f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aivideo.hunyuan.tencent.com/)
+[![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo-I2V.svg?style=social&label=Star)](https://github.com/Tencent/HunyuanVideo-I2V)
 
-+ **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation** (5 Mar 2024) <details><summary>Weijie Li, Litong Gong, Yiran Zhu, et al.</summary>
-Weijie Li, Litong Gong, Yiran Zhu, Fanda Fan, Biao Wang, Tiezheng Ge, Bo Zheng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02827)
 
-+ **Decouple Content and Motion for Conditional Image-to-Video Generation** (24 Nov 2023) <details><summary>Cuifeng Shen, Yulu Gan, Chen Chen, et al.</summary>
-Cuifeng Shen, Yulu Gan, Chen Chen, Xiongwei Zhu, Lele Cheng, Tingting Gao, Jinzhi Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14294)
 
-+ **MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** (8 Dec 2024) <details><summary>Shuwei Shi, Biao Gong, Xi Chen, et al.</summary>
-Shuwei Shi, Biao Gong, Xi Chen, Dandan Zheng, Shuai Tan, Zizheng Yang, Yuyuan Li, Jingwen He, Kecheng Zheng, Jingdong Chen, Ming Yang, Yinqiang Zheng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05848)
 
-+ **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** (6 Feb 2025) <details><summary>Jinbo Xing, Long Mai, Cusuh Ham, et al.</summary>
-Jinbo Xing, Long Mai, Cusuh Ham, Jiahui Huang, Aniruddha Mahapatra, Chi-Wing Fu, Tien-Tsin Wong, Feng Liu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04299)
 
-+ **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction** (10 Jun 2024) <details><summary>Zhen Xing, Qi Dai, Zejia Weng, et al.</summary>
-Zhen Xing, Qi Dai, Zejia Weng, Zuxuan Wu, Yu-Gang Jiang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06465)
-
-+ **LaMD: Latent Motion Diffusion for Video Generation** (23 Apr 2023) <details><summary>Yaosi Hu, Zhenzhong Chen, Chong Luo</summary>
-Yaosi Hu, Zhenzhong Chen, Chong Luo</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)
-
-+ **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** (7 Nov 2024) <details><summary>Koichi Namekata, Sherwin Bahmani, Ziyi Wu, et al.</summary>
-Koichi Namekata, Sherwin Bahmani, Ziyi Wu, Yash Kant, Igor Gilitschenski, David B. Lindell</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04033)
-[![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Star)](https://github.com/Kmcode1/SG-I2V)
-
-+ **EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture** (29 May 2024) <details><summary>Jiaqi Xu, Xinyi Zou, Kunzhe Huang, et al.</summary>
-Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
-[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
-
-+ **AtomoVideo: High Fidelity Image-to-Video Generation** (4 Mar 2024) <details><summary>Litong Gong, Yiran Zhu, Weijie Li, et al.</summary>
-Litong Gong, Yiran Zhu, Weijie Li, Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.01800)
-
-+ **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** (25 Mar 2024) <details><summary>Zhongwei Zhang, Fuchen Long, Yingwei Pan, et al.</summary>
-Zhongwei Zhang, Fuchen Long, Yingwei Pan, Zhaofan Qiu, Ting Yao, Yang Cao, Tao Mei</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17005)
-
-+ **CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers** (21 May 2024) <details><summary>Andrew Marmon, Grant Schindler, José Lezama, et al.</summary>
-Andrew Marmon, Grant Schindler, José Lezama, Dan Kondratyuk, Bryan Seybold, Irfan Essa</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.13195)
-
-+ **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation** (27 Aug 2024) <details><summary>Xiaojuan Wang, Boyang Zhou, Brian Curless, et al.</summary>
-Xiaojuan Wang, Boyang Zhou, Brian Curless, Ira Kemelmacher-Shlizerman, Aleksander Holynski, Steven M. Seitz</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.15239)
-[![Code](https://img.shields.io/github/stars/jeanne-wang/svd_keyframe_interpolation.svg?style=social&label=Star)](https://github.com/jeanne-wang/svd_keyframe_interpolation)
-
-+ **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** (30 Oct 2023) <details><summary>Haoxin Chen, Menghan Xia, Yingqing He, et al.</summary>
-Haoxin Chen, Menghan Xia, Yingqing He, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Jinbo Xing, Yaofang Liu, Qifeng Chen, Xintao Wang, Chao Weng, Ying Shan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.19512)
-[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/VideoCrafter)
-
-+ **Lumiere: A Space-Time Diffusion Model for Video Generation** (23 Jan 2024) <details><summary>Omer Bar-Tal, Hila Chefer, Omer Tov, et al.</summary>
-Omer Bar-Tal, Hila Chefer, Omer Tov, Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Guanghui Liu, Amit Raj, Yuanzhen Li, Michael Rubinstein, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12945)
-
-+ **Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** (22 Jun 2024) <details><summary>Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</summary>
-Min Zhao, Hongzhou Zhu, Chendong Xiang, et al.</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12533)
-[![Code](https://img.shields.io/github/stars/thu-ml/cond-image-leakage.svg?style=social&label=Star)](https://github.com/thu-ml/cond-image-leakage)
-
-+ **MoVideo: Motion-Aware Video Generation with Diffusion Models** (19 Nov 2023) <details><summary>Jingyun Liang, Yuchen Fan, Kai Zhang, et al.</summary>
-Jingyun Liang, Yuchen Fan, Kai Zhang, Radu Timofte, Luc Van Gool, Rakesh Ranjan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11325)
-
-+ **Synthesizing Videos from Images for Image-to-Video Adaptation** (27 Oct 2023) <details><summary>Junbao Zhuo, Xingyu Zhao, Shuhui Wang, et al.</summary>
-Junbao Zhuo, Xingyu Zhao, Shuhui Wang, Huimin Ma, Qingming Huang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3581783.3611897)
-
-+ **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** (25 Apr 2024) <details><summary>Haomiao Ni, Bernhard Egger, Suhas Lohit, et al.</summary>
-Haomiao Ni, Bernhard Egger, Suhas Lohit, Anoop Cherian, Ye Wang, Toshiaki Koike-Akino, Sharon X. Huang, Tim K. Marks</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16306)
-
-+ **Ultrasound Image-to-Video Synthesis via Latent Dynamic Diffusion Models** (19 Mar 2025) <details><summary>Tingxiu Chen, Yilei Shi, Zixuan Zheng, et al.</summary>
-Tingxiu Chen, Yilei Shi, Zixuan Zheng, Bingcong Yan, Jingliang Hu, Xiao Xiang Zhu, Lichao Mou</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14966)
-
-+ **UniVG: Towards UNIfied-modal Video Generation** (17 Jan 2024) <details><summary>Ludan Ruan, Lei Tian, Chuanwei Huang, et al.</summary>
-Ludan Ruan, Lei Tian, Chuanwei Huang, Xu Zhang, Xinyan Xiao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09084)
-
-+ **Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation** (22 Dec 2024) <details><summary>Luoxu Jin, Hiroshi Watanabe</summary>
-Luoxu Jin, Hiroshi Watanabe</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17042)
 
 
 
@@ -1579,90 +1518,88 @@ Mohit Bansal</details>
 
 ### 🖼️ + 🔊 Image + Audio
 
-+ **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** (27 Feb 2024)<details><summary>Linrui Tian, Qi Wang, Bang Zhang, et al.</summary>
-Linrui Tian, Qi Wang, Bang Zhang, Liefeng Bo</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485)
-  [![Code](https://img.shields.io/github/stars/HumanAIGC/EMO.svg?style=social&label=Star)](https://github.com/HumanAIGC/EMO)
-
-+ **Sadtalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation** (22 Nov 2022)<details><summary>Wenxuan Zhang, Xiaodong Cun, Xuan Wang, et al.</summary>
-Wenxuan Zhang, Xiaodong Cun, Xuan Wang, Yong Zhang, Xi Shen, Yu Guo, Ying Shan, Fei Wang</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12194)
-  [![Code](https://img.shields.io/github/stars/OpenTalker/SadTalker.svg?style=social&label=Star)](https://github.com/OpenTalker/SadTalker)
-
-+ **Float: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**<details><summary>Taekyung Ki, Dongchan Min, Gyeongsu Chae</summary>
-Taekyung Ki, Dongchan Min, Gyeongsu Chae</details>
-
-  [![Paper](https://img.shields.io/badge/Website-0073b7.svg)](https://deepbrainai-research.github.io/float/)
-  [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/deepbrainai-research/float)
-
-+ **Float: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**<details><summary>Taekyung Ki, Dongchan Min, Gyeongsu Chae</summary>
-Taekyung Ki, Dongchan Min, Gyeongsu Chae</details>
-
-  [![Paper](https://img.shields.io/badge/Website-0073b7.svg)](https://deepbrainai-research.github.io/float/)
-  [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/deepbrainai-research/float)
-
-+ **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**<details><summary>Mingwang Xu, Hui Li, Qingkun Su, et al.</summary>
-Mingwang Xu, Hui Li, Qingkun Su, Hanlin Shang, Liwei Zhang, Ce Liu, Jingdong Wang, Yao Yao, Siyu Zhu</details>
-
-  [![Code](https://img.shields.io/github/stars/fudan-generative-vision/hallo.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/hallo)
-
-+ **VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior** (4 Dec 2023)<details><summary>Xusen Sun, Longhao Zhang, Hao Zhu, et al.</summary>
-Xusen Sun, Longhao Zhang, Hao Zhu, Peng Zhang, Bang Zhang, Xinya Ji, Kangneng Zhou, Daiheng Gao, Liefeng Bo, Xun Cao</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.01841)
-  [![Code](https://img.shields.io/github/stars/HumanAIGC/VividTalk.svg?style=social&label=Star)](https://github.com/HumanAIGC/VividTalk)
-
-+ **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time** (16 Apr 2024)<details><summary>Sicheng Xu, Guojun Chen, Yu-Xiao Guo, et al.</summary>
-Sicheng Xu, Guojun Chen, Yu-Xiao Guo, Jiaolong Yang, Chong Li, Zhenyu Zang, Yizhong Zhang, Xin Tong, Baining Guo</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667)
-
-+ **CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation**<details><summary>Gaojie Lin, Jianwen Jiang, Chao Liang, et al.</summary>
-Gaojie Lin, Jianwen Jiang, Chao Liang, Tianyun Zhong, Jiaqi Yang, Yanbo Zheng</details>
-
-  [![Paper](https://img.shields.io/badge/Website-0073b7.svg)](https://cyberhost.github.io/)
-
-+ **MuseTalk: Real-Time High-Fidelity Video Dubbing via Spatio-Temporal Sampling** (14 Oct 2024)<details><summary>Yue Zhang, Zhizhou Zhong, Minhao Liu, et al.</summary>
-Yue Zhang, Zhizhou Zhong, Minhao Liu, Zhaokang Chen, Bin Wu, Yubin Zeng, Chao Zhan, Junxin Huang, Yingjie He, Wenjiang Zhou</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)
-  [![Code](https://img.shields.io/github/stars/TMElyralab/MuseTalk.svg?style=social&label=Star)](https://github.com/TMElyralab/MuseTalk)
-
-+ **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (2 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
-Gaojie Lin, Jianwen Jiang, Jiaqi Yang, Zerong Zheng, Chao Liang</details>
-
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061)
-
-+ **A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild** (23 Aug 2020)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
-Gaojie Lin, Jianwen Jiang, Jiaqi Yang, Zerong Zheng, Chao Liang</details>
++ **A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild** (23 Aug 2020)<details><summary>[ACM MM 2020] K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, et al.</summary>
+C V Jawahar</details>
 
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2008.10010)
+  [![citation](https://img.shields.io/badge/citation-726-blue.svg?paper=9c160a71d3265eedaf7645c39be073c966f10433)](https://www.semanticscholar.org/paper/9c160a71d3265eedaf7645c39be073c966f10433)
   [![Code](https://img.shields.io/github/stars/Rudrabha/Wav2Lip.svg?style=social&label=Star)](https://github.com/Rudrabha/Wav2Lip)
 
-+ **MakeItTalk: Speaker-Aware Talking-Head Animation**<details><summary>Yang Zhou, Xintong Han, Eli Shechtman, et al.</summary>
-Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li</details>
-
++ **MakeItTalk: Speaker-Aware Talking-Head Animation** (25 Feb 2021)<details><summary>[SIGGRAPH Asia 2020] Yang Zhou, Xintong Han, Eli Shechtman, et al.</summary>
+Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li</details>
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.12992)
+  [![citation](https://img.shields.io/badge/citation-401-blue.svg?paper=7a7c4e666e5dd8a489770643b72fd99cf708f7c1)](https://www.semanticscholar.org/paper/7a7c4e666e5dd8a489770643b72fd99cf708f7c1)
   [![Code](https://img.shields.io/github/stars/yzhou359/MakeItTalk.svg?style=social&label=Star)](https://github.com/yzhou359/MakeItTalk)
 
-+ **(CVPR 24) SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis** (29 Nov 2023)<details><summary>Ziqiao Peng, Wentao Hu, Yue Shi, et al.</summary>
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan</details>
 
++ **Sadtalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation** (22 Nov 2022)<details><summary>[CVPR 2023] Wenxuan Zhang, Xiaodong Cun, Xuan Wang, et al.</summary>
+Yong Zhang, Xi Shen, Yu Guo, Ying Shan, Fei Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12194)
+    [![citation](https://img.shields.io/badge/citation-213-blue.svg?paper=a7019f9a2ecb9983b66456ae32978e2574625980)](https://www.semanticscholar.org/paper/a7019f9a2ecb9983b66456ae32978e2574625980)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sadtalker.github.io/)
+  [![Code](https://img.shields.io/github/stars/OpenTalker/SadTalker.svg?style=social&label=Star)](https://github.com/OpenTalker/SadTalker)
+   [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/vinthony/SadTalker)
+
+
+
++ **VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior** (7 Dec 2023)<details><summary>Xusen Sun, Longhao Zhang, Hao Zhu, et al.</summary>Peng Zhang, Bang Zhang, Xinya Ji, Kangneng Zhou, Daiheng Gao, Liefeng Bo, Xun Cao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.01841)
+    [![citation](https://img.shields.io/badge/citation-22-blue.svg?paper=e6983128cdba6a46c4e6efe834e76e6fc9fc75ee)](https://www.semanticscholar.org/paper/e6983128cdba6a46c4e6efe834e76e6fc9fc75ee)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/vivid-talk/)
+  [![Code](https://img.shields.io/github/stars/HumanAIGC/VividTalk.svg?style=social&label=Star)](https://github.com/HumanAIGC/VividTalk)
+
+
++ **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** (27 Feb 2024)<details><summary>[ECCV 2024] Linrui Tian, Qi Wang, Bang Zhang, et al.</summary>
+Liefeng Bo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17485)
+  [![citation](https://img.shields.io/badge/citation-92-blue.svg?paper=aac7c6a33dc0f71bd4853e41e205ad908d3b3d09)](https://www.semanticscholar.org/paper/aac7c6a33dc0f71bd4853e41e205ad908d3b3d09)
+  [![Code](https://img.shields.io/github/stars/HumanAIGC/EMO.svg?style=social&label=Star)](https://github.com/HumanAIGC/EMO)
+
+
+
+
++ **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation** (26 Mar 2024)<details><summary>Huawei Wei, Zejun Yang, Zhisheng Wang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17694)
+[![citation](https://img.shields.io/badge/citation-54-blue.svg?paper=f81cb2475408ebf7b39268aff1cffd8c791ac5b2)](https://www.semanticscholar.org/paper/f81cb2475408ebf7b39268aff1cffd8c791ac5b2)
+[![Code](https://img.shields.io/github/stars/Zejun-Yang/AniPortrait.svg?style=social&label=Star)](https://github.com/Zejun-Yang/AniPortrait)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/ZJYang/AniPortrait_official)
+
+
+
++ **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis** (2 Apr 2024)<details><summary>Shuai Tan, Bin Ji, Mengxiao Bi, et al.</summary>
+Ye Pan</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01647)
+[![citation](https://img.shields.io/badge/citation-21-blue.svg?paper=f9511d7409f72ecaa2634af02f4be3a8643c4037)](https://www.semanticscholar.org/paper/f9511d7409f72ecaa2634af02f4be3a8643c4037)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tanshuai0219.github.io/EDTalk/)
+[![Code](https://img.shields.io/github/stars/tanshuai0219/EDTalk.svg?style=social&label=Star)](https://github.com/tanshuai0219/EDTalk)
+
+
++ **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** (28 Apr 2024)<details><summary>[CVPR 2024] Ziqiao Peng, Wentao Hu, Yue Shi, et al.</summary>Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, Zhaoxin Fan</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17590)
+   [![citation](https://img.shields.io/badge/citation-30-blue.svg?paper=90bc388771469da88997b197bd010a5bba8ca960)](https://www.semanticscholar.org/paper/90bc388771469da88997b197bd010a5bba8ca960)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ziqiaopeng.github.io/synctalk/)
   [![Code](https://img.shields.io/github/stars/ZiqiaoPeng/SyncTalk.svg?style=social&label=Star)](https://github.com/ZiqiaoPeng/SyncTalk)
 
-+ **MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls** (30 Jul 2024)<details><summary>Yuxuan Bian, Ailing Zeng, Xuan Ju, et al.</summary>
-Yuxuan Bian, Ailing Zeng, Xuan Ju, Xian Liu, Zhaoyang Zhang, Wei Liu, Qiang Xu</details>
 
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.21136)
-  [![Code](https://img.shields.io/github/stars/cure-lab/MotionCraft.svg?style=social&label=Star)](https://github.com/cure-lab/MotionCraft)
 
-+ **Dreamtalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models** (15 Dec 2023)<details><summary>Yifeng Ma, Shiwei Zhang, Jiayu Wang, et al.</summary>
-Yifeng Ma, Shiwei Zhang, Jiayu Wang, Xiang Wang, Yingya Zhang, Zhidong Deng</details>
++ **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation** (24 May 2024)<details><summary>Yuchi Wang, Junliang Guo, Jianhong Bai, et al.</summary>
+Runyi Yu, Tianyu He, Xu Tan, Xu Sun, Jiang Bian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15758)
+[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=bfed480ef00c8ed659283a111e5322f03b664520)](https://www.semanticscholar.org/paper/bfed480ef00c8ed659283a111e5322f03b664520)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangyuchi369.github.io/InstructAvatar/)
 
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09767)
-  [![Code](https://img.shields.io/github/stars/ali-vilab/dreamtalk.svg?style=social&label=Star)](https://github.com/ali-vilab/dreamtalk)
+
++ **V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation** (4 Jun 2024)<details><summary>Cong Wang, Kuan Tian, Jun Zhang, et al.</summary>
+Yonghang Guan, Feng Luo, Fei Shen, Zhiwei Jiang, Qing Gu, Xiao Han, Wei Yang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02511)
+[![citation](https://img.shields.io/badge/citation-30-blue.svg?paper=2c710db17e7c651b4653d9872668cd6ff7baf69f)](https://www.semanticscholar.org/paper/2c710db17e7c651b4653d9872668cd6ff7baf69f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tenvence.github.io/p/v-express/)
+[![Code](https://img.shields.io/github/stars/tencent-ailab/V-Express.svg?style=social&label=Star)](https://github.com/tencent-ailab/V-Express)
+
+
 
 + **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation** (16 Jun 2024)<details><summary>Mingwang Xu, Hui Li, Qingkun Su, et al.</summary>Hanlin Shang, Liwei Zhang, Ce Liu, Jingdong Wang, Yao Yao, Siyu Zhu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08801)
@@ -1671,12 +1608,6 @@ Yifeng Ma, Shiwei Zhang, Jiayu Wang, Xiang Wang, Yingya Zhang, Zhidong Deng</det
 [![Code](https://img.shields.io/github/stars/fudan-generative-vision/hallo.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/hallo)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/fffiloni/tts-hallo-talking-portrait)
 
-+ **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis** (2 Apr 2024)<details><summary>Shuai Tan, Bin Ji, Mengxiao Bi, et al.</summary>
-Ye Pan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01647)
-[![citation](https://img.shields.io/badge/citation-21-blue.svg?paper=f9511d7409f72ecaa2634af02f4be3a8643c4037)](https://www.semanticscholar.org/paper/f9511d7409f72ecaa2634af02f4be3a8643c4037)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tanshuai0219.github.io/EDTalk/)
-[![Code](https://img.shields.io/github/stars/tanshuai0219/EDTalk.svg?style=social&label=Star)](https://github.com/tanshuai0219/EDTalk)
 
 + **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions** (12 Jul 2024)<details><summary>[AAAI 2025] Zhiyuan Chen, Jiajiong Cao, Zhiquan Chen, et al.</summary>
 Yuming Li, Chenguang Ma</details>
@@ -1686,24 +1617,27 @@ Yuming Li, Chenguang Ma</details>
 [![Code](https://img.shields.io/github/stars/antgroup/echomimic.svg?style=social&label=Star)](https://github.com/antgroup/echomimic)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/BadToBest/EchoMimic)
 
-+ **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation** (26 Mar 2024)<details><summary>Huawei Wei, Zejun Yang, Zhisheng Wang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17694)
-[![citation](https://img.shields.io/badge/citation-54-blue.svg?paper=f81cb2475408ebf7b39268aff1cffd8c791ac5b2)](https://www.semanticscholar.org/paper/f81cb2475408ebf7b39268aff1cffd8c791ac5b2)
-[![Code](https://img.shields.io/github/stars/Zejun-Yang/AniPortrait.svg?style=social&label=Star)](https://github.com/Zejun-Yang/AniPortrait)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/ZJYang/AniPortrait_official)
 
-+ **V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation** (4 Jun 2024)<details><summary>Cong Wang, Kuan Tian, Jun Zhang, et al.</summary>
-Yonghang Guan, Feng Luo, Fei Shen, Zhiwei Jiang, Qing Gu, Xiao Han, Wei Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.02511)
-[![citation](https://img.shields.io/badge/citation-30-blue.svg?paper=2c710db17e7c651b4653d9872668cd6ff7baf69f)](https://www.semanticscholar.org/paper/2c710db17e7c651b4653d9872668cd6ff7baf69f)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tenvence.github.io/p/v-express/)
-[![Code](https://img.shields.io/github/stars/tencent-ailab/V-Express.svg?style=social&label=Star)](https://github.com/tencent-ailab/V-Express)
 
-+ **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation** (24 May 2024)<details><summary>Yuchi Wang, Junliang Guo, Jianhong Bai, et al.</summary>
-Runyi Yu, Tianyu He, Xu Tan, Xu Sun, Jiang Bian</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15758)
-[![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=bfed480ef00c8ed659283a111e5322f03b664520)](https://www.semanticscholar.org/paper/bfed480ef00c8ed659283a111e5322f03b664520)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wangyuchi369.github.io/InstructAvatar/)
++ **Dreamtalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models** (10 Aug 2024)<details><summary>Yifeng Ma, Shiwei Zhang, Jiayu Wang, et al.</summary>Xiang Wang, Yingya Zhang, Zhidong Deng</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09767)
+  [![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=64d79ce32ec667f54bcbf7e761a75dd42c6240b2)](https://www.semanticscholar.org/paper/64d79ce32ec667f54bcbf7e761a75dd42c6240b2)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dreamtalk-project.github.io/)
+  [![Code](https://img.shields.io/github/stars/ali-vilab/dreamtalk.svg?style=social&label=Star)](https://github.com/ali-vilab/dreamtalk)
+
+
+
++ **MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls** (25 Aug 2024)<details><summary>Yuxuan Bian, Ailing Zeng, Xuan Ju, et al.</summary>Xian Liu, Zhaoyang Zhang, Wei Liu, Qiang Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.21136)
+  [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=a74e0cd895bd43f7d9e4d548c76712d0dc1b5e9d)](https://www.semanticscholar.org/paper/a74e0cd895bd43f7d9e4d548c76712d0dc1b5e9d)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cure-lab.github.io/MotionCraft/)
+  [![Code](https://img.shields.io/github/stars/cure-lab/MotionCraft.svg?style=social&label=Star)](https://github.com/cure-lab/MotionCraft)
+
+
+
+
 
 + **MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer** (27 Aug 2024)<details><summary>[AAAI 2025] Shurong Yang, Huadong Li, Juhao Wu, et al.</summary>
 Minhao Jing, Linze Li, Renhe Ji, Jiajun Liang, Haoqiang Fan, Jin Wang</details>
@@ -1713,21 +1647,15 @@ Minhao Jing, Linze Li, Renhe Ji, Jiajun Liang, Haoqiang Fan, Jin Wang</details>
 [![Code](https://img.shields.io/github/stars/megvii-research/MegActor.svg?style=social&label=Star)](https://github.com/megvii-research/MegActor)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://f4c5-58-240-80-18.ngrok-free.app/)
 
-+ **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model** (13 Feb 2025)<details><summary>Fei Shen, Cong Wang, Junyao Gao, et al.</summary>
-Qin Guo, Jisheng Dang, Jinhui Tang, Tat-Seng Chua</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09533)
-[![citation](https://img.shields.io/badge/citation-6-blue.svg?paper=ddddfcaf88c6b0ea24316cfce2d6838d8d19e563)](https://www.semanticscholar.org/paper/ddddfcaf88c6b0ea24316cfce2d6838d8d19e563)
 
-+ **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion** (17 Feb 2025)<details><summary>Junxian Ma, Shiwen Wang, Jian Yang, et al.</summary>
-Junyi Hu, Jian Liang, Guosheng Lin, Jingbo chen, Kai Li, Yu Meng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11515)
-[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=601d15cdf802fb45d83e8c88ef0ae8acd261dc35)](https://www.semanticscholar.org/paper/601d15cdf802fb45d83e8c88ef0ae8acd261dc35)
 
-+ **SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model** (28 Nov 2024)<details><summary>Weipeng Tan, Chuming Lin, Chengming Xu, et al.</summary>
-Xiaozhong Ji, Junwei Zhu, Chengjie Wang, Yunsheng Wu, Yanwei Fu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=813fe44fb99294cf87174678302cde891af9098b)](https://www.semanticscholar.org/paper/813fe44fb99294cf87174678302cde891af9098b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://svportrait.github.io/)
+
++ **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time** (31 Oct 2024)<details><summary>[NeurIPS 2024] Sicheng Xu, Guojun Chen, Yu-Xiao Guo, et al.</summary>
+Jiaolong Yang, Chong Li, Zhenyu Zang, Yizhong Zhang, Xin Tong, Baining Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10667)
+   [![citation](https://img.shields.io/badge/citation-70-blue.svg?paper=292bcd3e8d580413a74510bfacf1bb88c4fb9f61)](https://www.semanticscholar.org/paper/292bcd3e8d580413a74510bfacf1bb88c4fb9f61)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.microsoft.com/en-us/research/project/vasa-1/)
 
 
 + **EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation** (15 Nov 2024)<details><summary>[CVPR 2025] Rang Meng, Xingyu Zhang, Yuming Li, et al.</summary>
@@ -1738,17 +1666,51 @@ Chenguang Ma</details>
 [![Code](https://img.shields.io/github/stars/antgroup/echomimic_v2.svg?style=social&label=Star)](https://github.com/antgroup/echomimic_v2)
 
 
-+ **Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control** (14 Mar 2025)<details><summary>[ICLR 2025] Hejia Chen, Haoxian Zhang, Shoulong Zhang, et al.</summary>
-Xiaoqiang Liu, Sisi Zhuang, Yuan Zhang, Pengfei Wan, Di Zhang, Shuai Li</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14517)
-[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=6f7f74bb2d4ab7decbeec23b13ac814de41c86fb)](https://www.semanticscholar.org/paper/6f7f74bb2d4ab7decbeec23b13ac814de41c86fb)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://harryxd2018.github.io/cafe-talk/)
++ **SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model** (28 Nov 2024)<details><summary>Weipeng Tan, Chuming Lin, Chengming Xu, et al.</summary>
+Xiaozhong Ji, Junwei Zhu, Chengjie Wang, Yunsheng Wu, Yanwei Fu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03270)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=813fe44fb99294cf87174678302cde891af9098b)](https://www.semanticscholar.org/paper/813fe44fb99294cf87174678302cde891af9098b)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://svportrait.github.io/)
 
-+ **ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model** (27 Mar 2025)<details><summary>Jinwei Qi, Chaonan Ji, Sheng Xu, et al.</summary>
-Peng Zhang, Bang Zhang, Liefeng Bo</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21144)
-[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9045629ae00382f73ffd3a8c4772aa4858260c27)](https://www.semanticscholar.org/paper/9045629ae00382f73ffd3a8c4772aa4858260c27)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/chat-anyone/)
+
+
++ **Float: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**(4 Dec 2024)<details><summary>Taekyung Ki, Dongchan Min, Gyeongsu Chae</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01064)
+  [![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=bdf3375410d55056521b64b190eddfbcbf45c9d7)](https://www.semanticscholar.org/paper/bdf3375410d55056521b64b190eddfbcbf45c9d7)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://deepbrainai-research.github.io/float/)
+  [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/deepbrainai-research/float)
+
+
+
+
++ **CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation** (23 Jan 2025)<details><summary>[ICLR 2025] Gaojie Lin, Jianwen Jiang, Chao Liang, et al.</summary>
+Tianyun Zhong, Jiaqi Yang, Yanbo Zheng</details>
+
+  [![Paper](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/forum?id=vaEPihQsAA)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cyberhost.github.io/)
+
+
++ **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (13 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
+Zerong Zheng, Chao Liang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061)
+     [![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=e8fd310e67c537fd2fcab36a823827e41c579ab4)](https://www.semanticscholar.org/paper/e8fd310e67c537fd2fcab36a823827e41c579ab4)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omnihuman-lab.github.io/)
+
+
+
++ **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model** (13 Feb 2025)<details><summary>Fei Shen, Cong Wang, Junyao Gao, et al.</summary>
+Qin Guo, Jisheng Dang, Jinhui Tang, Tat-Seng Chua</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09533)
+[![citation](https://img.shields.io/badge/citation-6-blue.svg?paper=ddddfcaf88c6b0ea24316cfce2d6838d8d19e563)](https://www.semanticscholar.org/paper/ddddfcaf88c6b0ea24316cfce2d6838d8d19e563)
+
+
+
++ **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion** (17 Feb 2025)<details><summary>Junxian Ma, Shiwen Wang, Jian Yang, et al.</summary>
+Junyi Hu, Jian Liang, Guosheng Lin, Jingbo chen, Kai Li, Yu Meng</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11515)
+[![citation](https://img.shields.io/badge/citation-2-blue.svg?paper=601d15cdf802fb45d83e8c88ef0ae8acd261dc35)](https://www.semanticscholar.org/paper/601d15cdf802fb45d83e8c88ef0ae8acd261dc35)
+
 
 + **Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture** (1 Mar 2025)<details><summary>[CVPR 2025] Xuanchen Li, Jianyu Wang, Yuhao Cheng, et al.</summary>
 Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan</details>
@@ -1756,6 +1718,38 @@ Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, Yichao Yan</details>
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=0b76dff851ca7196ca68f05f246332f16a74cf30)](https://www.semanticscholar.org/paper/0b76dff851ca7196ca68f05f246332f16a74cf30)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xuanchenli.github.io/TexTalk/)
 [![Code](https://img.shields.io/github/stars/XuanchenLi/TexTalk.svg?style=social&label=Star)](https://github.com/XuanchenLi/TexTalk)
+
++ **Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control** (14 Mar 2025)<details><summary>[ICLR 2025] Hejia Chen, Haoxian Zhang, Shoulong Zhang, et al.</summary>
+Xiaoqiang Liu, Sisi Zhuang, Yuan Zhang, Pengfei Wan, Di Zhang, Shuai Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14517)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=6f7f74bb2d4ab7decbeec23b13ac814de41c86fb)](https://www.semanticscholar.org/paper/6f7f74bb2d4ab7decbeec23b13ac814de41c86fb)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://harryxd2018.github.io/cafe-talk/)
+
+
++ **MuseTalk: Real-Time High-Fidelity Video Dubbing via Spatio-Temporal Sampling** (26 Mar 2025)<details><summary>Yue Zhang, Zhizhou Zhong, Minhao Liu, et al.</summary>Zhaokang Chen, Bin Wu, Yubin Zeng, Chao Zhan, Junxin Huang, Yingjie He, Wenjiang Zhou</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10122)
+  [![citation](https://img.shields.io/badge/citation-7-blue.svg?paper=31f1293316741d43903e4b8580ba5356f3ba262b)](https://www.semanticscholar.org/paper/31f1293316741d43903e4b8580ba5356f3ba262b)
+  [![Code](https://img.shields.io/github/stars/TMElyralab/MuseTalk.svg?style=social&label=Star)](https://github.com/TMElyralab/MuseTalk)
+
+
+
+
+
++ **ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model** (27 Mar 2025)<details><summary>Jinwei Qi, Chaonan Ji, Sheng Xu, et al.</summary>
+Peng Zhang, Bang Zhang, Liefeng Bo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21144)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=9045629ae00382f73ffd3a8c4772aa4858260c27)](https://www.semanticscholar.org/paper/9045629ae00382f73ffd3a8c4772aa4858260c27)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/chat-anyone/)
+
+
+
++ **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation** (4 Apr 2025)<details><summary>Fa-Ting Hong, Zunnan Xu, Zixiang Zhou, et al.</summary>
+Jun Zhou, Xiu Li, Qin Lin, Qinglin Lu, Dan Xu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02542)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=5152b487416195caa6493efba96cbdbb5b91fbf7)](https://www.semanticscholar.org/paper/5152b487416195caa6493efba96cbdbb5b91fbf7)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://harlanhong.github.io/publications/actalker/index.html)
+[![Code](https://img.shields.io/github/stars/harlanhong/ACTalker.svg?style=social&label=Star)](https://github.com/harlanhong/ACTalker)
 
 ### 🎥 + 📸 Video + Camera
 + **ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning** (11 Nov 2024)<details><summary>David Junhao Zhang, Roni Paiss, Shiran Zada, et al.</summary></details>
