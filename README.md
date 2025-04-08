@@ -1161,7 +1161,7 @@ Yuming Li, Chenguang Ma</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jingyunliang.github.io/MoVideo/)
 
 
-+ **I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models** (13 July 2024)<details><summary>[ACM SIGGRAPH 2024] Xun Guo1, Mingwu Zheng, Liang Hou, et al.</summary>Yuan Gao, Yufan Deng, Pengfei Wan,
++ **I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models** (13 Jul 2024)<details><summary>[ACM SIGGRAPH 2024] Xun Guo1, Mingwu Zheng, Liang Hou, et al.</summary>Yuan Gao, Yufan Deng, Pengfei Wan,
 Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3641519.3657407)
 [![citation](https://img.shields.io/badge/citation-21-blue.svg?paper=9512a9bbef95560c719a746676611bfcded428a1)](https://www.semanticscholar.org/paper/9512a9bbef95560c719a746676611bfcded428a1)
@@ -1750,7 +1750,6 @@ Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Yi
 
 
 
-
 ### 🖼️ + 🔊 Image + Audio
 
 + **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation** (4 Apr 2025)<details><summary>Fa-Ting Hong, Zunnan Xu, Zixiang Zhou, et al.</summary>
@@ -1759,7 +1758,6 @@ Jun Zhou, Xiu Li, Qin Lin, Qinglin Lu, Dan Xu</details>
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=5152b487416195caa6493efba96cbdbb5b91fbf7)](https://www.semanticscholar.org/paper/5152b487416195caa6493efba96cbdbb5b91fbf7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://harlanhong.github.io/publications/actalker/index.html)
 [![Code](https://img.shields.io/github/stars/harlanhong/ACTalker.svg?style=social&label=Star)](https://github.com/harlanhong/ACTalker)
-
 
 
 
