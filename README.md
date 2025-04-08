@@ -289,7 +289,7 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14484)
 
 + **Generative Inbetweening through Frame-wise Conditions-Driven Video Generation** (16 Dec 2024)
-   <details><summary>Tianyi Zhu, Dongwei Ren, et al.</summary>  
+   <details><summary>[CVPR 2025] Tianyi Zhu, Dongwei Ren, et al.</summary>  
         Tianyi Zhu, Dongwei Ren, Qilong Wang, Xiaohe Wu, Wangmeng Zuo </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11755)
@@ -297,7 +297,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fcvg-inbetween.github.io/)
 
 + **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** (12 Dec 2024)
-   <details><summary>Hongxiang Li, Yaowei Li, et al.</summary>  
+   <details><summary>[ICLR2025] Hongxiang Li, Yaowei Li, et al.</summary>  
         Hongxiang Li, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09349)
@@ -321,7 +321,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tencent.github.io/MimicMotion/)
 
 + **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance** (21 Mar 2024)
-   <details><summary>Shenhao Zhu, Junming Leo Chen, et al.</summary>  
+   <details><summary>[ECCV 2024] Shenhao Zhu, Junming Leo Chen, et al.</summary>  
         Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
@@ -335,7 +335,7 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363)
 
 + **Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models** (3 Dec 2023)
-   <details><summary>Shengqu Cai, Duygu Ceylan, et al.</summary>  
+   <details><summary>[CVPR 2024] Shengqu Cai, Duygu Ceylan, et al.</summary>  
         Shengqu Cai, Duygu Ceylan, Matheus Gadelha, Chun-Hao Paul Huang, Tuanfeng Yang Wang, Gordon Wetzstein </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
@@ -343,7 +343,7 @@
 
 
 + **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** (28 Nov 2023)
-   <details><summary>Li Hu, Xin Gao, et al.</summary>  
+   <details><summary>[CVPR 2024] Li Hu, Xin Gao, et al.</summary>  
         Li Hu, Xin Gao, Peng Zhang, Ke Sun, Bang Zhang, Liefeng Bo </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117)
@@ -351,7 +351,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/animate-anyone/)
 
 + **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** (27 Nov 2023)
-   <details><summary>Zhongcong Xu, Jianfeng Zhang, et al.</summary>  
+   <details><summary>[CVPR 2024] Zhongcong Xu, Jianfeng Zhang, et al.</summary>  
         Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
@@ -359,7 +359,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/magicanimate/)
 
 + **MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion** (18 Nov 2023)
-   <details><summary>Di Chang, Yichun Shi, Quankai Gao, et al.</summary>  
+   <details><summary>[ICML 2024] Di Chang, Yichun Shi, Quankai Gao, et al.</summary>  
         Di Chang, Yichun Shi, Quankai Gao, Jessica Fu, Hongyi Xu, Guoxian Song, Qing Yan, Yizhe Zhu, Xiao Yang, Mohammad Soleymani </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12052)
@@ -373,7 +373,7 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
 + **DisCo: Disentangled Control for Realistic Human Dance Generation** (30 Jun 2023)
-   <details><summary>Tan Wang, Linjie Li, et al.</summary>  
+   <details><summary>[CVPR2024] Tan Wang, Linjie Li, et al.</summary>  
         Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040)
@@ -381,7 +381,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://disco-dance.github.io/)
 
 + **DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** (12 Apr 2023)
-   <details><summary>Johanna Karras, Aleksander Holynski, et al.</summary>  
+   <details><summary>[ICCV 2023] Johanna Karras, Aleksander Holynski, et al.</summary>  
         Johanna Karras, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025)
@@ -389,7 +389,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://grail.cs.washington.edu/projects/dreampose/)
 
 + **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023)
-   <details><summary>Yue Ma, Yingqing He, et al.</summary>  
+   <details><summary>[AAAI 2024] Yue Ma, Yingqing He, et al.</summary>  
         Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
@@ -397,7 +397,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
 
 + **Point-to-Point Video Generation** (5 Apr 2019)
-   <details><summary>Tsun-Hsuan Wang, Yen-Chi Cheng, et al.</summary>  
+   <details><summary>[ICCV 2019] Tsun-Hsuan Wang, Yen-Chi Cheng, et al.</summary>  
         Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
@@ -405,7 +405,7 @@
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zswang666.github.io/P2PVG-Project-Page/)
 
 + **Pose Guided Human Video Generation** (3 Apr 2023)
-   <details><summary>Ceyuan Yang, Zhe Wang, et al.</summary>  
+   <details><summary>[ECCV 2018] Ceyuan Yang, Zhe Wang, et al.</summary>  
         Ceyuan Yang, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
