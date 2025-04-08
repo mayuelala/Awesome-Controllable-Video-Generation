@@ -1373,35 +1373,9 @@ Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiagang Zhu, Jiwen Lu</details
 [![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer)
 [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://drivedreamer.github.io)
 
-<<<<<<< HEAD
 + **DriveScape: Towards High-Resolution Controllable Multi-View Driving   Video Generation** (9 Sep 2024)<details><summary>Wei Wu, Xi Guo, Weixuan Tang, et al.</summary>
 Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Dongyue Chen, Chenjing Ding</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05463)
-=======
-+ **DrivingDiffusion: Layout-Guided multi-view driving scene video   generation with latent diffusion model** (11 Oct 2023)<details><summary>Xiaofan Li, Yifu Zhang, Xiaoqing Ye</summary>
-Xiaofan Li, Yifu Zhang, Xiaoqing Ye</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07771)
-[![Code](https://img.shields.io/github/stars/shalfun/DrivingDiffusion.svg?style=social&label=Star)](https://github.com/shalfun/DrivingDiffusion)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://drivingdiffusion.github.io)
-
-+ **FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic   Scene Syntax** (27 Nov 2023)<details><summary>Yu Lu, Linchao Zhu, Hehe Fan, et al.</summary>
-Yu Lu, Linchao Zhu, Hehe Fan, Yi Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.15813)
-[![Code](https://img.shields.io/github/stars/aniki-ly/FlowZero.svg?style=social&label=Star)](https://github.com/aniki-ly/FlowZero)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://flowzero-video.github.io)
-
-+ **Panacea: Panoramic and Controllable Video Generation for Autonomous   Driving** (28 Nov 2023)<details><summary>Yuqing Wen, Yucheng Zhao, Yingfei Liu, et al.</summary>
-Yuqing Wen, Yucheng Zhao, Yingfei Liu, Fan Jia, Yanhui Wang, Chong Luo, Chi Zhang, Tiancai Wang, Xiaoyan Sun, Xiangyu Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16813)
-[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Star)](https://github.com/wenyuqing/panacea)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://panacea-ad.github.io)
-
-+ **TrackDiffusion: Tracklet-Conditioned Video Generation via Diffusion   Models** (01 Dec 2023)<details><summary>Pengxiang Li, Kai Chen, Zhili Liu, et al.</summary>
-Pengxiang Li, Kai Chen, Zhili Liu, Ruiyuan Gao, Lanqing Hong, Guo Zhou, Hua Yao, Dit-Yan Yeung, Huchuan Lu, Xu Jia</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00651)
-[![Code](https://img.shields.io/github/stars/pixeli99/TrackDiffusion.svg?style=social&label=Star)](https://github.com/pixeli99/TrackDiffusion)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://kaichen1998.github.io/projects/trackdiffusion/)
->>>>>>> upstream/main
 
 + **Unleashing Generalization of End-to-End Autonomous Driving with   Controllable Long Video Generation** (3 Jun 2024)<details><summary>Enhui Ma, Lijun Zhou, Tao Tang, et al.</summary>
 Enhui Ma, Lijun Zhou, Tao Tang, Zhan Zhang, Dong Han, Junpeng Jiang, Kun Zhan, Peng Jia, Xianpeng Lang, Haiyang Sun, Di Lin, Kaicheng Yu</details>
