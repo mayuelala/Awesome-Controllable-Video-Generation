@@ -15,7 +15,6 @@
 
 
 # 📋 Contents
-- [](#)
 - [🤗 Introduction](#-introduction)
 - [📋 Contents](#-contents)
 - [💘 Tips](#-tips)
