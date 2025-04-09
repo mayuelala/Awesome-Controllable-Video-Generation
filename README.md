@@ -1343,7 +1343,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
 ### 🔊 Sound-Guided
 
-+ **Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>[ECCV22] Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
++ **Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>[ECCV 2022] Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
 Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
 [![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
@@ -1357,12 +1357,12 @@ Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Alper Ca
 [![Code](https://img.shields.io/github/stars/snap-research/AVLink.svg?style=social&label=Star)](https://github.com/snap-research/AVLink)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/AVLink/)
 
-+ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>[ECCV24] Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
++ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>[ECCV 2024] Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
 Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
 [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
 
-+ **Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>[ECCV24] Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
++ **Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>[ECCV 2024] Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
 Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05659)
 [![Code](https://img.shields.io/github/stars/lzhangbj/ASVA.svg?style=social&label=Star)](https://github.com/lzhangbj/ASVA)
