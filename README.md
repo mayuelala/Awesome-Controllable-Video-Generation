@@ -1343,7 +1343,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
 ### 🔊 Sound-Guided
 
-+ **(ECCV 22) Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
++ **Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>[ECCV22] Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
 Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
 [![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
@@ -1357,34 +1357,28 @@ Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Alper Ca
 [![Code](https://img.shields.io/github/stars/snap-research/AVLink.svg?style=social&label=Star)](https://github.com/snap-research/AVLink)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/AVLink/)
 
-+ **Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation** (28 Sep 2023)<details><summary>Guy Yariv, Itai Gat, Sagie Benaim, et al.</summary>
-Guy Yariv, Itai Gat, Sagie Benaim, Lior Wolf, Idan Schwartz, Yossi Adi</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16429)
-[![Code](https://img.shields.io/github/stars/guyyariv/TempoTokens.svg?style=social&label=Star)](https://github.com/guyyariv/TempoTokens)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/)
-
-
-+ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
++ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>[ECCV24] Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
 Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
 [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
 
-+ **Ta2v: Text-audio guided video generation** (01 Jan 2024) <details><summary>Minglu Zhao, Wenmin Wang, Tongbao Chen, et al.</summary>
-Minglu Zhao, Wenmin Wang, Tongbao Chen, Rui Zhang, Ruochen Li </details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1109/TMM.2024.3362149)
-[![Code](https://img.shields.io/github/stars/Minglu58/TA2V.svg?style=social&label=Star)](https://github.com/Minglu58/TA2V)
-
-+ **Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
++ **Audio-Synchronized Visual Animation** (08 Mar 2024) <details><summary>[ECCV24] Lin Zhang, Shentong Mo, Yijing Zhang, et al.</summary>
 Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado </details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05659)
 [![Code](https://img.shields.io/github/stars/lzhangbj/ASVA.svg?style=social&label=Star)](https://github.com/lzhangbj/ASVA)
 [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://lzhangbj.github.io/projects/asva/asva.html)
 
-+ **MOFA-Video: Controllable Image Animation via Generative Motion Field   Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024) <details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>
-Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)
-[![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://myniuuu.github.io/MOFA_Video/)
++ **Ta2v: Text-audio guided video generation** (01 Jan 2024) <details><summary>[TMM] Minglu Zhao, Wenmin Wang, Tongbao Chen, et al.</summary>
+Minglu Zhao, Wenmin Wang, Tongbao Chen, Rui Zhang, Ruochen Li </details>
+[![Paper](https://img.shields.io/badge/paper-b31b1b.svg)](https://dl.acm.org/doi/10.1109/TMM.2024.3362149)
+[![Code](https://img.shields.io/github/stars/Minglu58/TA2V.svg?style=social&label=Star)](https://github.com/Minglu58/TA2V)
+
++ **Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation** (28 Sep 2023)<details><summary>[AAAI 2024] Guy Yariv, Itai Gat, Sagie Benaim, et al.</summary>
+Guy Yariv, Itai Gat, Sagie Benaim, Lior Wolf, Idan Schwartz, Yossi Adi</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16429)
+[![Code](https://img.shields.io/github/stars/guyyariv/TempoTokens.svg?style=social&label=Star)](https://github.com/guyyariv/TempoTokens)
+[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/)
+
 
 ### 🗂️ Layout Control
 
