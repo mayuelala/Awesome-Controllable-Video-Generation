@@ -33,7 +33,7 @@
       - [🌊 Flow-Guided](#-flow-guided)
       - [📸 Camera-Guided](#-camera-guided)
       - [🛤️ Traj-Guided](#️-traj-guided)
-      - [🎥 Motion Customization/Motion Mask/Motion Video(traj)](#-motion-customizationmotion-maskmotion-videotraj)
+      - [🎥 Motion Customization/Motion Mask/Motion Video](#-motion-customizationmotion-maskmotion-video)
     - [📝 Advanced Text-Conditioned](#-advanced-text-conditioned)
     - [🔄 In-Context](#-in-context)
     - [🖼️ Image-guided](#️-image-guided)
@@ -926,11 +926,19 @@ Yuming Li, Chenguang Ma</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://motion-prompting.github.io/)
 
 
-#### 🎥 Motion Customization/Motion Mask/Motion Video(traj)
+#### 🎥 Motion Customization/Motion Mask/Motion Video
+
++ **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer** (15 Apr 2025) <details><summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, et al.</summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, Yingya Zhang, Changxin Gao, Yuehuan Wang, Nong Sang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289)
+
 + **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models(hand mask sequence as control signal)** (4 Apr 2025) <details><summary>Rick Akkerman, Haiwen Feng, Michael J. Black, et al.</summary>Rick Akkerman, Haiwen Feng, Michael J. Black, Dimitrios Tzionas, Victoria Fern´andez Abrevaya</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11785)
 [![code](https://img.shields.io/github/stars/jiuntian/interactdiffusion.svg?style=social&label=Star)](https://github.com/jiuntian/interactdiffusion)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://interdyn.is.tue.mpg.de/)
++ **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance** (3 Apr 2025) <details><summary>Yuxuan Luo, Zhengkun Rong, Lizhen Wang, et al.</summary>Yuxuan Luo, Zhengkun Rong, Lizhen Wang, Longhao Zhang, Tianshu Hu, Yongming Zhu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.01724)
+
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://grisoon.github.io/DreamActor-M1/)
 
 + **Video Motion Transfer with Diffusion Transformers** (27 Mar 2025)<details><summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, et al.</summary>Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07776)
