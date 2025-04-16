@@ -333,7 +333,7 @@
         Tianyi Zhu, Dongwei Ren, Qilong Wang, Xiaohe Wu, Wangmeng Zuo </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11755)
-   [![Code](https://img.shields.io/github/stars/Tian-one/FCVGe.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
+   [![Code](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fcvg-inbetween.github.io/)
 
 + **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** (12 Dec 2024)
