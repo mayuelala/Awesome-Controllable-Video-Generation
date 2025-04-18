@@ -59,7 +59,6 @@
 # 💘 Tips
 - **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
 - **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
-- **✅ Paper searching via tag**: You can also search the related papers via the following tags: `customization`, `iteractive`, `human motion generation` `tokenizer`.(More tags are ongoing)
 
 
 ## 🔹 Single Control
