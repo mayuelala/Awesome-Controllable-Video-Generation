@@ -65,6 +65,12 @@
 
 ### 🌟 Character Control/ID/Video Customization/Personalization
 
++ **SkyReels-A2: Compose Anything in Video Diffusion Transformers** (3 Apr 2025)<details><summary>Zhengcong Fei, Debang Li, Di Qiu, et al.</summary>
+        Zhengcong Fei, Debang Li, Di Qiu, Jiahua Wang, Yikun Dou, Rui Wang, Jingtao Xu, Mingyuan Fan, Guibin Chen, Yang Li, Yahui Zhou</details>
+        [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.02436)
+        [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-A2)
+        [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://skyworkai.github.io/skyreels-a2.github.io/)
+
 + **PERSONALVIDEO: High ID-Fidelity Video Customization with Static Images** (16 Mar 2025) 
    <details><summary>Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, et al.</summary>  
          Hengjia Li, Haonan Qiu, Shiwei Zhang, Xiang Wang, Yujie Wei, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai</details>  
@@ -307,6 +313,14 @@
    [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
 
++ **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers** (15 Feb 2025)
+   <details><summary>Di Qiu, Zhengcong Fei, et al.</summary>
+    Di Qiu, Zhengcong Fei, Rui Wang, Jialin Bai, Changqian Yu, Mingyuan Fan, Guibin Chen, Xiang Wen</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.10841)
+   [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-A1)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([https://anycharv.github.io/](https://skyworkai.github.io/skyreels-a1.github.io/))
+        
 + **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** (10 Feb 2025)
    <details><summary>Li Hu, Guangyuan Wang, et al.</summary>  
         Li Hu, Guangyuan Wang, Zhen Shen, Xin Gao, Dechao Meng, Lian Zhuo, Peng Zhang, Bang Zhang, Liefeng Bo </details>  
