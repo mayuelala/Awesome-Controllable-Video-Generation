@@ -670,6 +670,14 @@ Zhenguo Li, Xihui Liu</details>
 
 #### 🗺️ Landmark Control
 
++ **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation** (24 Mar 2024)
+   <details><summary>[CVPR 2025] Zunnan Xu, Zhentao Yu, et al.</summary>  
+        Zunnan Xu, Zhentao Yu, Zixiang Zhou, Jun Zhou, Xiaoyu Jin, Fa-Ting Hong, Xiaozhong Ji, Junwei Zhu, Chengfei Cai, Shiyu Tang, Qin Lin, Xiu Li, Qinglin Lu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18860)
+   [![Code](https://img.shields.io/github/stars/kkakkkka/HunyuanPortrait.svg?style=social&label=Star)](https://github.com/kkakkkka/HunyuanPortrait)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://kkakkkka.github.io/HunyuanPortrait)
+
 + **TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation** (14 Mar 2025)
    <details><summary>Hongxiang Zhao, Xingchen Liu, et al.</summary>  
         Hongxiang Zhao, Xingchen Liu, Mutian Xu, Yiming Hao, Weikai Chen, Xiaoguang Han </details>  
