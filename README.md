@@ -50,6 +50,7 @@
     - [🎥 + 📸 Video + Camera](#---video--camera)
     - [🖼️ + 🌊 Image + Flow](#️---image--flow)
     - [🖼️ + 🕺 Image + Pose](#️---image--pose)
+    - [🖼️ + 💡 Image + Lighting](#️---image--lighting)
     - [✍️ + 🔊 Text + Sound](#️---text--sound)
     - [🌟 + 🎥 Personalized + Motion](#---personalized--motion)
   - [❓ To be sorted](#-to-be-sorted)
