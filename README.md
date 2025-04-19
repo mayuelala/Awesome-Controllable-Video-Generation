@@ -2164,6 +2164,14 @@ C V Jawahar</details>
  [![Code](https://img.shields.io/github/stars/johannakarras/DreamPose.svg?style=social&label=Star)](https://github.com/johannakarras/DreamPose)
  [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://grail.cs.washington.edu/projects/dreampose/)
 
+
+### 🖼️ + 💡 Image + Lighting
+
++ **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (2 Apr 2025) <details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07531)
+[![Code](https://img.shields.io/github/stars/tandaily/Awesome-Relighting.svg?style=social&label=Star)](https://github.com/tandaily/Awesome-Relighting)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sixiaozheng.github.io/VidCRAFT3/)
+
 ### ✍️ + 🔊 Text + Sound
 
 ### 🌟 + 🎥 Personalized + Motion
