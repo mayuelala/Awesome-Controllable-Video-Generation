@@ -965,7 +965,11 @@ Yuming Li, Chenguang Ma</details>
 
 + **Motion Prompting: Controlling Video Generation with Motion Trajectories** (27 Mar 2025) <details><summary>Daniel Geng, Charles Herrmann, Junhwa Hur, et al.</summary>Daniel Geng, Charles Herrmann, Junhwa Hur, Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02700)
-
++ **EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models** (25 Mar 2025)  
+   <details><summary>Yufei Cai, et al.</summary>  
+         Yufei Cai, Hu Han, Yuxiang Wei, Shiguang Shan, Xilin Chen</details>  
+         
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19369)
 + **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** (20 Mar 2025) <details><summary>Quanhao Li, Zhen Xing, Rui Wang, et al.</summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.16421v1)
 [![Code](https://img.shields.io/github/stars/quanhaol/MagicMotion.svg?style=social&label=Star)](https://github.com/quanhaol/MagicMotion)
