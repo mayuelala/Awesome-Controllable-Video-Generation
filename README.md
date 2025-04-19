@@ -119,6 +119,14 @@
          
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04698)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://yuzhou914.github.io/ConceptMaster/)
+
+ + **Ingredients: Blending Custom Photos with Video Diffusion Transformers** (3 Jan 2025) 
+   <details><summary>Zhengcong Fei, Debang Li, Di Qiu, et al.</summary>  
+         Zhengcong Fei, Debang Li, Di Qiu, Changqian Yu, Mingyuan Fan</details>  
+         
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01790?)
+   [![Code](https://img.shields.io/github/stars/feizc/Ingredients.svg?style=social&label=Star)](https://github.com/feizc/Ingredients)
+   
 + **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** (27 Dec 2024)<details><summary>Tao Wu, Yong Zhang, Xiaodong Cun, et al.</summary>
         Tao Wu, Yong Zhang, Xiaodong Cun, Zhongang Qi, Junfu Pu, Huanzhang Dou, Guangcong Zheng, Ying Shan, Xi Li</details>
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645)
@@ -132,6 +140,14 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13239)
    [![Code](https://img.shields.io/github/stars/WuTao-CS/CustomCrafter.svg?style=social&label=Star)](https://github.com/WuTao-CS/CustomCrafter)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://customcrafter.github.io/)
+
++ **MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation** (30 Dec 2024)
+   <details><summary>Haopeng Fang, Di Qiu, et al.</summary>  
+         Haopeng Fang, Di Qiu, Binjie Mao, Pengfei Yan, He Tang</details>  
+    
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.18281)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://motioncharacter.github.io/)
+  
 + **CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** (20 Dec 2024)<details><summary>Xiuli Bi, Jian Lu, Bo Liu, et al.</summary>
         Xiuli Bi, Jian Lu, Bo Liu, Xiaodong Cun, Yong Zhang, Weisheng Li, Bin Xiao</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15646)
