@@ -141,13 +141,6 @@
    [![Code](https://img.shields.io/github/stars/WuTao-CS/CustomCrafter.svg?style=social&label=Star)](https://github.com/WuTao-CS/CustomCrafter)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://customcrafter.github.io/)
 
-+ **MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation** (30 Dec 2024)
-   <details><summary>Haopeng Fang, Di Qiu, et al.</summary>  
-         Haopeng Fang, Di Qiu, Binjie Mao, Pengfei Yan, He Tang</details>  
-    
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.18281)
-   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://motioncharacter.github.io/)
-  
 + **CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** (20 Dec 2024)<details><summary>Xiuli Bi, Jian Lu, Bo Liu, et al.</summary>
         Xiuli Bi, Jian Lu, Bo Liu, Xiaodong Cun, Yong Zhang, Weisheng Li, Bin Xiao</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15646)
@@ -2198,6 +2191,7 @@ C V Jawahar</details>
 + **MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation** (27 Nov 2024)<details><summary>Haopeng Fang, Di Qiu, Binjie Mao, et al.</summary>
   Haopeng Fang, Di Qiu, Binjie Mao, Pengfei Yan, He Tang</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18281)
+  [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://motioncharacter.github.io/)
 
 + **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** (17 Oct 2024)<details><summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, et al.</summary>
   Yujie Wei, Shiwei Zhang, Hangjie Yuan, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Feng Liu, Zhizhong Huang, Jiaxin Ye, Yingya Zhang, Hongming Shan</details>
