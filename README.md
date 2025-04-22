@@ -306,14 +306,6 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11423)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://taste-rob.github.io/)
 
-+ **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** (12 Feb 2025)
-   <details><summary>Zhao Wang, Hao Wen, et al.</summary>  
-        Zhao Wang, Hao Wen, Lingting Zhu, Chenming Shang, Yujiu Yang, Qi Dou </details>  
-
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
-   [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
-
 + **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers** (15 Feb 2025)
    <details><summary>Di Qiu, Zhengcong Fei, et al.</summary>
     Di Qiu, Zhengcong Fei, Rui Wang, Jialin Bai, Changqian Yu, Mingyuan Fan, Guibin Chen, Xiang Wen</details>
@@ -321,6 +313,14 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.10841)
    [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-A1)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([https://anycharv.github.io/](https://skyworkai.github.io/skyreels-a1.github.io/))
+
++ **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** (12 Feb 2025)
+   <details><summary>Zhao Wang, Hao Wen, et al.</summary>  
+        Zhao Wang, Hao Wen, Lingting Zhu, Chenming Shang, Yujiu Yang, Qi Dou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
+   [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
         
 + **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** (10 Feb 2025)
    <details><summary>Li Hu, Guangyuan Wang, et al.</summary>  
@@ -333,7 +333,7 @@
    <details><summary>Mingdeng Cao, Chong Mou, et al.</summary>  
         Mingdeng Cao, Chong Mou, Ziyang Yuan, Xintao Wang, Zhaoyang Zhang, Ying Shan, Yinqiang Zheng </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14484)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531)
    [![Code](https://img.shields.io/github/stars/ljzycmd/SCD.svg?style=social&label=Star)](https://github.com/ljzycmd/SCD)
 
 + **DirectorLLM for Human-Centric Video Generation** (19 Dec 2024)
@@ -462,7 +462,7 @@
    <details><summary>[ECCV 2018] Ceyuan Yang, Zhe Wang, et al.</summary>  
         Ceyuan Yang, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1807.11152)
 
 #### 🚗 BEV-Control
 + **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention** (04 Dec 2024)<details><summary>Hannan Lu, Xiaohe Wu, Shudong Wang, et al.</summary>
@@ -804,7 +804,7 @@ Yuming Li, Chenguang Ma</details>
    <details><summary>Tsai-Shien Chen, Chieh Hubert Lin, et al.</summary>  
         Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.06605)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsaishien-chen.github.io/MCDiff/)
 
 #### 📸 Camera-Guided
