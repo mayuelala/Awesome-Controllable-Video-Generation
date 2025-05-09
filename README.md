@@ -304,6 +304,7 @@
         Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
+   [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
   
 + **TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation** (14 Mar 2025)
@@ -2087,6 +2088,7 @@ C V Jawahar</details>
         Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
+   [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
   
 + **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (3 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
