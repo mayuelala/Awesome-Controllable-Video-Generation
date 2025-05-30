@@ -65,6 +65,13 @@
 ## 🔹 Single Control
 
 ### 🌟 Character Control/ID/Video Customization/Personalization
++ **OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation** (26 May 2025)
+  <details><summary> Shenghai Yuan, Xianyi He, et al.</summary>
+        Shenghai Yuan, Xianyi He, Yufan Deng, Yang Ye, Jinfa Huang, Bin Lin, Jiebo Luo, Li Yuan</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20292)
+   [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/OpenS2V-Nexus.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/OpenS2V-Nexus/)
 
 + **SkyReels-A2: Compose Anything in Video Diffusion Transformers** (3 Apr 2025)<details><summary>Zhengcong Fei, Debang Li, Di Qiu, et al.</summary>
         Zhengcong Fei, Debang Li, Di Qiu, Jiahua Wang, Yikun Dou, Rui Wang, Jingtao Xu, Mingyuan Fan, Guibin Chen, Yang Li, Yahui Zhou</details>
@@ -133,6 +140,7 @@
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13239)
    [![Code](https://img.shields.io/github/stars/WuTao-CS/CustomCrafter.svg?style=social&label=Star)](https://github.com/WuTao-CS/CustomCrafter)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://customcrafter.github.io/)
+ 
 + **CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** (20 Dec 2024)<details><summary>Xiuli Bi, Jian Lu, Bo Liu, et al.</summary>
         Xiuli Bi, Jian Lu, Bo Liu, Xiaodong Cun, Yong Zhang, Weisheng Li, Bin Xiao</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15646)
@@ -141,6 +149,14 @@
 + **SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner** (13 Dec 2024)<details><summary>Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, et al.</summary>
         Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Nanxuan Zhao, Jing Shi, Tong Sun</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10533)
+
++ **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (25 Nov 2024)
+  <details><summary> Shenghai Yuan, Jinfa Huang, et al.</summary>
+        Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440)
+   [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/ConsisID/)
 
 + **DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation** (25 Nov 2024)<details><summary>Zun Wang, Jialu Li, Han Lin, et al.</summary>
         Zun Wang, Jialu Li, Han Lin, Jaehong Yoon, Mohit Bansal</details>
@@ -158,14 +174,6 @@
         Panwen Hu, Jin Jiang, Jianqi Chen, Mingfei Han, Shengcai Liao, Xiaojun Chang, Xiaodan Liang</details>
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04925)
-
-+ **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (25 Mar 2024)
-  <details><summary> Shenghai Yuan, Jinfa Huang, et al.</summary>
-        Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan</details>
-
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440)
-   [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
-   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/ConsisID/)
 
 + **MotionBooth: Motion-Aware Customized Text-to-Video Generation** (29 Oct 2024)
    <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, et al.</summary>  
