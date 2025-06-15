@@ -594,6 +594,7 @@ Yijin Li, Fu-Yun Wang, Hongsheng Li</details>
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=00166f6852bc348570bf65e27a23407bd789ab37)](https://www.semanticscholar.org/paper/00166f6852bc348570bf65e27a23407bd789ab37)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wkbian.github.io/Projects/GS-DiT/)
 
+
 + **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** (8 Dec 2024)<details><summary>[CVPR 2025] Hyeonho Jeong, Chun-Hao Paul Huang, et al.</summary>
 Jong Chul Ye, Niloy Mitra, Duygu Ceylan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
