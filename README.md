@@ -1353,13 +1353,6 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
 ### 🔊 Sound-Guided
 
-+ **Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>[ECCV 2022] Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
-Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
-[![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
-
-
-### 🎵 Audio/Music-Guided
 
 + **AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation** (19 Dec 2024)<details><summary>Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, et al.</summary>
 Moayed Haji-Ali, Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Alper Canberk, Kwot Sin Lee, Vicente Ordonez, Sergey Tulyakov</details>
@@ -1388,6 +1381,10 @@ Guy Yariv, Itai Gat, Sagie Benaim, Lior Wolf, Idan Schwartz, Yossi Adi</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.16429)
 [![Code](https://img.shields.io/github/stars/guyyariv/TempoTokens.svg?style=social&label=Star)](https://github.com/guyyariv/TempoTokens)
 [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/)
++ **Sound-Guided Semantic Video Generation** (20 Apr 2022) <details><summary>[ECCV 2022] Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, et al.</summary>
+Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Hyunjun Cho, Jihyun Bae, Jinkyu Kim, Sangpil Kim</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.09273)
+[![Code](https://img.shields.io/github/stars/kuai-lab/sound2video.svg?style=social&label=Star)](https://github.com/kuai-lab/sound2video)
 
 
 ### 🗂️ Layout Control
