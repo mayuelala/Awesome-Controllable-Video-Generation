@@ -150,6 +150,12 @@
         Yufan Zhou, Ruiyi Zhang, Jiuxiang Gu, Nanxuan Zhao, Jing Shi, Tong Sun</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10533)
 
++ **VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention** (03 Dec 2024)<details><summary>Mingzhe Zheng, Yongqi Xu, Haojian Huang, et al.</summary>
+        Mingzhe Zheng, Yongqi Xu, Haojian Huang, Xuran Ma, Yexin Liu, Wenjie Shu, Yatian Pang, Feilong Tang, Qifeng Chen, Harry Yang, Ser-Nam Lim</details>
+      [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
+      [![Code](https://img.shields.io/github/stars/DuNGEOnmassster/VideoGen-of-Thought.svg?style=social&label=Star)](https://github.com/DuNGEOnmassster/VideoGen-of-Thought)
+      [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://cheliosoops.github.io/VGoT/)
+
 + **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (25 Nov 2024)
   <details><summary> Shenghai Yuan, Jinfa Huang, et al.</summary>
         Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan</details>
@@ -509,6 +515,19 @@ Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang 
 
 #### 🎨 Style Control
 
++ **Frame Guidance: Training-Free Guidance for
+Frame-Level Control in Video Diffusion Models** (08 June 2025)<details><summary>Zixuan Ye, Huijuan Huang, Xintao Wang, et al.</summary>
+Pengfei Wan, Di Zhang, Wenhan Luo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/pdf/2506.07177)
+[![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=88f3be3962ada1237f93d68e23b1d94239e8b756)](https://www.semanticscholar.org/paper/88f3be3962ada1237f93d68e23b1d94239e8b756)
+
++ **OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** (15 Apr 2025)<details><summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, et al.</summary>
+Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10825)
+[![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff.svg?style=social&label=Star)](https://github.com/Tele-AI/OmniVDiff.git)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=44d6f053a43a8bc5c45fe807066656d8e34d3d27)](https://www.semanticscholar.org/paper/44d6f053a43a8bc5c45fe807066656d8e34d3d27)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tele-ai.github.io/OmniVDiff/)
+
 + **StyleMaster: Stylize Your Video with Artistic Generation and Translation** (10 Dec 2024)<details><summary>Zixuan Ye, Huijuan Huang, Xintao Wang, et al.</summary>
 Pengfei Wan, Di Zhang, Wenhan Luo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07744)
@@ -536,13 +555,6 @@ Shuicheng Yan, Liujuan Cao, Rongrong Ji</details>
 [![Code](https://img.shields.io/github/stars/QuanjianSong/UniVST.svg?style=social&label=Star)](https://github.com/QuanjianSong/UniVST)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=fcc87eec6543d4e33a2cd679b705292af9020cb4)](https://www.semanticscholar.org/paper/fcc87eec6543d4e33a2cd679b705292af9020cb4)
 
-+ **StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces** (21 Jul 2023)<details><summary>[ICCV 2023] Shua Yang, Liming Jiang, Ziwei Liu, et al.</summary>
-Chen Change Loy</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.06146)
-[![Code](https://img.shields.io/github/stars/williamyang1991/StyleGANEX.svg?style=social&label=Star)](https://github.com/williamyang1991/StyleGANEX.git)
-[![citation](https://img.shields.io/badge/citation-22-blue.svg?paper=06aa2aa2a29f25437545478e7361744aa35a0419)](https://www.semanticscholar.org/paper/06aa2aa2a29f25437545478e7361744aa35a0419)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/styleganex/)
-
 + **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** (13 Jun 2023)<details><summary>[Siggraph Asia 2023] Shuai Yang, Yifan Zhou, Ziwei Liu, et al.</summary>
 Chen Change Loy</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07954)
@@ -556,28 +568,6 @@ Chen Change Loy</details>
 [![Code](https://img.shields.io/github/stars/williamyang1991/VToonify.svg?style=social&label=Star)](https://github.com/williamyang1991/VToonify.git)
 [![citation](https://img.shields.io/badge/citation-73-blue.svg?paper=866e09b1b9fcca7371346fd225479485a2bae20b)](https://www.semanticscholar.org/paper/866e09b1b9fcca7371346fd225479485a2bae20b) 
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.mmlab-ntu.com/project/vtoonify/)
-
-+ **Arbitrary video style transfer via multi-channel correlation** (17 Sep 2020)<details><summary>[AAAI 2020] Yingying Deng, Fan Tang, Weiming Dong, et al.</summary>
-Yingying Deng, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Changsheng Xu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2009.08003)
-[![Code](https://img.shields.io/github/stars/diyiiyiii/MCCNet.svg?style=social&label=Star)](https://github.com/diyiiyiii/MCCNet)
-[![citation](https://img.shields.io/badge/citation-170-blue.svg?paper=6c6aa5974edccd33117bdd1f6d2a8b6b3d0b44da)](https://www.semanticscholar.org/paper/6c6aa5974edccd33117bdd1f6d2a8b6b3d0b44da)
-
-+ **Fast video multi-style transfer** (2020)<details><summary>[WACV 2020] Wei Gao, Yijun Li, et al.</summary>
-Yihang Yin, Ming-Hsuan Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_WACV_2020/papers/Gao_Fast_Video_Multi-Style_Transfer_WACV_2020_paper.pdf)
-[![Code](https://img.shields.io/github/stars/gaow0007/Fast-Multi-Video-Style-Transfer.svg?style=social&label=Star)](https://github.com/gaow0007/Fast-Multi-Video-Style-Transfer.git)
-[![citation](https://img.shields.io/badge/citation-69-blue.svg?paper=0da4bd286cac8a8aa8577867ff87cab279ca964f)](https://www.semanticscholar.org/paper/0da4bd286cac8a8aa8577867ff87cab279ca964f)
-
-+ **Coherent online video style transfer** (27 Mar 2017)<details><summary>[CVPR 2017] Dongdong Chen, Jing Liao, Lu Yuan, et al.</summary>
-Nenghai Yu, Gang Hua</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1703.09211)
-[![citation](https://img.shields.io/badge/citation-335-blue.svg?paper=2d5b4144124f47a6357e6390dc6c0f8806ac54f5)](https://www.semanticscholar.org/paper/2d5b4144124f47a6357e6390dc6c0f8806ac54f5)
-
-+ **Real-time neural style transfer for videos** (2017)<details><summary>[CVPR 2017] Haozhi Huang, Hao Wang, Wenhan Luo, et al.</summary>
-Lin Ma, Wenhao Jiang, Xiaolong Zhu, Zhifeng Li, Wei Liu </details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)
-[![citation](https://img.shields.io/badge/citation-286-blue.svg?paper=6d05778f51fb0138a4ba46a6f007702a9a93654c)](https://www.semanticscholar.org/paper/6d05778f51fb0138a4ba46a6f007702a9a93654c)
 
 
 #### 📌 Point Control
@@ -607,13 +597,6 @@ Zhenguo Li, Xihui Liu</details>
 [![Code](https://img.shields.io/github/stars/tyshiwo1/drag-a-video.svg?style=social&label=Star)](https://github.com/tyshiwo1/drag-a-video.git)
 [![citation](https://img.shields.io/badge/citation-14-blue.svg?paper=58dfc9cfc39787322a74cc93c22c9d3028aa9ad7)](https://www.semanticscholar.org/paper/58dfc9cfc39787322a74cc93c22c9d3028aa9ad7)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://drag-a-video.github.io/)
-
-+ **Point-to-Point Video Generation** (5 Apr 2019)<details><summary>[ICCV 2019] Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, et al.</summary> Hwann-Tzong Chen, Min Sun </details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
-[![Code](https://img.shields.io/github/stars/yccyenchicheng/p2pvg.svg?style=social&label=Star)](https://github.com/yccyenchicheng/p2pvg.git)
-[![citation](https://img.shields.io/badge/citation-30-blue.svg?paper=cb0a151cf8740c66b461ff809e086b91f14bd23b)](https://www.semanticscholar.org/paper/cb0a151cf8740c66b461ff809e086b91f14bd23b)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zswang666.github.io/P2PVG-Project-Page/)
-
 
 #### 📏 Depth Control
 + **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses** (30 Nov 2024)<details><summary>Yatian Pang, Bin Zhu, Bin Lin, et al.</summary>
