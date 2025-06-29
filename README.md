@@ -533,7 +533,7 @@ Pengfei Wan, Di Zhang, Wenhan Luo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07744)
 [![Code](https://img.shields.io/github/stars/KwaiVGI/StyleMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/StyleMaster.git)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=0b0847aeb0eca4a26f838b0969b35c26ff8d8cc2)](https://www.semanticscholar.org/paper/0b0847aeb0eca4a26f838b0969b35c26ff8d8cc2)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://laulampaul.github.io/text-animator)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zixuan-ye.github.io/stylemaster/)
 
 + **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** (19 Mar 2024)<details><summary>[CVPR 2024] Shuai Yang, Yifan Zhou, Ziwei Liu, et al.</summary>
 Chen Change Loy</details>
