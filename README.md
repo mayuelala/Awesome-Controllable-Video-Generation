@@ -1437,7 +1437,7 @@ Yang Wu, Zhibin Liu, Hefeng Wu, Liang Lin</details>
 
 ### ✏️ Sketch Control
 
-+ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
++ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>[ICCV 2025] Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
 Feng Wang, Zhaoxiang Zhang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295)
 [![citation](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f8e95b78dab0cf5021667beef90eb80849b77a3%3Ffields%3DcitationCount&query=citationCount&label=citation&color=blue)](https://www.semanticscholar.org/paper/4f8e95b78dab0cf5021667beef90eb80849b77a3)
@@ -1583,7 +1583,7 @@ Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Yi
 [![Code](https://img.shields.io/github/stars/ant-research/LeviTor.svg?style=social&label=Star)](https://github.com/ant-research/LeviTor)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ppetrichor.github.io/levitor.github.io/)
 
-+ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
++ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>[ICCV 2025] Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
 Feng Wang, Zhaoxiang Zhang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295)
 [![Code](https://img.shields.io/github/stars/IamCreateAI/LayerAnimate.svg?style=social&label=Star)](https://github.com/IamCreateAI/LayerAnimate)
