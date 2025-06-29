@@ -13,55 +13,116 @@
 # 🤗 Introduction
 
 
-
 # 📋 Contents
-- [](#)
-- [🤗 Introduction](#-introduction)
-- [📋 Contents](#-contents)
-- [💘 Tips](#-tips)
-  - [🔹 Single Control](#-single-control)
-    - [🌟 Character Control/ID/Video Customization/Personalization](#-character-controlidvideo-customizationpersonalization)
-    - [📍 Spatial Control](#-spatial-control)
-      - [🕺 Pose Control](#-pose-control)
-      - [🚗 BEV-Control](#-bev-control)
-      - [🎨 Style Control](#-style-control)
-      - [📌 Point Control](#-point-control)
-      - [📏 Depth Control](#-depth-control)
-      - [🗺️ Landmark Control](#️-landmark-control)
-    - [✍️ Text Rendering](#️-text-rendering)
-    - [⏳ Temporal Control](#-temporal-control)
-      - [🌊 Flow-Guided](#-flow-guided)
-      - [📸 Camera-Guided](#-camera-guided)
-      - [🛤️ Traj-Guided](#️-traj-guided)
-      - [🎥 Motion Customization/Motion Mask/Motion Video](#-motion-customizationmotion-maskmotion-video)
-    - [📝 Advanced Text-Conditioned](#-advanced-text-conditioned)
-    - [🔄 In-Context](#-in-context)
-    - [🖼️ Image-guided](#️-image-guided)
-    - [🔊 Sound-Guided](#-sound-guided)
-    - [🎵 Audio/Music-Guided](#-audiomusic-guided)
-    - [🗂️ Layout Control](#️-layout-control)
-    - [✏️ Sketch Control](#️-sketch-control)
-    - [🤲 Language-Gesture Controlled](#-language-gesture-controlled)
-  - [🔸 Multi Control/I2V](#-multi-controli2v)
-    - [🖼️ + 🛤️ Image + Traj](#️--️-image--traj)
-    - [🖼️ + 📸 Image + Camera](#️---image--camera)
-    - [🛤️ + 📸 Traj + Camera](#️---traj--camera)
-    - [🖼️ + 🔊 Image + Audio](#️---image--audio)
-    - [🎥 + 📸 Video + Camera](#---video--camera)
-    - [🖼️ + 🌊 Image + Flow](#️---image--flow)
-    - [🖼️ + 🕺 Image + Pose](#️---image--pose)
-    - [🖼️ + 💡 Image + Lighting](#️---image--lighting)
-    - [✍️ + 🔊 Text + Sound](#️---text--sound)
-    - [🌟 + 🎥 Personalized + Motion](#---personalized--motion)
-  - [❓ To be sorted](#-to-be-sorted)
-  - [🌐 Unified controllable generation](#-unified-controllable-generation)
 
+* [🤗 Introduction](#-introduction)
+* [📋 Contents](#-contents)
+
+  * [🌐 Structure Control](#-structure-control)
+
+    * [🕺 Pose-Guided](#-pose-guided)
+    * [📏 Depth-Guided](#-depth-guided)
+    * [🗺️ Landmark-Guided](#-landmark-guided)
+    * [✏️ Sketch-Guided](#-sketch-guided)
+    * [📦 BBox-Guided](#-bbox-guided)
+  * [🧬 ID Control](#-id-control)
+
+    * [🧑 Person-Guided](#-person-guided)
+    * [🧑‍🤝‍🧑 Subject-Guided](#-subject-guided)
+  * [🖼️ Image Control](#-image-control)
+  * [⏳ Temporal Control](#-temporal-control)
+
+    * [🌊 Flow-Guided](#-flow-guided)
+    * [🛤️ Trajectory-Guided](#-trajectory-guided)
+    * [📸 Camera-Guided](#-camera-guided)
+    * [🎬 Motion-Guided](#-motion-guided)
+  * [🔊 Audio Control](#-audio-control)
+
+    * [🗣️ Voice-Guided](#-voice-guided)
+    * [🎵 Sound-Guided](#-sound-guided)
+  * [🧩 Other Controls](#-other-controls)
+
+    * [📝 Text Rendering](#-text-rendering)
+    * [🎨 Style-Guided](#-style-guided)
+    * [📌 Point-Guided](#-point-guided)
+    * [🗺️ BEV-Guided](#-bev-guided)
+  * [🌀 Universal Control](#-universal-control)
+* [❓ To be sorted](#-to-be-sorted)
+
+
+# 💘 Tips
+- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
+- **✅ Paper searching via author name**: Free feel to search papers of a specific author via ctrl + F and then type the author name. The dropdown list of authors will automatically expand when searching.
 
 # 💘 Tips
 - **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
 - **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
 
 
+## 🌐 Structure Control
+
+### 🕺 Pose-Guided
+
+### 📏 Depth-Guided
+
+### 🗺️ Landmark-Guided
+
+### ✏️ Sketch-Guided
+
+### 📦 BBox-Guided
+
+---
+
+## 🧬 ID Control
+
+### 🧑 Person-Guided
+
+### 🧑‍🤝‍🧑 Subject-Guided
+
+---
+
+## 🖼️ Image Control
+
+（该类无细分子类，直接以方法列表展开）
+
+---
+
+## ⏳ Temporal Control
+
+### 🌊 Flow-Guided
+
+### 🛤️ Trajectory-Guided
+
+### 📸 Camera-Guided
+
+### 🎬 Motion-Guided
+
+---
+
+## 🔊 Audio Control
+
+### 🗣️ Voice-Guided
+
+### 🎵 Sound-Guided
+
+---
+
+## 🧩 Other Controls
+
+### 📝 Text Rendering
+
+### 🎨 Style-Guided
+
+### 📌 Point-Guided
+
+### 🗺️ BEV-Guided
+
+
+
+## 🌀 Universal Control
+
+
+---- 
 ## 🔹 Single Control
 
 ### 🌟 Character Control/ID/Video Customization/Personalization
