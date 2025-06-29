@@ -15,8 +15,6 @@
 
 # 📋 Contents
 
-* [🤗 Introduction](#-introduction)
-* [📋 Contents](#-contents)
 
   * [🌐 Structure Control](#-structure-control)
 
