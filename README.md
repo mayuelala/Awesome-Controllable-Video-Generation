@@ -45,7 +45,6 @@
     * [📌 Point-Guided](#-point-guided)
     * [🗺️ BEV-Guided](#-bev-guided)
   * [🌀 Universal Control](#-universal-control)
-* [❓ To be sorted](#-to-be-sorted)
 
 
 # 💘 Tips
