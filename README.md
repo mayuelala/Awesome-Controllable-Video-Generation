@@ -73,6 +73,13 @@
    [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/OpenS2V-Nexus.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/OpenS2V-Nexus/)
 
++ **VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control** (9 Apr 2025)<details><summary>Yuxuan Bian, Zhaoyang Zhang, Xuan Ju, et al.</summary>
+        Yuxuan Bian, Zhaoyang Zhang, Xuan Ju, Mingdeng Cao, Liangbin Xie, Ying Shan, Qiang Xu</details>
+        [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05639)
+        [![Code](https://img.shields.io/github/stars/TencentARC/VideoPainter.svg?style=social&label=Star)](https://github.com/TencentARC/VideoPainter) 
+        [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://yxbian23.github.io/project/video-painter/)
+        [![Dataset](https://img.shields.io/badge/Dataset-e97451)](https://huggingface.co/collections/TencentARC/videopainter-67cc49c6146a48a2ba93d159)
+
 + **SkyReels-A2: Compose Anything in Video Diffusion Transformers** (3 Apr 2025)<details><summary>Zhengcong Fei, Debang Li, Di Qiu, et al.</summary>
         Zhengcong Fei, Debang Li, Di Qiu, Jiahua Wang, Yikun Dou, Rui Wang, Jingtao Xu, Mingyuan Fan, Guibin Chen, Yang Li, Yahui Zhou</details>
         [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.02436)
