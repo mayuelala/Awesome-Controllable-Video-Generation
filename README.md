@@ -1561,6 +1561,11 @@ Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Yi
 ## 🔸 Multi Control/I2V
 
 ### 🖼️ + 🛤️ Image + Traj 
++ **MotionPro: A Precise Motion Controller for Image-to-Video Generation** (26 May 2025)<details><summary>Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, Yingwei Pan, Wu Liu, Ting Yao, Tao Mei .</summary></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20287)
+[![Code](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zhw-zhang.github.io/MotionPro-page/)
+
 + **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (2 Apr 2025) <details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07531)
 [![Code](https://img.shields.io/github/stars/tandaily/Awesome-Relighting.svg?style=social&label=Star)](https://github.com/tandaily/Awesome-Relighting)
