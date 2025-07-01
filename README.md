@@ -15,108 +15,117 @@
 
 # 📋 Contents
 
-
   * [🌐 Structure Control](#-structure-control)
-
     * [🕺 Pose-Guided](#-pose-guided)
     * [📏 Depth-Guided](#-depth-guided)
     * [🗺️ Landmark-Guided](#-landmark-guided)
     * [✏️ Sketch-Guided](#-sketch-guided)
     * [📦 BBox-Guided](#-bbox-guided)
   * [🧬 ID Control](#-id-control)
-
     * [🧑 Person-Guided](#-person-guided)
     * [🧑‍🤝‍🧑 Subject-Guided](#-subject-guided)
   * [🖼️ Image Control](#-image-control)
   * [⏳ Temporal Control](#-temporal-control)
-
     * [🌊 Flow-Guided](#-flow-guided)
     * [🛤️ Trajectory-Guided](#-trajectory-guided)
     * [📸 Camera-Guided](#-camera-guided)
     * [🎬 Motion-Guided](#-motion-guided)
   * [🔊 Audio Control](#-audio-control)
-
     * [🗣️ Voice-Guided](#-voice-guided)
     * [🎵 Sound-Guided](#-sound-guided)
   * [🧩 Other Controls](#-other-controls)
-
     * [📝 Text Rendering](#-text-rendering)
     * [🎨 Style-Guided](#-style-guided)
     * [📌 Point-Guided](#-point-guided)
     * [🗺️ BEV-Guided](#-bev-guided)
   * [🌀 Universal Control](#-universal-control)
 
-
-# 💘 Tips
-- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
-- **✅ Paper searching via author name**: Free feel to search papers of a specific author via ctrl + F and then type the author name. The dropdown list of authors will automatically expand when searching.
-
-
 ## 🌐 Structure Control
 
 ### 🕺 Pose-Guided
-
-
-
+<a id="-pose-guided"></a>
 
 
 ### 📏 Depth-Guided
+<a id="-depth-guided"></a>
 
 
 ### 🗺️ Landmark-Guided
+<a id="-landmark-guided"></a>
+
 
 ### ✏️ Sketch-Guided
+<a id="-sketch-guided"></a>
+
 
 ### 📦 BBox-Guided
-
+<a id="-bbox-guided"></a>
 
 
 ## 🧬 ID Control
 
 ### 🧑 Person-Guided
+<a id="-person-guided"></a>
+
 
 ### 🧑‍🤝‍🧑 Subject-Guided
-
+<a id="-subject-guided"></a>
 
 
 ## 🖼️ Image Control
+<a id="-image-control"></a>
 
 
 ## ⏳ Temporal Control
 
 ### 🌊 Flow-Guided
+<a id="-flow-guided"></a>
+
 
 ### 🛤️ Trajectory-Guided
+<a id="-trajectory-guided"></a>
+
 
 ### 📸 Camera-Guided
-
+<a id="-camera-guided"></a>
 
 
 ### 🎬 Motion-Guided
-
+<a id="-motion-guided"></a>
 
 
 ## 🔊 Audio Control
 
 ### 🗣️ Voice-Guided
+<a id="-voice-guided"></a>
+
 
 ### 🎵 Sound-Guided
-
+<a id="-sound-guided"></a>
 
 
 ## 🧩 Other Controls
 
 ### 📝 Text Rendering
+<a id="-text-rendering"></a>
+
 
 ### 🎨 Style-Guided
+<a id="-style-guided"></a>
+
 
 ### 📌 Point-Guided
+<a id="-point-guided"></a>
+
 
 ### 🗺️ BEV-Guided
-
+<a id="-bev-guided"></a>
 
 
 ## 🌀 Universal Control
+<a id="-universal-control"></a>
+
+
 
 
 ---
