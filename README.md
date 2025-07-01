@@ -65,6 +65,42 @@
 ## 🔹 Single Control
 
 ### 🌟 Character Control/ID/Video Customization/Personalization
+
++ **MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation** (30 May 2025)
+   <details><summary>Yanbo Ding, Xirui Hu, Zhizhi Guo, et al.</summary>  
+         Yanbo Ding, Xirui Hu, Zhizhi Guo, Chi Zhang, Yali Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10238)
+   [![Code](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social&label=Star)](https://github.com/DINGYANB/MTVCrafter)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://dingyanb.github.io/MTVCtafter/)
+
+ + **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** (23 May 2025)
+   <details><summary>Junhao Chen, Mingjin Chen, Jianjin Xu, et al.</summary>  
+         Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li, Yuhang Yang, Hao Zhao, Xiaoxiao Long, Ruqi Huang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18078)
+   
++ **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization** (4 May 2025)
+   <details><summary>Wenchuan Wang, Mengqi Huang, Yijing Tu, et al.</summary>  
+         Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02192)
+  
++ **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** (19 Apr 2025)
+   <details><summary>Yong Zhong, Zhuoyi Yang, Jiayan Teng, et al.</summary>  
+         Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14151)
+   [![Code](https://img.shields.io/github/stars/ML-GSAI/Concat-ID.svg?style=social&label=Star)](https://github.com/ML-GSAI/Concat-ID)
+
+ 
++ **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** (27 Mar 2025)
+   <details><summary>Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, et al.</summary>  
+         Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, Kai-Po Chang, Fu-En Yang, Yu-Chiang Frank Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21781)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://jasper0314-huang.github.io/videomage-customization/)
+
 + **OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation** (26 May 2025)
   <details><summary> Shenghai Yuan, Xianyi He, et al.</summary>
         Shenghai Yuan, Xianyi He, Yufan Deng, Yang Ye, Jinfa Huang, Bin Lin, Jiebo Luo, Li Yuan</details>
@@ -530,12 +566,24 @@ Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang 
 
 #### 🎨 Style Control
 
++ **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** (8 Jun 2025)
+   <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
+         Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07177)
+
 + **Frame Guidance: Training-Free Guidance for
 Frame-Level Control in Video Diffusion Models** (08 June 2025)<details><summary>Zixuan Ye, Huijuan Huang, Xintao Wang, et al.</summary>
 Pengfei Wan, Di Zhang, Wenhan Luo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/pdf/2506.07177)
 [![citation](https://img.shields.io/badge/citation-0-blue.svg?paper=88f3be3962ada1237f93d68e23b1d94239e8b756)](https://www.semanticscholar.org/paper/88f3be3962ada1237f93d68e23b1d94239e8b756)
 
++ **OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** (15 Apr 2025)
+   <details><summary>Xiaoda Yang, Jiayang Xu, Kaixuan Luan, et al.</summary>  
+         Xiaoda Yang, Jiayang Xu, Kaixuan Luan, Xinyu Zhan, Hongshun Qiu, Shijun Shi, Hao Li, Shuai Yang, Li Zhang, Checheng Yu, Cewu Lu, Lixin Yang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10825)
+  
 + **OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** (15 Apr 2025)<details><summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, et al.</summary>
 Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10825)
@@ -929,6 +977,27 @@ Yuming Li, Chenguang Ma</details>
 
 
 #### 🎥 Motion Customization/Motion Mask/Motion Video
++ **Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning** (5 Jun 2025)
+   <details><summary>Yue Ma, Yulong Liu, Qiyuan Zhu, et al.</summary>  
+         Yue Ma, Yulong Liu, Qiyuan Zhu, Ayden Yang, Kunyu Feng, Xinhua Zhang, Zhifeng Li, Sirui Han, Chenyang Qi, Qifeng Chen</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05207)
+  
++ **MotionPro: A Precise Motion Controller for Image-to-Video Generation** (29 May 2025)
+   <details><summary>Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, et al.</summary>  
+         Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, Yingwei Pan, Wu Liu, Ting Yao, Tao Mei</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20287)
+   [![Code](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://zhw-zhang.github.io/MotionPro-page/)
+
+
++ **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization** (4 May 2025)
+   <details><summary>Wenchuan Wang, Mengqi Huang, Yijing Tu, et al.</summary>  
+         Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02192)
+  
 
 + **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer** (15 Apr 2025) <details><summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, et al.</summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, Yingya Zhang, Changxin Gao, Yuehuan Wang, Nong Sang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289)
@@ -1082,6 +1151,27 @@ Yuming Li, Chenguang Ma</details>
 ### 🔄 In-Context
 
 ### 🖼️ Image-guided
+
++ **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** (8 Jun 2025)
+   <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
+         Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07177)
+  
++ **HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation** (13 May 2025)
+   <details><summary>Haiyang Zhou, Wangbo Yu, Jiawen Guan, et al.</summary>  
+         Haiyang Zhou, Wangbo Yu, Jiawen Guan, Xinhua Cheng, Yonghong Tian, Li Yuan</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.21650)
+   [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/HoloTime)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://zhouhyocean.github.io/holotime/)
+
++ **VideoPanda: Video Panoramic Diffusion with Multi-view Attention** (17 Apr 2025)
+   <details><summary>Kevin Xie, Amirmojtaba Sabour, Jiahui Huang, et al.</summary>  
+         Kevin Xie, Amirmojtaba Sabour, Jiahui Huang, Despoina Paschalidou, Greg Klar, Umar Iqbal, Sanja Fidler, Xiaohui Zeng</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11389)
+  
 
 + **HunyuanVideo: A Systematic Framework For Large Video Generative Models** (11 Mar 2025)<details><summary>Weijie Kong, Qi Tian, Zijian Zhang, et al.</summary>Rox Min, Zuozhuo Dai, Jin Zhou, Jiangfeng Xiong, Xin Li, Bo Wu, Jianwei Zhang, Kathrina Wu, Qin Lin, Junkun Yuan, Yanxin Long, Aladdin Wang, Andong Wang, Changlin Li, Duojun Huang, Fang Yang, Hao Tan, Hongmei Wang, Jacob Song, Jiawang Bai, Jianbing Wu, Jinbao Xue, Joey Wang, Kai Wang, Mengyang Liu, Pengyu Li, Shuai Li, Weiyan Wang, Wenqing Yu, Xinchi Deng, Yang Li, Yi Chen, Yutao Cui, Yuanbo Peng, Zhentao Yu, Zhiyu He, Zhiyong Xu, Zixiang Zhou, Zunnan Xu, Yangyu Tao, Qinglin Lu, Songtao Liu, Dax Zhou, Hongfa Wang, Yong Yang, Di Wang, Yuhong Liu, Jie Jiang, Caesar Zhong</details></details>
 [![Paper](https://img.shields.io/badge/Technical%20Report-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
@@ -1436,8 +1526,23 @@ Yang Wu, Zhibin Liu, Hefeng Wu, Liang Lin</details>
 
 
 ### ✏️ Sketch Control
++ **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** (8 Jun 2025)
+   <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
+         Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details>  
 
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07177)
+  
++ **SketchVideo: Sketch-based Video Generation and Editing** (30 Mar 2025)
+   <details><summary>Feng-Lin Liu, Hongbo Fu, Xintao Wang, et al.</summary>  
+         Feng-Lin Liu, Hongbo Fu, Xintao Wang, Weicai Ye, Pengfei Wan, Di Zhang, Lin Gao</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23284)
+   [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Star)](https://github.com/IGLICT/SketchVideo)
+  
++ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
+=======
 + **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)<details><summary>[ICCV 2025] Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
+>>>>>>> main
 Feng Wang, Zhaoxiang Zhang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295)
 [![citation](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f8e95b78dab0cf5021667beef90eb80849b77a3%3Ffields%3DcitationCount&query=citationCount&label=citation&color=blue)](https://www.semanticscholar.org/paper/4f8e95b78dab0cf5021667beef90eb80849b77a3)
@@ -1568,6 +1673,34 @@ Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Yi
 ## 🔸 Multi Control/I2V
 
 ### 🖼️ + 🛤️ Image + Traj 
+
+
++ **ATI: Any Trajectory Instruction for Controllable Video Generation** (10 Jun 2025)
+   <details><summary>Angtian Wang, Haibin Huang, Jacob Zhiyuan Fang, et al.</summary>  
+         Angtian Wang, Haibin Huang, Jacob Zhiyuan Fang, Yiding Yang, Chongyang Ma</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22944)
+   [![Code](https://img.shields.io/github/stars/bytedance/ATI.svg?style=social&label=Star)](https://github.com/bytedance/ATI)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://anytraj.github.io/)
+
+ + **MOVi: Training-free Text-conditioned Multi-Object Video Generation** (29 May 2025)
+   <details><summary>Aimon Rahman, Jiang Liu, Ze Wang, et al.</summary>  
+         Aimon Rahman, Jiang Liu, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Yusheng Su, Vishal M. Patel, Zicheng Liu, Emad Barsoum</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22980)
+   
++ **AnimateAnywhere: Rouse the Background in Human Image Animation** (28 Apr 2025)
+   <details><summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, et al.</summary>  
+         Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wangційна
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834)
+
++ **Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation** (21 Apr 2025)
+   <details><summary>Chenjie Cao, Jingkai Zhou, Shikai Li, et al.</summary>  
+         Chenjie Cao, Jingkai Zhou, Shikai Li, Jingyun Liang, Chaohui Yu, Fan Wang, Xiangyang Xue, Yanwei Fu</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14899)
+  
 + **MotionPro: A Precise Motion Controller for Image-to-Video Generation** (26 May 2025)<details><summary>Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, Yingwei Pan, Wu Liu, Ting Yao, Tao Mei .</summary></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20287)
 [![Code](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)
@@ -1690,13 +1823,28 @@ Feng Wang, Zhaoxiang Zhang</details>
 
 
 ### 🖼️ + 📸 Image + Camera
-+ **Aether: Geometric-Aware Unified World Modeling** (18 Mar 2025)
-   <details><summary>Aether Team, et al.</summary>  
-        Haoyi Zhu, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Chunhua Shen, Jiangmiao Pang, Tong He </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18945)
-   [![GitHub](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Star)](https://github.com/OpenRobotLab/Aether)
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aether-world.github.io/)
++ **Follow-Your-Creation: Empowering 4D Creation through Video Inpainting** (5 Jun 2025)
+   <details><summary>Yue Ma, Kunyu Feng, Xinhua Zhang, et al.</summary>  
+         Yue Ma, Kunyu Feng, Xinhua Zhang, Hongyu Liu, David Junhao Zhang, Jinbo Xing, Yinhan Zhang, Ayden Yang, Zeyu Wang, Qifeng Chen</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04590)
+
+
++ **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation** (4 Jun 2025)
+   <details><summary>Tianyu Huang, Wangguandong Zheng, Tengfei Wang, et al.</summary>  
+         Tianyu Huang, Wangguandong Zheng, Tengfei Wang, Yuhao Liu, Zhenwei Wang, Junta Wu, Jie Jiang, Hui Li, Rynson W. H. Lau, Wangmeng Zuo, Chunchao Guo</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04225)
+   [![Code](https://img.shields.io/github/stars/Voyager-World/Voyager.svg?style=social&label=Star)](https://github.com/Voyager-World/Voyager)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://voyager-world.github.io/)
+  
++ **OmniCam: Unified Multimodal Video Generation via Camera Control** (3 Apr 2025)
+   <details><summary>Yang, Xiaoda; Xu, Jiayang; Luan, Kaixuan, et al.</summary>  
+         Yang, Xiaoda; Xu, Jiayang; Luan, Kaixuan; Zhan, Xinyu; Qiu, Hongshun; Shi, Shijun; Li, Hao; Yang, Shuai; Zhang, Li; Yu, Checheng; Lu, Cewu; Yang, Lixin</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02312)
+
   
 + **GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography** (10 Apr 2025) <details><summary>Mengchen Zhang, Tong Wu, Jing Tan, et al.</summary>Mengchen Zhang, Tong Wu, Jing Tan, Ziwei Liu, Gordon Wetzstein, Dahua Lin</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.07083)
@@ -1713,6 +1861,14 @@ Feng Wang, Zhaoxiang Zhang</details>
 [![Code](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cvpr.thecvf.com/virtual/2025/poster/33323)
 
++ **Aether: Geometric-Aware Unified World Modeling** (18 Mar 2025)
+   <details><summary>Aether Team, et al.</summary>  
+        Haoyi Zhu, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Chunhua Shen, Jiangmiao Pang, Tong He </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.18945)
+   [![GitHub](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Star)](https://github.com/OpenRobotLab/Aether)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aether-world.github.io/)
+  
 + **CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models** (13 Mar 2025) <details><summary>Hao He, Ceyuan Yang, Shanchuan Lin, et al.</summary>Yinghao Xu, Meng Wei, Liangke Gui, Qi Zhao, Gordon Wetzstein, Lu Jiang, Hongsheng Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10592)
 [![code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
@@ -2057,6 +2213,23 @@ C V Jawahar</details>
 
 
 ### 🖼️ + 🕺 Image + Pose
+
+
+
++ **MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation** (30 May 2025)
+   <details><summary>Yanbo Ding, Xirui Hu, Zhizhi Guo, et al.</summary>  
+         Yanbo Ding, Xirui Hu, Zhizhi Guo, Chi Zhang, Yali Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10238)
+   [![Code](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social&label=Star)](https://github.com/DINGYANB/MTVCrafter)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://dingyanb.github.io/MTVCtafter/)
+
+ + **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** (23 May 2025)
+   <details><summary>Junhao Chen, Mingjin Chen, Jianjin Xu, et al.</summary>  
+         Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li, Yuhang Yang, Hao Zhao, Xiaoxiao Long, Ruqi Huang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18078)
+
 + **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** (6 May 2025)
    <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
         Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
@@ -2064,7 +2237,13 @@ C V Jawahar</details>
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
    [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
-  
+
+ + **AnimateAnywhere: Rouse the Background in Human Image Animation** (28 Apr 2025)
+   <details><summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, et al.</summary>  
+         Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wangційна
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834)
+
 + **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (3 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
   Gaojie Lin, Jianwen Jiang, Jiaqi Yang, Zerong Zheng, Chao Liang</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061)
