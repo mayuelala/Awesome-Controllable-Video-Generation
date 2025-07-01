@@ -89,6 +89,9 @@
 ### 🛤️ Trajectory-Guided
 
 ### 📸 Camera-Guided
++ **Follow-Your-Creation: Empowering 4D Creation through Video Inpainting** (5 Jun 2025)  
+   <details><summary>Yue Ma, Kunyu Feng, Xinhua Zhang, et al.</summary> Yue Ma, Kunyu Feng, Xinhua Zhang, Hongyu Liu, David Junhao Zhang, Jinbo Xing, Yinhan Zhang, Ayden Yang, Zeyu Wang, Qifeng Chen</details>  
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04590)
 
 
 
