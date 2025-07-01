@@ -55,8 +55,198 @@
 ## 🌐 Structure Control
 
 ### 🕺 Pose-Guided
++ **\textcolor{Green}{FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios}** (6 May 2025)
+   <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
+        Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
+   [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
+
++ **\textcolor{Green}{TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation}** (14 Mar 2025)
+   <details><summary>Hongxiang Zhao, Xingchen Liu, et al.</summary>  
+        Hongxiang Zhao, Xingchen Liu, Mutian Xu, Yiming Hao, Weikai Chen, Xiaoguang Han </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11423)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://taste-rob.github.io/)
+
++ **\textcolor{Green}{SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers}** (15 Feb 2025)
+   <details><summary>Di Qiu, Zhengcong Fei, et al.</summary>
+    Di Qiu, Zhengcong Fei, Rui Wang, Jialin Bai, Changqian Yu, Mingyuan Fan, Guibin Chen, Xiang Wen</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.10841)
+   [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-A1)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)]([https://anycharv.github.io/](https://skyworkai.github.io/skyreels-a1.github.io/))
+
++ **\textcolor{Green}{AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance}** (12 Feb 2025)
+   <details><summary>Zhao Wang, Hao Wen, et al.</summary>  
+        Zhao Wang, Hao Wen, Lingting Zhu, Chenming Shang, Yujiu Yang, Qi Dou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)
+   [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
+
++ **\textcolor{Green}{Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance}** (10 Feb 2025)
+   <details><summary>Li Hu, Guangyuan Wang, et al.</summary>  
+        Li Hu, Guangyuan Wang, Zhen Shen, Xin Gao, Dechao Meng, Lian Zhuo, Peng Zhang, Bang Zhang, Liefeng Bo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06145)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/animate-anyone-2/)
+
++ **Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** (19 Dec 2024)
+   <details><summary>Mingdeng Cao, Chong Mou, et al.</summary>  
+        Mingdeng Cao, Chong Mou, Ziyang Yuan, Xintao Wang, Zhaoyang Zhang, Ying Shan, Yinqiang Zheng </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14531)
+   [![Code](https://img.shields.io/github/stars/ljzycmd/SCD.svg?style=social&label=Star)](https://github.com/ljzycmd/SCD)
+
++ **DirectorLLM for Human-Centric Video Generation** (19 Dec 2024)
+   <details><summary>Kunpeng Song, Tingbo Hou, et al.</summary>  
+        Kunpeng Song, Tingbo Hou, Zecheng He, Haoyu Ma, Jialiang Wang, Animesh Sinha, Sam Tsai, Yaqiao Luo, Xiaoliang Dai, Li Chen, Xide Xia, Peizhao Zhang, Peter Vajda, Ahmed Elgammal, Felix Juefei-Xu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14484)
+
++ **Generative Inbetweening through Frame-wise Conditions-Driven Video Generation** (16 Dec 2024)
+   <details><summary>[CVPR 2025] Tianyi Zhu, Dongwei Ren, et al.</summary>  
+        Tianyi Zhu, Dongwei Ren, Qilong Wang, Xiaohe Wu, Wangmeng Zuo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11755)
+   [![Code](https://img.shields.io/github/stars/Tian-one/FCVG.svg?style=social&label=Star)](https://github.com/Tian-one/FCVG)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fcvg-inbetween.github.io/)
+
++ **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** (12 Dec 2024)
+   <details><summary>[ICLR2025] Hongxiang Li, Yaowei Li, et al.</summary>  
+        Hongxiang Li, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09349)
+   [![Code](https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star)](https://github.com/lihxxx/DisPose)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lihxxx.github.io/DisPose/)
+
++ **ControlNeXt: Powerful and Efficient Control for Image and Video Generation** (12 Aug 2024)
+   <details><summary>Bohao Peng, Jian Wang, et al.</summary>  
+        Bohao Peng, Jian Wang, Yuechen Zhang, Wenbo Li, Ming-Chang Yang, Jiaya Jia </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
+   [![Code](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pbihao.github.io/projects/controlnext/index.html)
+
++ **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** (28 Jun 2024)
+   <details><summary>Yuang Zhang, Jiaxi Gu, et al.</summary>  
+        Yuang Zhang, Jiaxi Gu, Li-Wen Wang, Han Wang, Junqi Cheng, Yuefeng Zhu, Fangyuan Zou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680)
+   [![Code](https://img.shields.io/github/stars/tencent/MimicMotion.svg?style=social&label=Star)](https://github.com/tencent/MimicMotion)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tencent.github.io/MimicMotion/)
+
++ **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance** (21 Mar 2024)
+   <details><summary>[ECCV 2024] Shenhao Zhu, Junming Leo Chen, et al.</summary>  
+        Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+   [![Code](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fudan-generative-vision.github.io/champ/#/)
+
++ **Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons** (24 Jan 2024)
+   <details><summary>Zhe Xu, Kun Wei, et al.</summary>  
+        Zhe Xu, Kun Wei, Xu Yang, Cheng Deng </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13363)
+
++ **Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models** (3 Dec 2023)
+   <details><summary>[CVPR 2024] Shengqu Cai, Duygu Ceylan, et al.</summary>  
+        Shengqu Cai, Duygu Ceylan, Matheus Gadelha, Chun-Hao Paul Huang, Tuanfeng Yang Wang, Gordon Wetzstein </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://primecai.github.io/generative_rendering/)
+
++ **\textcolor{Green}{Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation}** (28 Nov 2023)
+   <details><summary>[CVPR 2024] Li Hu, Xin Gao, Peng Zhang, et al.</summary>  
+        Li Hu, Xin Gao, Peng Zhang, Ke Sun, Bang Zhang, Liefeng Bo </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117v3)
+   [![Code](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone.svg?style=social&label=Star)](https://github.com/HumanAIGC/AnimateAnyone)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/animate-anyone/)
+
++ **\textcolor{Green}{MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model}** (27 Nov 2023)
+   <details><summary>[CVPR 2024] Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, et al.</summary>  
+        Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Hanshu Yan, Jia-Wei Liu, Chenxu Zhang, Jiashi Feng, Mike Zheng Shou </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16498)
+   [![Code](https://img.shields.io/github/stars/magic-research/magic-animate.svg?style=social&label=Star)](https://github.com/magic-research/magic-animate)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/magicanimate/)
+
++ **DISCO: Disentangled Control for Realistic Human Dance Generation** (30 Jun 2023)
+   <details><summary>[CVPR 2024] Tan Wang, Linjie Li, Kevin Lin, et al.</summary>  
+        Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040)
+   [![Code](https://img.shields.io/github/stars/Wangt-CN/DisCo.svg?style=social&label=Star)](https://github.com/Wangt-CN/DisCo)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://disco-dance.github.io)
+
 
 ### 📏 Depth-Guided
++ **\textcolor{Green}{DreamDance}~\cite{pang2024dreamdance}** (30 Nov 2024)<details><summary>Yatian Pang, Bin Zhu, Bin Lin, et al.</summary>
+        Mingzhe Zheng, Francis E. H. Tay, Ser-Nam Lim, Harry Yang, Li Yuan </details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00397)
+[![Code](https://img.shields.io/github/stars/YongjinLiu/DreamDance.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/DreamDance.git)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=00166f6852bc348570bf65e27a23407bd789ab37)](https://www.semanticscholar.org/paper/0be2accfc866bbe4aa1d507b0d2b53cd5fc4a62a#citing-papers)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pang-yatian.github.io/Dreamdance-webpage/)
+
++ **\textcolor{Green}{ControlNeXt}~\cite{peng2024controlnext}** (12 Aug 2024)<details><summary>Bohao Peng, Jian Wang, Yuechen Zhang, et al.</summary>
+        Wenbo Li, Ming-Chang Yang, Jiaya Jia</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
+[![Code](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt.git)
+[![citation](https://img.shields.io/badge/citation-45-blue.svg?paper=e4ec4dea3e6f26e69f39a96d00d228070f4bde60)](https://www.semanticscholar.org/paper/e4ec4dea3e6f26e69f39a96d00d228070f4bde60)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pbihao.github.io/projects/controlnext/index.html)
+
++ **\textcolor{Green}{Champ}~\cite{zhu2024champ}** (21 Mar 2024)<details><summary>[ECCV 2024] Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, et al.</summary>
+      Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14781)
+[![Code](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ.git)
+[![citation](https://img.shields.io/badge/citation-89-blue.svg?paper=ec41ad3a2a538da7eda1a7b0979d6904ade17d82)](https://www.semanticscholar.org/paper/ec41ad3a2a538da7eda1a7b0979d6904ade17d82)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fudan-generative-vision.github.io/champ/#/)
+
++ **\textcolor{Green}{MoonShot}~\cite{zhang2024moonshot}** (3 Jan 2024)<details><summary>David Junhao Zhang, Dongxu Li, Hung Le, et al.</summary>
+      Mike Zheng Shou, Caiming Xiong, Doyen Sahoo</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01827)
+[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS.git)
+[![citation](https://img.shields.io/badge/citation-37-blue.svg?paper=9be8950710e375cf47a002e9b4094b04814bde62)](https://www.semanticscholar.org/paper/9be8950710e375cf47a002e9b4094b04814bde62)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://showlab.github.io/Moonshot/)
+
++ **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** (28 Nov 2023)<details><summary>[ECCV 2024] Yuwei Guo, Ceyuan Yang, Anyi Rao, et al.</summary>
+        Maneesh Agrawala, Dahua Lin, Bo Dai</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16933)
+[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff.git)
+[![citation](https://img.shields.io/badge/citation-97-blue.svg?paper=40626a059bcd8d3e7f364b410f831b9baf997b0c)](https://www.semanticscholar.org/paper/40626a059bcd8d3e7f364b410f831b9baf997b0c)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guoyww.github.io/projects/SparseCtrl/)
+
++ **GD-VDM: Generated Depth for better Diffusion-based Video Generation** (19 Jun 2023)<details><summary>Ariel Lapid, Idan Achituve, Lior Bracha, et al.</summary>
+        Ethan Fetaya</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11173)
+[![Code](https://img.shields.io/github/stars/lapid92/GD-VDM.svg?style=social&label=Star)](https://github.com/lapid92/GD-VDM.git)
+[![citation](https://img.shields.io/badge/citation-8-blue.svg?paper=da771b92882d87f97dead9c5705d67ae0c717916)](https://www.semanticscholar.org/paper/da771b92882d87f97dead9c5705d67ae0c717916)
+
++ **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** (1 Jun 2023)<details><summary>[IEEE TVCG 2024] Jinbo Xing, Menghan Xia, Yuxin Liu, et al.</summary>
+        Yuechen Zhang, Yong Zhang, Yingqing He, Hanyuan Liu, Haoxin Chen, Xiaodong Cun, Xintao Wang, Ying Shan, Tien-Tsin Wong</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
+[![Code](https://img.shields.io/github/stars/AILab-CVC/Make-Your-Video.svg?style=social&label=Star)](https://github.com/AILab-CVC/Make-Your-Video.git)
+[![citation](https://img.shields.io/badge/citation-69-blue.svg?paper=52b10ae66d025e99fbb602935e155f97f4f0696f)](https://www.semanticscholar.org/paper/52b10ae66d025e99fbb602935e155f97f4f0696f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/Make-Your-Video/)
+
++ **Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning** (23 May 2023)<details><summary>Weifeng Chen, Yatai Ji, Jie Wu, et al.</summary>
+        Hefeng Wu, Pan Xie, Jiashi Li, Xin Xia, Xuefeng Xiao, Liang Lin</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13840)
+[![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Star)](https://github.com/Weifeng-Chen/control-a-video.git)
+[![citation](https://img.shields.io/badge/citation-5-blue.svg?paper=7f37a93af316e16245498337bb160ee08e82346f)](https://www.semanticscholar.org/paper/7f37a93af316e16245498337bb160ee08e82346f)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlavideo.github.io/)
+
++ **ControlVideo: Training-free Controllable Text-to-Video Generation** (22 May 2023)<details><summary>[ICLR 2024] Yabo Zhang, Yuxiang Wei, Dongsheng Jiang, et al.</summary>
+      Xiaopeng Zhang, Wangmeng Zuo, Qi Tian</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13077)
+[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Star)](https://github.com/YBYBZhang/ControlVideo.git)
+[![citation](https://img.shields.io/badge/citation-249-blue.svg?paper=529191401a8a5f0a8bdb2a1c01301d76af585a3a)](https://www.semanticscholar.org/paper/529191401a8a5f0a8bdb2a1c01301d76af585a3a)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlvideov1.github.io/)
+
 
 ### 🗺️ Landmark-Guided
 
