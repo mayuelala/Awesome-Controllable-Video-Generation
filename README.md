@@ -55,7 +55,6 @@
 ## 🌐 Structure Control
 
 ### 🕺 Pose-Guided
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 
 + **<span style="color:#006400">FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</span>** (6 May 2025)
    <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
