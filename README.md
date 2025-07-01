@@ -89,7 +89,6 @@
 ### 🛤️ Trajectory-Guided
 
 ### 📸 Camera-Guided
-```markdown
 + **Follow-Your-Creation: Empowering 4D Creation through Video Inpainting** (5 Jun 2025)  
   <details><summary>Yue Ma, Kunyu Feng, Xinhua Zhang, et al.</summary>  
   Yue Ma, Kunyu Feng, Xinhua Zhang, Hongyu Liu, David Junhao Zhang, Jinbo Xing, Yinhan Zhang, Ayden Yang, Zeyu Wang, Qifeng Chen</details>  
@@ -228,37 +227,31 @@
 
 + **Trajectory Attention: Enhancing Video Generation with Fine-Grained Motion Control** (28 Nov 2024)  
   <details><summary>Zeqi Xiao, Wenqi Ouyang, Yifan Zhou, et al.</summary>  
- 
-```
+  Shuai Yang, Lei Yang, Jianlou Si, Xingang Pan</details>  
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.19324)  
+  [![Code](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD)  
+  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://deep-diver.github.io/ai-paper-reviewer/paper-reviews/2411.19324/)
 
-
-Shuai Yang, Lei Yang, Jianlou Si, Xingang Pan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.19324)
-[![Code](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social\&label=Star)](https://github.com/JinWonjoon/FloVD)
-[![Project\_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://deep-diver.github.io/ai-paper-reviewer/paper-reviews/2411.19324/)
-
-* **Video Diffusion Models are Training-free Motion Interpreter and Controller** (12 Nov 2024)
-
++ **Video Diffusion Models are Training-free Motion Interpreter and Controller** (12 Nov 2024)  
   <details><summary>Zeqi Xiao, Yifan Zhou, Shuai Yang, Xingang Pan, et al.</summary></details>  
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14864)  
   [![Code](https://img.shields.io/github/stars/xizaoqu/MOFT.svg?style=social&label=Star)](https://github.com/xizaoqu/MOFT)  
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xizaoqu.github.io/moft/)
 
-* **DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion** (7 Nov 2024)
-
++ **DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion** (7 Nov 2024)  
   <details><summary>Wenqiang Sun, Shuo Chen, Fangfu Liu, et al.</summary>  
   Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang</details>  
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04928)  
   [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX)  
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenshuo20.github.io/DimensionX/)
 
-* **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** (4 Jun 2024)
-
++ **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** (4 Jun 2024)  
   <details><summary>Dejia Xu, Weili Nie, Chao Liu, et al.</summary>  
   Sifei Liu, Jan Kautz, Zhangyang Wang, Arash Vahdat</details>  
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ir1d.github.io/CamCo/)  
   [![code](https://img.shields.io/github/stars/wangqiang9/Awesome-Controllable-Video-Diffusion.svg?style=social&label=Star)](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion)  
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ir1d.github.io/CamCo/)
+
 
 
 ### 🎬 Motion-Guided
