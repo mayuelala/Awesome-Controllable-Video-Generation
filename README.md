@@ -44,7 +44,7 @@
 # 💘 Tips
 - **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
 - **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
-- **✅ Multicontrol indicator**: If you see the tag ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=\[M]\&color=008000\&width=30\&fontSize=17\&height=17) next to a paper title, it indicates "multi-control".
+- **✅ Multicontrol indicator**: the tag ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=\[M]\&color=008000\&width=30\&fontSize=17\&height=17) next to a paper titleindicates "multi-control".
 
 
 
