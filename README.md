@@ -48,6 +48,7 @@
 
 
 
+
 ## 🌐 Structure Control
 
 ### 🕺 Pose-Guided
@@ -122,6 +123,9 @@
 + **DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (12 Apr 2023) <details><summary>[ICCV 2023] Johanna Karras, Aleksander Holynski, Ting-Chun Wang, et al.</summary> Johanna Karras, Aleksander Holynski, Ting-Chun Wang, Ira Kemelmacher-Shlizerman</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025) [![Code](https://img.shields.io/github/stars/johannakarras/DreamPose.svg?style=social&label=Star)](https://github.com/johannakarras/DreamPose) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://grail.cs.washington.edu/projects/dreampose/)
 
 + **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023) <details><summary>[AAAI 2024] Yue Ma, Yingqing He, et al.</summary> Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186) [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
+
++ **vid2vid:Video-to-Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Dec 2018) <details><summary>Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, et al.</summary> Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.06601) [![Code](https://img.shields.io/github/stars/NVIDIA/vid2vid.svg?style=social&label=Star)](https://github.com/NVIDIA/vid2vid) [![Project](https://img.shields.io/badge/Project_Page-00CED1)]((https://tcwang0509.github.io/vid2vid/))
+
  
 ### 📏 Depth-Guided
 <a id="-depth-guided"></a>
@@ -466,7 +470,10 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 + **Sketch Me A Video**  (10 Oct 2021)
    <details><summary>Haichao Zhang, Gang Yu, Tao Chen, et al.</summary> Haichao Zhang, Gang Yu, Tao Chen, Guozhong Luo</details> 
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04710) 
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04710)
+
++ **vid2vid:Video-to-Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Dec 2018) <details><summary>Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, et al.</summary> Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.06601) [![Code](https://img.shields.io/github/stars/NVIDIA/vid2vid.svg?style=social&label=Star)](https://github.com/NVIDIA/vid2vid) [![Project](https://img.shields.io/badge/Project_Page-00CED1)]((https://tcwang0509.github.io/vid2vid/))
+
 
 ### 📦 BBox-Guided
 <a id="-bbox-guided"></a>
