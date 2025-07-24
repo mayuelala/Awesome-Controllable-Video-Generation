@@ -3,7 +3,7 @@
 <div align="center">
 <!-- <h2><font color="red"> Awesome-Controllable-Video-Generation </h2> -->
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.Awesome-Controllable-Video-Generation&left_color=green&right_color=red)  [![GitHub](https://img.shields.io/github/stars/mayuelala/Awesome-Controllable-Video-Generation?style=social)](https://github.com/mayuelala/Awesome-Controllable-Video-Generation) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+ <a href='https://arxiv.org/abs/2507.26869'><img src='https://img.shields.io/badge/ArXiv-2507.26869-red'></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.Awesome-Controllable-Video-Generation&left_color=green&right_color=red)  [![GitHub](https://img.shields.io/github/stars/mayuelala/Awesome-Controllable-Video-Generation?style=social)](https://github.com/mayuelala/Awesome-Controllable-Video-Generation) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
 🚀🚀🚀A curated list of papers on controllable video generation. Please join us for more comprehensive summary. If you have any additions to the list, please raise them in the issue section. 欢迎补充👏
 
