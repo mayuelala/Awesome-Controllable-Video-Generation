@@ -53,8 +53,11 @@
 
 ### 🕺 Pose-Guided
 <a id="-pose-guided"></a>
-  
+
 + **MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 May 2025) <details><summary>Yanbo Ding, Xirui Hu, Zhizhi Guo, et al.</summary> Yanbo Ding, Xirui Hu, Zhizhi Guo, Chi Zhang, Yali Wang</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10238) [![Code](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social&label=Star)](https://github.com/DINGYANB/MTVCrafter) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://dingyanb.github.io/MTVCtafter/)
+
+ + **HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (29 May 2025) <details><summary>Shuolin Xu, Siming Zheng, Ziyi Wang, et al.</summary> Shuolin Xu, Siming Zheng, Ziyi Wang, HC Yu, Jinwei Chen, Huaqi Zhang, Bo Li, Peng-Tao Jiang</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22977)[![Code](https://img.shields.io/github/stars/vivoCameraResearch/Hyper-Motion.svg?style=social&label=Star)](https://github.com/vivoCameraResearch/Hyper-Motion) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://vivocameraresearch.github.io/hypermotion/)  
+
 
 + **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (6 May 2025) <details><summary>[SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary> Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730) [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
 
