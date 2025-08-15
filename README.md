@@ -12,6 +12,16 @@
 # 🤗 Introduction
 🚀🚀🚀A curated list of papers on controllable video generation. Please join us for more comprehensive summary. If you have any additions to the list, please raise them in the issue section. 欢迎补充👏
 
+# Citation 💖
+If you find this rep is useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
+```bibtex
+@article{ma2025controllable,
+  title={Controllable video generation: A survey},
+  author={Ma, Yue and Feng, Kunyu and Hu, Zhongyuan and Wang, Xinyu and Wang, Yucheng and Zheng, Mingzhe and He, Xuanhua and Zhu, Chenyang and Liu, Hongyu and He, Yingqing and others},
+  journal={arXiv preprint arXiv:2507.16869},
+  year={2025}
+}
+```
 
 # 📋 Contents
 
