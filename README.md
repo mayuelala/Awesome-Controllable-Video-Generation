@@ -26,6 +26,7 @@ If you find this rep is useful for your research, welcome to 🌟 this repo and 
 # 📋 Contents
 
   * [🌐 Structure Control](#-structure-control)
+    * [🏙️ Layout-Guided](#-layout-guided)
     * [🕺 Pose-Guided](#-pose-guided)
     * [📏 Depth-Guided](#-depth-guided)
     * [🗺️ Landmark-Guided](#-landmark-guided)
@@ -60,6 +61,17 @@ If you find this rep is useful for your research, welcome to 🌟 this repo and 
 
 
 ## 🌐 Structure Control
+
+### 🏙️ Layout-Guided
+<a id="-layout-guided"></a>
+
++ **DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (23 Oct 2024)
+   <details><summary>[ICLR 2025 Spotlight] Hengwei Bian, Lingdong Kong, et al.</summary>  
+        Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18084)
+   [![Code](https://img.shields.io/github/stars/3DTopia/DynamicCity.svg?style=social&label=Star)](https://github.com/3DTopia/DynamicCity)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dynamic-city.github.io/)
 
 ### 🕺 Pose-Guided
 <a id="-pose-guided"></a>
@@ -211,7 +223,6 @@ Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13077)
 [![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Star)](https://github.com/YBYBZhang/ControlVideo.git)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://controlvideov1.github.io/)
-
 
 ### 🗺️ Landmark-Guided
 <a id="-landmark-guided"></a>
