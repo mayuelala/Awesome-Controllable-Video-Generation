@@ -1474,6 +1474,9 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.04225)    [![Code](https://img.shields.io/github/stars/Voyager-World/Voyager.svg?style=social&label=Star)](https://github.com/Voyager-World/Voyager)   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://voyager-world.github.io/)
 
++ **AKiRa: Augmentation Kit on Rays for optical video generation** (Jun 2025) <details><summary>[CVPR 2024] Xi Wang, Robin Courant, et al.</summary>Xi Wang, Robin Courant, Marc Christie, Vicky Kalogeiton</details>
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_AKiRa_Augmentation_Kit_on_Rays_for_Optical_Video_Generation_CVPR_2025_paper.pdf) [![Code](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Star)](https://github.com/Triocrossing/AKiRa)   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
+  
 + **Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (21 Apr 2025)  
   <details><summary>Chenjie Cao, Jingkai Zhou, Shikai Li, et al.</summary> Chenjie Cao, Jingkai Zhou, Shikai Li, Jingyun Liang, Chaohui Yu, Fan Wang, Xiangyang Xue, Yanwei Fu</details>  
 
