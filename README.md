@@ -1577,6 +1577,11 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07759)    [![code](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Star)](https://github.com/KwaiVGI/3DTrajMaster)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://www.aimodels.fyi/papers/arxiv/3dtrajmaster-mastering-3d-trajectory-multi-entity-motion)
 
++ **You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (10 Dec 2024)  
+  <details><summary>[CVPR 2025] Baorui Ma, Huachen Gao, Haoge Deng, et al.</summary> Baorui Ma, Huachen Gao, Haoge Deng, Zhengxiong Luo, Tiejun Huang, Lulu Tang, Xinlong Wang</details>  
+  
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06699/)    [![Code](https://img.shields.io/github/stars/baaivision/See3D)](https://github.com/baaivision/See3D)   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://vision.baai.ac.cn/see3d/)
+
 + **Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training** (8 Dec 2024)  
   <details><summary>Zhenghong Zhou, Jie An, Jiebo Luo, et al.</summary></details>  
   
