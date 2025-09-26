@@ -1825,6 +1825,12 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🗣️ Voice-Guided
 <a id="-voice-guided"></a>
 
++ **Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Sep 2025)<details><summary>[IJCV 2025] Chaolong Yang, Kai Yao, Yuyao Yan, et al.</summary>
+Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.12963)
+[![Code](https://img.shields.io/github/stars/chaolongy/KDTalker.svg?style=social&label=Star)](https://github.com/chaolongy/KDTalker)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://kdtalker.com/)
+
 + **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (4 Apr 2025)<details><summary>Fa-Ting Hong, Zunnan Xu, Zixiang Zhou, et al.</summary>
 Jun Zhou, Xiu Li, Qin Lin, Qinglin Lu, Dan Xu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02542)
