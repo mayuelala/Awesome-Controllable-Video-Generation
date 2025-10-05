@@ -1256,6 +1256,11 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🛤️ Trajectory-Guided
 <a id="-trajectory-guided"></a>
 
+- **DiTraj: Training-free Trajectory Control For Video Diffusion Transformer** (29 Sep 2025)  
+  <details><summary>Cheng Lei, Jiayu Zhang, Yue Ma, et al.</summary>Cheng Lei, Jiayu Zhang, Yue Ma, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao</details>  
+  
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21839)    [![Code](https://img.shields.io/github/stars/xduzhangjiayu/DiTraj)](https://github.com/xduzhangjiayu/DiTraj)    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://xduzhangjiayu.github.io/DiTraj_Project_Page/)
+
 - **ATI: Any Trajectory Instruction for Controllable Video Generation** (10 Jun 2025)  
   <details><summary>Angtian Wang, Haibin Huang, Jacob Zhiyuan Fang, et al.</summary>Angtian Wang, Haibin Huang, Jacob Zhiyuan Fang, Yiding Yang, Chongyang Ma</details>  
   
