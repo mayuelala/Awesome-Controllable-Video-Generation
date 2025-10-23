@@ -624,6 +624,11 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
    [![Code](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social&label=Star)](https://github.com/DINGYANB/MTVCrafter)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://dingyanb.github.io/MTVCtafter/)
 
+- **Frame In-N-Out: Unbounded Controllable Image-to-Video Generation** (27 May 2025)
+  <details><summary>Boyang Wang, Xuweiyi Chen, Matheus Gadelha, et al.</summary> Boyang Wang, Xuweiyi Chen, Matheus Gadelha, Zezhou Cheng</details>  
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21491)   [![Code](https://img.shields.io/github/stars/UVA-Computer-Vision-Lab/FrameINO.svg?style=social&label=Star)](https://github.com/UVA-Computer-Vision-Lab/FrameINO) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://uva-computer-vision-lab.github.io/Frame-In-N-Out/)
+
 
 * **SkyReels-A2: Compose Anything in Video Diffusion Transformers**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Apr 2025)
 
@@ -1271,7 +1276,10 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22980)
 
+- **Frame In-N-Out: Unbounded Controllable Image-to-Video Generation** (27 May 2025)
+  <details><summary>Boyang Wang, Xuweiyi Chen, Matheus Gadelha, et al.</summary> Boyang Wang, Xuweiyi Chen, Matheus Gadelha, Zezhou Cheng</details>  
 
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21491)   [![Code](https://img.shields.io/github/stars/UVA-Computer-Vision-Lab/FrameINO.svg?style=social&label=Star)](https://github.com/UVA-Computer-Vision-Lab/FrameINO) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://uva-computer-vision-lab.github.io/Frame-In-N-Out/)
 
 - **AnimateAnywhere: Rouse the Background in Human Image Animation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(28 Apr 2025)  
   <details><summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, et al.</summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wang</details>  
@@ -2127,6 +2135,13 @@ Yijin Li, Fu-Yun Wang, Hongsheng Li</details>
 Jong Chul Ye, Niloy Mitra, Duygu Ceylan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06016)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyeonho99.github.io/track4gen/)
+
+
+- **This&That: Language-Gesture Controlled Video Generation for Robot Planning** (8 Jul 2024)
+  <details><summary>Boyang Wang, Nikhil Sridhar, Chao Feng, et al.</summary> Boyang Wang, Nikhil Sridhar, Chao Feng, Mark Van der Merwe, Adam Fishman, Nima Fazeli, Jeong Joon Park</details>  
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05530)   [![Code](https://img.shields.io/github/stars/Kiteretsu77/This_and_That_VDM.svg?style=social&label=Star)](https://github.com/Kiteretsu77/This_and_That_VDM) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://cfeng16.github.io/this-and-that/)
+
 
 + **Drag-A-Video: Non-rigid Video Editing with Point-based Interaction** (5 Dec 2023)<details><summary>Yao Teng, Enze Xie, Yue Wu, Haoyu Han, et al.</summary>
 Zhenguo Li, Xihui Liu</details>
