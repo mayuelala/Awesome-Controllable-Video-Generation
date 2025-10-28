@@ -13,7 +13,7 @@
 🚀🚀🚀A curated list of papers on controllable video generation. Please join us for more comprehensive summary. If you have any additions to the list, please raise them in the issue section. 欢迎补充👏
 
 # 💖 Citation 
-If you find this rep is useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
+If you find this repo is useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
 ```bibtex
 @article{ma2025controllable,
   title={Controllable video generation: A survey},
@@ -53,9 +53,9 @@ If you find this rep is useful for your research, welcome to 🌟 this repo and 
 
 
 # 💘 Tips
-- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
-- **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
-- **✅ Multicontrol indicator**: The tag ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=\[M]\&color=008000\&width=30\&fontSize=17\&height=17) indicates "multi-control" following the title of paper.
+- **✅ Paper searching via catalog**: directly clicking the content of the catalog to select the area of your research and browse related papers.
+- **✅ Paper searching via author name**: Feel free to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
+- **✅ Multicontrol indicator**: The tag ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=\[M]\&color=008000\&width=30\&fontSize=17\&height=17) indicates "multi-control" following the title of the paper.
 
 
 
@@ -1709,10 +1709,6 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
          Yufei Cai, Hu Han, Yuxiang Wei, Shiguang Shan, Xilin Chen</details>  
          
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19369)
-+ **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** (20 Mar 2025) <details><summary>Quanhao Li, Zhen Xing, Rui Wang, et al.</summary>Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2503.16421v1)
-[![Code](https://img.shields.io/github/stars/quanhaol/MagicMotion.svg?style=social&label=Star)](https://github.com/quanhaol/MagicMotion)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://quanhaol.github.io/magicmotion-site/)
 
 + **DreamRelation: Relation-Centric Video Customization** (10 Mar 2025) <details><summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, et al.</summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07602)
