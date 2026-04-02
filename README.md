@@ -1261,6 +1261,11 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🛤️ Trajectory-Guided
 <a id="-trajectory-guided"></a>
 
+- **TrajectoryMover: Generative Movement of Object Trajectories in Videos** (31 Mar 2026)
+  <details><summary>Kiran Chhatre, Hyeonho Jeong, Yulia Gryaditskaya, et al.</summary>Kiran Chhatre, Hyeonho Jeong, Yulia Gryaditskaya, Christopher E. Peters, Chun-Hao Paul Huang, Paul Guerrero</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.29092)    [![Code](https://img.shields.io/github/stars/kiranchhatre/TrajectoryMover.svg?style=social&label=Star)](https://github.com/kiranchhatre/TrajectoryMover)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chhatrekiran.github.io/trajectorymover/)
+
 - **DiTraj: Training-free Trajectory Control For Video Diffusion Transformer** (29 Sep 2025)  
   <details><summary>Cheng Lei, Jiayu Zhang, Yue Ma, et al.</summary>Cheng Lei, Jiayu Zhang, Yue Ma, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao</details>  
   
