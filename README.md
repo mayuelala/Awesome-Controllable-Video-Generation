@@ -65,6 +65,30 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 ### 🏙️ Layout-Guided
 <a id="-layout-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Layout-Guided -->
+
++ **CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration** (21 May 2026)
+  <details><summary>Adil Meric, Lin Geng Foo, Mert Kiray, et al.</summary>Adil Meric, Lin Geng Foo, Mert Kiray, Benjamin Busam, Rishabh Dabral, Christian Theobalt</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.22996)
+
++ **Controllable Video Object Insertion via Multiview Priors** (16 Apr 2026)
+  <details><summary>Xia Qi, Peishan Cong, Yichen Yao, et al.</summary>Xia Qi, Peishan Cong, Yichen Yao, Ziyi Wang, Yaoqin Ye, Yuexin Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14556)
+
++ **PISCO: Precise Video Instance Insertion with Sparse Control** (9 Feb 2026)
+  <details><summary>Xiangbo Gao, Renjie Li, Xinghao Chen, et al.</summary>Xiangbo Gao, Renjie Li, Xinghao Chen, Yuheng Wu, Suofei Feng, Qing Yin, Zhengzhong Tu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08277)
+
++ **InstanceV: Instance-Level Video Generation** (28 Nov 2025)
+  <details><summary>Yuheng Chen, Teng Hu, Jiangning Zhang, et al.</summary>Yuheng Chen, Teng Hu, Jiangning Zhang, Zhucun Xue, Ran Yi, Lizhuang Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.23146)
+
+<!-- RECENT_VERIFIED_END:Layout-Guided -->
+
 + **DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (23 Oct 2024)
    <details><summary>[ICLR 2025 Spotlight] Hengwei Bian, Lingdong Kong, et al.</summary>  
         Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu </details>  
@@ -75,6 +99,130 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 
 ### 🕺 Pose-Guided
 <a id="-pose-guided"></a>
+
+<!-- RECENT_VERIFIED_START:Pose-Guided -->
+
++ **FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising** (5 Jun 2026)
+  <details><summary>Yuan Zeng, Yujia Shi, Zongqing Lu, et al.</summary>Yuan Zeng, Yujia Shi, Zongqing Lu, QingMin Liao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06885) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://freeani.github.io/)
+
++ **FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation** (6 May 2026)
+  <details><summary>Yuanzhi Wang, Xuhua Ren, Jiaxiang Cheng, et al.</summary>Yuanzhi Wang, Xuhua Ren, Jiaxiang Cheng, Bing Ma, Kai Yu, Sen Liang, Wenyue Li, Tianxiang Zheng, Qinglin Lu, Zhen Cui</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.04702)
+
++ **CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation** (21 Apr 2026)
+  <details><summary>Xiangyang Luo, Xiaozhe Xin, Tao Feng, et al.</summary>Xiangyang Luo, Xiaozhe Xin, Tao Feng, Xu Guo, Meiguang Jin, Junfeng Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19636)
+
++ **OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation** (13 Apr 2026)
+  <details><summary>Donghao Zhou, Guisheng Liu, Hao Yang, et al.</summary>Donghao Zhou, Guisheng Liu, Hao Yang, Jiatong Li, Jingyu Lin, Xiaohu Huang, Yichen Liu, Xin Gao, Cunjian Chen, Shilei Wen, Chi-Wing Fu, Pheng-Ann Heng</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.11804)
+
++ **PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation** (23 Mar 2026)
+  <details><summary>Mingju Gao, Kaisen Yang, Huan-ang Gao, et al.</summary>Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.22193)
+
++ **AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation** (16 Mar 2026)
+  <details><summary>Zhenyu Xie, Ji Xia, Michael Kampffmeyer, et al.</summary>Zhenyu Xie, Ji Xia, Michael Kampffmeyer, Panwen Hu, Zehua Ma, Yujian Zheng, Jing Wang, Zheng Chong, Xujie Zhang, Xianhang Cheng, Xiaodan Liang, Hao Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15415)
+
++ **Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints** (12 Mar 2026)
+  <details><summary>Chenyangguang Zhang, Botao Ye, Boqi Chen, et al.</summary>Chenyangguang Zhang, Botao Ye, Boqi Chen, Alexandros Delitzas, Fangjinhua Wang, Marc Pollefeys, Xi Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.11755)
+
++ **DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary** (10 Mar 2026)
+  <details><summary>Jiazhi Guan, Quanwei Yang, Luying Huang, et al.</summary>Jiazhi Guan, Quanwei Yang, Luying Huang, Junhao Liang, Borong Liang, Haocheng Feng, Wei He, Kaisiyuan Wang, Hang Zhou, Jingdong Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.09883) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mumuwei.github.io/DISPLAY/)
+
++ **MultiAnimate: Pose-Guided Image Animation Made Extensible** (25 Feb 2026)
+  <details><summary>Yingcheng Hu, Haowen Gong, Chuanguang Yang, et al.</summary>Yingcheng Hu, Haowen Gong, Chuanguang Yang, Zhulin An, Yongjun Xu, Songhua Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21581)
+
++ **Human Video Generation from a Single Image with 3D Pose and View Control** (24 Feb 2026)
+  <details><summary>Tiantian Wang, Chun-Han Yao, Tao Hu, et al.</summary>Tiantian Wang, Chun-Han Yao, Tao Hu, Mallikarjun Byrasandra Ramalinga Reddy, Ming-Hsuan Yang, Varun Jampani</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21188)
+
++ **Ani3DHuman: Photorealistic 3D Human Animation with Self-guided Stochastic Sampling** (22 Feb 2026)
+  <details><summary>Qi Sun, Can Wang, Jiaxiang Shang, et al.</summary>Qi Sun, Can Wang, Jiaxiang Shang, Yingchun Liu, Jing Liao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.19089) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/qiisun/ani3dhuman)
+
++ **IM-Animation: An Implicit Motion Representation for Identity-decoupled Character Animation** (7 Feb 2026)
+  <details><summary>Zhufeng Xu, Xuan Gao, Feng-Lin Liu, et al.</summary>Zhufeng Xu, Xuan Gao, Feng-Lin Liu, Haoxian Zhang, Zhixue Fang, Yu-Kun Lai, Xiaoqiang Liu, Pengfei Wan, Lin Gao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07498)
+
++ **DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning** (29 Jan 2026)
+  <details><summary>Mingshuang Luo, Shuang Liang, Zhengkun Rong, et al.</summary>Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, Ruibing Hou, Hong Chang, Yong Li, Yuan Zhang, Mingyuan Gao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.21716) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://grisoon.github.io/DreamActor-M2/)
+
++ **CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation** (16 Jan 2026)
+  <details><summary>Shuai Tan, Biao Gong, Ke Ma, et al.</summary>Shuai Tan, Biao Gong, Ke Ma, Yutong Feng, Qiyuan Zhang, Yan Wang, Yujun Shen, Hengshuang Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11096)
+
++ **PoseAnything: Universal Pose-guided Video Generation with Part-aware Temporal Coherence** (15 Dec 2025)
+  <details><summary>Ruiyan Wang, Teng Hu, Kaihui Huang, et al.</summary>Ruiyan Wang, Teng Hu, Kaihui Huang, Zihan Su, Ran Yi, Lizhuang Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13465)
+
++ **FactorPortrait: Controllable Portrait Animation via Disentangled Expression, Pose, and Viewpoint** (12 Dec 2025)
+  <details><summary>Jiapeng Tang, Kai Li, Chengxiang Yin, et al.</summary>Jiapeng Tang, Kai Li, Chengxiang Yin, Liuhao Ge, Fei Jiang, Jiu Xu, Matthias Nießner, Christian Häne, Timur Bagautdinov, Egor Zakharov, Peihong Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.11645)
+
++ **VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification** (10 Dec 2025)
+  <details><summary>Wanyue Zhang, Lin Geng Foo, Thabo Beeler, et al.</summary>Wanyue Zhang, Lin Geng Foo, Thabo Beeler, Rishabh Dabral, Christian Theobalt</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.09646) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://vcai.mpi-inf.mpg.de/projects/vhoi/)
+
++ **SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation** (24 Nov 2025)
+  <details><summary>Jiaming Zhang, Shengming Cao, Rui Li, et al.</summary>Jiaming Zhang, Shengming Cao, Rui Li, Xiaotong Zhao, Yutao Cui, Xinglin Hou, Gangshan Wu, Haolan Chen, Yu Xu, Limin Wang, Kai Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19320) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mcg-nju.github.io/steadydancer-web)
+
++ **EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses** (22 Nov 2025)
+  <details><summary>Enrico Pallotta, Sina Mokhtarzadeh Azar, Lars Doorenbos, et al.</summary>Enrico Pallotta, Sina Mokhtarzadeh Azar, Lars Doorenbos, Serdar Ozsoy, Umar Iqbal, Juergen Gall</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.18173)
+
++ **From Mannequin to Human: A Pose-Aware and Identity-Preserving Video Generation Framework for Lifelike Clothing Display** (19 Oct 2025)
+  <details><summary>Xiangyu Mu, Dongliang Zhou, Jie Hou, et al.</summary>Xiangyu Mu, Dongliang Zhou, Jie Hou, Haijun Zhang, Weili Guan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.16833)
+
++ **MoSA: Motion-Coherent Human Video Generation via Structure-Appearance Decoupling** (24 Aug 2025)
+  <details><summary>Haoyu Wang, Hao Tang, Donglin Di, et al.</summary>Haoyu Wang, Hao Tang, Donglin Di, Zhilu Zhang, Wangmeng Zuo, Feng Gao, Siwei Ma, Shiliang Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.17404)
+
++ **Collaborative Face Experts Fusion in Video Generation: Boosting Identity Consistency Across Large Face Poses** (13 Aug 2025)
+  <details><summary>Yuji Wang, Moran Li, Xiaobin Hu, et al.</summary>Yuji Wang, Moran Li, Xiaobin Hu, Ran Yi, Jiangning Zhang, Chengming Xu, Weijian Cao, Yabiao Wang, Chengjie Wang, Lizhuang Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09476) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://rain152.github.io/CoFE/)
+
++ **RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space** (12 Aug 2025)
+  <details><summary>Jingyun Liang, Jingkai Zhou, Shikai Li, et al.</summary>Jingyun Liang, Jingkai Zhou, Shikai Li, Chenjie Cao, Lei Sun, Yichen Qian, Weihua Chen, Fan Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08588)
+
++ **PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation** (7 Aug 2025)
+  <details><summary>Jingxuan He, Busheng Su, Finn Wong</summary>Jingxuan He, Busheng Su, Finn Wong</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05091) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Jessie459/PoseGen)
+
+<!-- RECENT_VERIFIED_END:Pose-Guided -->
 
 + **Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures** (10 Feb 2026) <details><summary>Yuxi Wang, Wenqi Ouyang, Tianyi Wei, et al.</summary> Yuxi Wang, Wenqi Ouyang, Tianyi Wei, Yi Dong, Zhiqi Shen, Xingang Pan</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09600) [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://hand2world.github.io/)
 
@@ -157,6 +305,20 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 ### 📏 Depth-Guided
 <a id="-depth-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Depth-Guided -->
+
++ **DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation** (29 Apr 2026)
+  <details><summary>Junhu Fu, Ke Chen, Weidong Guo, et al.</summary>Junhu Fu, Ke Chen, Weidong Guo, Shuyu Liang, Jie Xu, Chen Ma, Kehao Wang, Shengli Lin, Zeju Li, Yuanyuan Wang, Yi Guo, Shuo Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.26232)
+
++ **PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics** (26 Apr 2026)
+  <details><summary>Tianyidan Xie, Zhentao Huang, Mingjie Wang, et al.</summary>Tianyidan Xie, Zhentao Huang, Mingjie Wang, Xin Huang, Jun Zhou, Minglun Gong, Zili Yi</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.23574)
+
+<!-- RECENT_VERIFIED_END:Depth-Guided -->
+
 + **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
    <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
          Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details> 
@@ -229,6 +391,20 @@ Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 ### 🗺️ Landmark-Guided
 <a id="-landmark-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Landmark-Guided -->
+
++ **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning** (27 May 2026)
+  <details><summary>He Feng, Yongjia Ma, Donglin Di, et al.</summary>He Feng, Yongjia Ma, Donglin Di, Lei Fan, Tonghua Su</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.28056)
+
++ **AUHead: Realistic Emotional Talking Head Generation via Action Units Control** (10 Feb 2026)
+  <details><summary>Jiayi Lyu, Leigang Qu, Wenjing Zhang, et al.</summary>Jiayi Lyu, Leigang Qu, Wenjing Zhang, Hanyu Jiang, Kai Liu, Zhenglin Zhou, Xiaobo Xia, Jian Xue, Tat-Seng Chua</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09534) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/laura990501/AUHead_ICLR)
+
+<!-- RECENT_VERIFIED_END:Landmark-Guided -->
+
 + **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (24 Mar 2024)
    <details><summary>[CVPR 2025] Zunnan Xu, Zhentao Yu, et al.</summary>  
         Zunnan Xu, Zhentao Yu, Zixiang Zhou, Jun Zhou, Xiaoyu Jin, Fa-Ting Hong, Xiaozhong Ji, Junwei Zhu, Chengfei Cai, Shiyu Tang, Qin Lin, Xiu Li, Qinglin Lu </details>  
@@ -298,6 +474,40 @@ Yuming Li, Chenguang Ma</details>
 
 ### ✏️ Sketch-Guided
 <a id="-sketch-guided"></a>
+
+<!-- RECENT_VERIFIED_START:Sketch-Guided -->
+
++ **SketchKeyAnime: Reference-anchored Sparse Key-Sketch Animation Synthesis** (18 Jun 2026)
+  <details><summary>Meixi Li, Xianlin Zhang, Yue Zhang, et al.</summary>Meixi Li, Xianlin Zhang, Yue Zhang, Xueming Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.19958)
+
++ **DrawVideo: Generating Long Video from Storyboard Keyframe Sketches** (22 May 2026)
+  <details><summary>Chuanzhi Xu, Huiqi Liang, Bang Shi, et al.</summary>Chuanzhi Xu, Huiqi Liang, Bang Shi, Huiming Zhang, Yifan Xiao, Guangcheng Lin, Haodong Chen, Qiang Qu, Zhicheng Lu, Weidong Cai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.23508)
+
++ **DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior** (19 Apr 2026)
+  <details><summary>Junjia Huang, Binbin Yang, Pengxiang Yan, et al.</summary>Junjia Huang, Binbin Yang, Pengxiang Yan, Jiyang Liu, Bin Xia, Zhao Wang, Yitong Wang, Liang Lin, Guanbin Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.17195)
+
++ **STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative** (13 Dec 2025)
+  <details><summary>Peixuan Zhang, Zijian Jia, Kaiqi Liu, et al.</summary>Peixuan Zhang, Zijian Jia, Kaiqi Liu, Shuchen Weng, Si Li, Boxin Shi</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.12372)
+
++ **Planning with Sketch-Guided Verification for Physics-Aware Video Generation** (21 Nov 2025)
+  <details><summary>Yidong Huang, Zun Wang, Han Lin, et al.</summary>Yidong Huang, Zun Wang, Han Lin, Dong-Ki Kim, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, Mohit Bansal</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.17450)
+
++ **SketchAnimator: Animate Sketch via Motion Customization of Text-to-Video Diffusion Models** (10 Aug 2025)
+  <details><summary>Ruolin Yang, Da Li, Honggang Zhang, et al.</summary>Ruolin Yang, Da Li, Honggang Zhang, Yi-Zhe Song</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07149)
+
+<!-- RECENT_VERIFIED_END:Sketch-Guided -->
 
 
 + **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
@@ -748,6 +958,245 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 ### 🧑‍🤝‍🧑 Subject-Guided
 <a id="-subject-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Subject-Guided -->
+
++ **Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization** (25 Jun 2026)
+  <details><summary>Xuancheng Xu, Gengyun Jia, Bing-Kun Bao</summary>Xuancheng Xu, Gengyun Jia, Bing-Kun Bao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26668)
+
++ **DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation** (24 Jun 2026)
+  <details><summary>Nan Chen, Yiyang Cai, Rongchang Xie, et al.</summary>Nan Chen, Yiyang Cai, Rongchang Xie, Junwen Pan, Cheng Chen, Weinan Jia, Zhuowei Chen, Wen Zhou, Zhenbang Sun, Wenhan Luo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.26058)
+
++ **Customizing Video Portraits via Identity-ActionDecoupling** (21 Jun 2026)
+  <details><summary>Junxiong Lin, Haoran Wang, Xinji Mai, et al.</summary>Junxiong Lin, Haoran Wang, Xinji Mai, Zeng Tao, Xuan Tong, Ivy Pan, Wenqiang Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.22347)
+
++ **A Comprehensive Ecosystem for Open-Domain Customized Video Generation** (10 Jun 2026)
+  <details><summary>Jingxu Zhang, Yuqian Hong, Daneul Kim, et al.</summary>Jingxu Zhang, Yuqian Hong, Daneul Kim, Kai Qiu, Qi Dai, Jianmin Bao, Yifan Yang, Xiaoyan Sun, Chong Luo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11783)
+
++ **ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation** (10 Jun 2026)
+  <details><summary>Zijie Meng, Jiwen Liu, Yufei Liu, et al.</summary>Zijie Meng, Jiwen Liu, Yufei Liu, Chengzhuo Tong, Xiaoqiang Liu, Yuanxing Zhang, Yulong Xu, Pengfei Wan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11670)
+
++ **HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation** (9 Jun 2026)
+  <details><summary>Cong Wang, Zhentao Yu, Hongmei Wang, et al.</summary>Cong Wang, Zhentao Yu, Hongmei Wang, Weicong Liang, Zixiang Zhou, Zilin Yang, Jiarong Ou, Rui Chen, Yuan Zhou, Qinglin Lu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.10839)
+
++ **Spatial-Temporal Decoupled Reference Conditioning for Identity-Preserving Text-to-Video Generation** (1 Jun 2026)
+  <details><summary>Yuheng Chen, Teng Hu, Yuji Wang, et al.</summary>Yuheng Chen, Teng Hu, Yuji Wang, Qingdong He, Lizhuang Ma, Jiangning Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02441)
+
++ **Omni-Customizer: End-to-End MultiModal Customization for Joint Audio-Video Generation** (17 May 2026)
+  <details><summary>Yuheng Chen, Qingdong He, Teng Hu, et al.</summary>Yuheng Chen, Qingdong He, Teng Hu, Yuji Wang, Yabiao Wang, Lizhuang Ma, Jiangning Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.17488)
+
++ **FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization** (15 May 2026)
+  <details><summary>Quanjian Song, Yefeng Shen, Mengting Chen, et al.</summary>Quanjian Song, Yefeng Shen, Mengting Chen, Hao Sun, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Liujuan Cao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15824)
+
++ **Exploring the Role of Synthetic Data Augmentation in Controllable Human-Centric Video Generation** (23 Apr 2026)
+  <details><summary>Yuanchen Fei, Yude Zou, Zejian Kang, et al.</summary>Yuanchen Fei, Yude Zou, Zejian Kang, Ming Li, Jiaying Zhou, Xiangru Huang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.21291)
+
++ **Gloria: Consistent Character Video Generation via Content Anchors** (31 Mar 2026)
+  <details><summary>Yuhang Yang, Fan Zhang, Huaijin Pi, et al.</summary>Yuhang Yang, Fan Zhang, Huaijin Pi, Shuai Guo, Guowei Xu, Wei Zhai, Yang Cao, Zheng-Jun Zha</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.29931)
+
++ **RefAlign: Representation Alignment for Reference-to-Video Generation** (26 Mar 2026)
+  <details><summary>Lei Wang, YuXin Song, Ge Wu, et al.</summary>Lei Wang, YuXin Song, Ge Wu, Haocheng Feng, Hang Zhou, Jingdong Wang, Yaxing Wang, Jian Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.25743)
+
++ **AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References** (26 Mar 2026)
+  <details><summary>Jiahao Wang, Hualian Sheng, Sijia Cai, et al.</summary>Jiahao Wang, Hualian Sheng, Sijia Cai, Yuxiao Yang, Weizhan Zhang, Caixia Yan, Bing Deng, Jieping Ye</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.25188)
+
++ **Identity-Consistent Video Generation under Large Facial-Angle Variations** (22 Mar 2026)
+  <details><summary>Bin Hu, Zipeng Qi, Guoxi Huang, et al.</summary>Bin Hu, Zipeng Qi, Guoxi Huang, Zunnan Xu, Ruicheng Zhang, Chongjie Ye, Jun Zhou, Xiu Li, Jingdong Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21299)
+
++ **LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation** (20 Mar 2026)
+  <details><summary>Jiazheng Xing, Fei Du, Hangjie Yuan, et al.</summary>Jiazheng Xing, Fei Du, Hangjie Yuan, Pengwei Liu, Hongbin Xu, Hai Ci, Ruigang Niu, Weihua Chen, Fan Wang, Yong Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.20192) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jiazheng-xing.github.io/lumosx-home/)
+
++ **3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model** (19 Mar 2026)
+  <details><summary>Hyun-kyu Ko, Jihyeon Park, Younghyun Kim, et al.</summary>Hyun-kyu Ko, Jihyeon Park, Younghyun Kim, Dongheok Park, Eunbyung Park</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.18524) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ko-lani.github.io/3DreamBooth/)
+
++ **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** (18 Mar 2026)
+  <details><summary>Yingjie Chen, Shilun Lin, Cai Xing, et al.</summary>Yingjie Chen, Shilun Lin, Cai Xing, Binxin Yang, Long Zhou, Qixin Yan, Wenjing Wang, Dingming Liu, Hao Liu, Chen Li, Jing Lyu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17889) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chen-yingjie.github.io/projects/Identity-as-Presence)
+
++ **Persistent Story World Simulation with Continuous Character Customization** (17 Mar 2026)
+  <details><summary>Jinlu Zhang, Qiyun Wang, Baoxiang Du, et al.</summary>Jinlu Zhang, Qiyun Wang, Baoxiang Du, Jiayi Ji, Jing He, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun, Rongrong Ji</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16285)
+
++ **LibraGen: Playing a Balance Game in Subject-Driven Video Generation** (13 Mar 2026)
+  <details><summary>Jiahao Zhu, Shanshan Lao, Lijie Liu, et al.</summary>Jiahao Zhu, Shanshan Lao, Lijie Liu, Gen Li, Tianhao Qi, Wei Han, Bingchuan Li, Fangfang Liu, Zhuowei Chen, Tianxiang Ma, Qian HE, Yi Zhou, Xiaohua Xie</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.13506)
+
++ **DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning** (12 Mar 2026)
+  <details><summary>Yujie Wei, Xinyu Liu, Shiwei Zhang, et al.</summary>Yujie Wei, Xinyu Liu, Shiwei Zhang, Hangjie Yuan, Jinbo Xing, Zhekai Chen, Xiang Wang, Haonan Qiu, Rui Zhao, Yutong Feng, Ruihang Chu, Yingya Zhang, Yike Guo, Xihui Liu, Hongming Shan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12257)
+
++ **ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA** (10 Mar 2026)
+  <details><summary>Aviad Dahan, Moran Yanuka, Noa Kraicer, et al.</summary>Aviad Dahan, Moran Yanuka, Noa Kraicer, Lior Wolf, Raja Giryes</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.10256)
+
++ **WildActor: Unconstrained Identity-Preserving Video Generation** (28 Feb 2026)
+  <details><summary>Qin Guo, Tianyu Yang, Xuanhua He, et al.</summary>Qin Guo, Tianyu Yang, Xuanhua He, Fei Shen, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Dan Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00586)
+
++ **ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation** (10 Feb 2026)
+  <details><summary>Mingyang Wu, Ashirbad Mishra, Soumik Dey, et al.</summary>Mingyang Wu, Ashirbad Mishra, Soumik Dey, Shuo Xing, Naveen Ravipati, Hansi Wu, Binbin Li, Zhengzhong Tu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.10113) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://myangwu.github.io/ConsID-Gen)
+
++ **ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask** (3 Feb 2026)
+  <details><summary>Zhuoran Yang, Yanyong Zhang</summary>Zhuoran Yang, Yanyong Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.03213) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shanpoyang654.github.io/ConsisDrive/page.html)
+
++ **PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories** (30 Jan 2026)
+  <details><summary>Gemma Canet Tarrés, Manel Baradad, Francesc Moreno-Noguer, et al.</summary>Gemma Canet Tarrés, Manel Baradad, Francesc Moreno-Noguer, Yumeng Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.00267)
+
++ **MV-S2V: Multi-View Subject-Consistent Video Generation** (25 Jan 2026)
+  <details><summary>Ziyang Song, Xinyu Gong, Bangya Liu, et al.</summary>Ziyang Song, Xinyu Gong, Bangya Liu, Zelin Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.17756) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://szy-young.github.io/mv-s2v)
+
++ **RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation** (8 Jan 2026)
+  <details><summary>Boyang Wang, Haoran Zhang, Shujie Zhang, et al.</summary>Boyang Wang, Haoran Zhang, Shujie Zhang, Jinkun Hao, Mingda Jia, Qi Lv, Yucheng Mao, Zhaoyang Lyu, Jia Zeng, Xudong Xu, Jiangmiao Pang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.05241)
+
++ **MagicFight: Personalized Martial Arts Combat Video Generation** (5 Jan 2026)
+  <details><summary>Jiancheng Huang, Mingfu Yan, Songyan Chen, et al.</summary>Jiancheng Huang, Mingfu Yan, Songyan Chen, Yi Huang, Shifeng Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02107) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://MingfuYAN.github.io/MagicFight/)
+
++ **Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding** (4 Jan 2026)
+  <details><summary>Yixuan Lai, He Wang, Kun Zhou, et al.</summary>Yixuan Lai, He Wang, Kun Zhou, Tianjia Shao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01352)
+
++ **CustomX: Unified Character, Action, and Scene Customization in Video World Models** (18 Dec 2025)
+  <details><summary>Yitong Wang, Fangyun Wei, Hongyang Zhang, et al.</summary>Yitong Wang, Fangyun Wei, Hongyang Zhang, Bo Dai, Yan Lu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.17796)
+
++ **V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping** (13 Dec 2025)
+  <details><summary>Hyunkoo Lee, Wooseok Jang, Jini Yang, et al.</summary>Hyunkoo Lee, Wooseok Jang, Jini Yang, Taehwan Kim, Sangoh Kim, Sangwon Jung, Seungryong Kim</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.12375)
+
++ **SMRABooth: Subject and Motion Representation Alignment for Customized Video Generation** (13 Dec 2025)
+  <details><summary>Xuancheng Xu, Yaning Li, Sisi You, et al.</summary>Xuancheng Xu, Yaning Li, Sisi You, Bing-Kun Bao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.12193)
+
++ **ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation** (8 Dec 2025)
+  <details><summary>Ziyang Mai, Yu-Wing Tai</summary>Ziyang Mai, Yu-Wing Tai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.07328) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/ziyang1106/ContextAnyone)
+
++ **Scaling Zero-Shot Reference-to-Video Generation** (7 Dec 2025)
+  <details><summary>Zijian Zhou, Shikun Liu, Haozhe Liu, et al.</summary>Zijian Zhou, Shikun Liu, Haozhe Liu, Haonan Qiu, Zhaochong An, Weiming Ren, Zhiheng Liu, Xiaoke Huang, Kam Woh Ng, Tian Xie, Xiao Han, Yuren Cong, Hang Li, Chuyan Zhu, Aditya Patel, Tao Xiang, Sen He</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.06905)
+
++ **Bring Your Dreams to Life: Continual Text-to-Video Customization** (5 Dec 2025)
+  <details><summary>Jiahua Dong, Xudong Wang, Wenqi Liang, et al.</summary>Jiahua Dong, Xudong Wang, Wenqi Liang, Zongyan Han, Meng Cao, Duzhen Zhang, Hanbin Zhao, Zhi Han, Salman Khan, Fahad Shahbaz Khan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.05802) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/JiahuaDong/CCVD)
+
++ **OmniPerson: Unified Identity-Preserving Pedestrian Generation** (2 Dec 2025)
+  <details><summary>Changxiao Ma, Chao Yuan, Xincheng Shi, et al.</summary>Changxiao Ma, Chao Yuan, Xincheng Shi, Yuzhuo Ma, Yongfei Zhang, Longkun Zhou, Yujia Zhang, Shangze Li, Yifan Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.02554)
+
++ **CoMo: Compositional Motion Customization for Text-to-Video Generation** (27 Oct 2025)
+  <details><summary>Youcan Xu, Zhen Wang, Jiaxin Shi, et al.</summary>Youcan Xu, Zhen Wang, Jiaxin Shi, Kexin Li, Feifei Shao, Jun Xiao, Yi Yang, Jun Yu, Long Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23007) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://como6.github.io/)
+
++ **Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning** (16 Oct 2025)
+  <details><summary>Xiangyu Meng, Zixian Zhang, Zhenghao Zhang, et al.</summary>Xiangyu Meng, Zixian Zhang, Zhenghao Zhang, Junchao Liao, Long Qin, Weizhi Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14256)
+
++ **Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization** (16 Oct 2025)
+  <details><summary>Liao Shen, Wentao Jiang, Yiran Zhu, et al.</summary>Liao Shen, Wentao Jiang, Yiran Zhu, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14255) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ipro-alimama.github.io/)
+
++ **BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration** (1 Oct 2025)
+  <details><summary>Zhaoyang Li, Dongjun Qian, Kai Su, et al.</summary>Zhaoyang Li, Dongjun Qian, Kai Su, Qishuai Diao, Xiangyang Xia, Chang Liu, Wenfei Yang, Tianzhu Zhang, Zehuan Yuan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.00438)
+
++ **Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation** (20 Sep 2025)
+  <details><summary>Yue Ma, Zexuan Yan, Hongyu Liu, et al.</summary>Yue Ma, Zexuan Yan, Hongyu Liu, Hongfa Wang, Heng Pan, Yingqing He, Junkun Yuan, Ailing Zeng, Chengfei Cai, Heung-Yeung Shum, Zhifeng Li, Wei Liu, Linfeng Zhang, Qifeng Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.16630) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-emoji.github.io/)
+
++ **Lynx: Towards High-Fidelity Personalized Video Generation** (19 Sep 2025)
+  <details><summary>Shen Sang, Tiancheng Zhi, Tianpei Gu, et al.</summary>Shen Sang, Tiancheng Zhi, Tianpei Gu, Jing Liu, Linjie Luo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.15496)
+
++ **Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement** (1 Sep 2025)
+  <details><summary>Jiayi Gao, Changcheng Hua, Qingchao Chen, et al.</summary>Jiayi Gao, Changcheng Hua, Qingchao Chen, Yuxin Peng, Yang Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01362) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Andyplus1/IPT2V.git)
+
++ **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** (11 Aug 2025)
+  <details><summary>Bowen Xue, Zheng-Peng Duan, Qixin Yan, et al.</summary>Bowen Xue, Zheng-Peng Duan, Qixin Yan, Wenjing Wang, Hao Liu, Chun-Le Guo, Chongyi Li, Chen Li, Jing Lyu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07901)
+
++ **MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention** (5 Aug 2025)
+  <details><summary>Qi Xie, Yongjia Ma, Donglin Di, et al.</summary>Qi Xie, Yongjia Ma, Donglin Di, Xuehao Gao, Xun Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03034)
+
++ **Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation** (8 Jul 2025)
+  <details><summary>Zhenghao Zhang, Junchao Liao, Xiangyu Meng, et al.</summary>Zhenghao Zhang, Junchao Liao, Xiangyu Meng, Long Qin, Weizhi Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.05963) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ali-videoai.github.io/Tora2_page/)
+
++ **Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations** (7 Jul 2025)
+  <details><summary>Yuji Wang, Moran Li, Xiaobin Hu, et al.</summary>Yuji Wang, Moran Li, Xiaobin Hu, Ran Yi, Jiangning Zhang, Han Feng, Weijian Cao, Yabiao Wang, Chengjie Wang, Lizhuang Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04705) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/rain152/IPVG)
+
+<!-- RECENT_VERIFIED_END:Subject-Guided -->
+
 + **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (4 May 2025)
    <details><summary>Wenchuan Wang, Mengqi Huang, Yijing Tu, et al.</summary>  
          Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao</details>  
@@ -971,6 +1420,55 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 
 
 ## 🖼️ Image Control
+
+<!-- RECENT_VERIFIED_START:Image Control -->
+
++ **SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models** (30 May 2026)
+  <details><summary>Ziheng He, Yixiang Chen, Ning Yang, et al.</summary>Ziheng He, Yixiang Chen, Ning Yang, Zhanqian Wu, Qisen Ma, Yuan Xu, Jiabing Yang, Peiyan Li, Xiangnan Wu, Xiaofeng Wang, Zheng Zhu, Jing Liu, Nianfeng Liu, Yan Huang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.00664)
+
++ **SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control** (27 May 2026)
+  <details><summary>Zhida Zhang, Jie Ma, Zhan Peng, et al.</summary>Zhida Zhang, Jie Ma, Zhan Peng, Haoxue Wu, Yang Han, Jun Liang, Jie Cao, Jing Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.27891)
+
++ **Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation** (4 Apr 2026)
+  <details><summary>Binyuan Huang, Yuning Lu, Weinan Jia, et al.</summary>Binyuan Huang, Yuning Lu, Weinan Jia, Hualiang Wang, Mu Liu, Daiqing Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03738)
+
++ **Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion** (2 Apr 2026)
+  <details><summary>Edoardo A. Dominici, Thomas Deixelberger, Konstantinos Vardis, et al.</summary>Edoardo A. Dominici, Thomas Deixelberger, Konstantinos Vardis, Markus Steinberger</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01761)
+
++ **Script-to-Slide Grounding: Grounding Script Sentences to Slide Objects for Automatic Instructional Video Generation** (14 Mar 2026)
+  <details><summary>Rena Suzuki, Masato Kikuchi, Tadachika Ozono</summary>Rena Suzuki, Masato Kikuchi, Tadachika Ozono</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16931)
+
++ **DreamLoop: Controllable Cinemagraph Generation from a Single Photograph** (6 Jan 2026)
+  <details><summary>Aniruddha Mahapatra, Long Mai, Cusuh Ham, et al.</summary>Aniruddha Mahapatra, Long Mai, Cusuh Ham, Feng Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02646)
+
++ **DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation** (24 Dec 2025)
+  <details><summary>Jiawei Liu, Junqiao Li, Jiangfan Deng, et al.</summary>Jiawei Liu, Junqiao Li, Jiangfan Deng, Gen Li, Siyu Zhou, Zetao Fang, Shanshan Lao, Zengde Deng, Jianing Zhu, Tingting Ma, Jiayi Li, Yunqiu Wang, Qian He, Xinglong Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.21252)
+
++ **SneakPeek: Future-Guided Instructional Streaming Video Generation** (15 Dec 2025)
+  <details><summary>Cheeun Hong, German Barquero, Fadime Sener, et al.</summary>Cheeun Hong, German Barquero, Fadime Sener, Markos Georgopoulos, Edgar Schönfeld, Stefan Popov, Yuming Du, Oscar Mañas, Albert Pumarola</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13019)
+
++ **AnyI2V: Animating Any Conditional Image with Motion Control** (3 Jul 2025)
+  <details><summary>Ziye Li, Hao Luo, Xincheng Shuai, et al.</summary>Ziye Li, Hao Luo, Xincheng Shuai, Henghui Ding</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02857) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://henghuiding.com/AnyI2V/)
+
+<!-- RECENT_VERIFIED_END:Image Control -->
 <a id="-image-control"></a>
 
 + **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
@@ -1235,6 +1733,15 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🌊 Flow-Guided
 <a id="-flow-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Flow-Guided -->
+
++ **FlowMotion: Training-Free Flow Guidance for Video Motion Transfer** (6 Mar 2026)
+  <details><summary>Zhen Wang, Youcan Xu, Jun Xiao, et al.</summary>Zhen Wang, Youcan Xu, Jun Xiao, Long Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.06289)
+
+<!-- RECENT_VERIFIED_END:Flow-Guided -->
+
 + **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 May 2024)  
    <details><summary>[ECCV 2024] Muyao Niu, Xiaodong Cun, et al.</summary>  
         Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng </details>  
@@ -1263,12 +1770,96 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🛤️ Trajectory-Guided
 <a id="-trajectory-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Trajectory-Guided -->
+
++ **Go-with-the-Track: Video Compositing and Motion Control with Point Tracking** (18 Jun 2026)
+  <details><summary>Koichi Namekata, Yash Kant, Zhizheng Liu, et al.</summary>Koichi Namekata, Yash Kant, Zhizheng Liu, Ryan D Burgert, Yuancheng Xu, Kuan Heng Lin, Emmett Steven, Julien Philip, Li Ma, Andrea Vedaldi, Paul Debevec, Ning Yu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.20891) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://eyeline-labs.github.io/Go-with-the-Track/)
+
++ **CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation** (12 Jun 2026)
+  <details><summary>Sihan Zhuang, Xinyuan Chen, Tianfan Xue, et al.</summary>Sihan Zhuang, Xinyuan Chen, Tianfan Xue, Yaohui Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14317)
+
++ **Streaming Video Generation with Streaming Force Control** (5 Jun 2026)
+  <details><summary>Hanhui Wang, Yiming Xie, Haiwen Feng, et al.</summary>Hanhui Wang, Yiming Xie, Haiwen Feng, Zhaoyang Lv, Shenlong Wang, Huaizu Jiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07508) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://neu-vi.github.io/StreamForce/)
+
++ **Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls** (19 May 2026)
+  <details><summary>Abdul Mohaimen Al Radi, Kunyang Li, Yuzhang Shang, et al.</summary>Abdul Mohaimen Al Radi, Kunyang Li, Yuzhang Shang, Mubarak Shah, Yu Tian</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19728)
+
++ **Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence** (10 Apr 2026)
+  <details><summary>Junchao Liao, Zhenghao Zhang, Xiangyu Meng, et al.</summary>Junchao Liao, Zhenghao Zhang, Xiangyu Meng, Litao Li, Ziying Zhang, Siyu Zhu, Long Qin, Weizhi Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09057)
+
++ **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance** (12 Mar 2026)
+  <details><summary>Quanhao Li, Zhen Xing, Rui Wang, et al.</summary>Quanhao Li, Zhen Xing, Rui Wang, Haidong Cao, Qi Dai, Daoguo Dong, Zuxuan Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12146)
+
++ **DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos** (16 Dec 2025)
+  <details><summary>Yang Bai, Liudi Yang, George Eskandar, et al.</summary>Yang Bai, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.14217)
+
++ **Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance** (9 Dec 2025)
+  <details><summary>Ruihang Chu, Yefei He, Zhekai Chen, et al.</summary>Ruihang Chu, Yefei He, Zhekai Chen, Shiwei Zhang, Xiaogang Xu, Bin Xia, Dingdong Wang, Hongwei Yi, Xihui Liu, Hengshuang Zhao, Yu Liu, Yingya Zhang, Yujiu Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08765)
+
++ **TGT: Text-Grounded Trajectories for Locally Controlled Video Generation** (16 Oct 2025)
+  <details><summary>Guofeng Zhang, Angtian Wang, Jacob Zhiyuan Fang, et al.</summary>Guofeng Zhang, Angtian Wang, Jacob Zhiyuan Fang, Liming Jiang, Haotian Yang, Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.15104) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://textgroundedtraj.github.io)
+
++ **FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control** (9 Oct 2025)
+  <details><summary>Zhiyuan Zhang, Can Wang, Dongdong Chen, et al.</summary>Zhiyuan Zhang, Can Wang, Dongdong Chen, Jing Liao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08527)
+
++ **Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!** (3 Oct 2025)
+  <details><summary>Junbao Zhou, Yuan Zhou, Kesen Zhao, et al.</summary>Junbao Zhou, Yuan Zhou, Kesen Zhao, Qingshan Xu, Beier Zhu, Richang Hong, Hanwang Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03550)
+
++ **Mask2IV: Interaction-Centric Video Generation via Mask Trajectories** (3 Oct 2025)
+  <details><summary>Gen Li, Bo Zhao, Jianfei Yang, et al.</summary>Gen Li, Bo Zhao, Jianfei Yang, Laura Sevilla-Lara</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03135)
+
++ **From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation** (1 Oct 2025)
+  <details><summary>Fan Yang, Zhiyang Chen, Yousong Zhu, et al.</summary>Fan Yang, Zhiyang Chen, Yousong Zhu, Xin Li, Jinqiao Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.00806)
+
++ **FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation** (29 Sep 2025)
+  <details><summary>Seungwook Kim, Seunghyeon Lee, Minsu Cho</summary>Seungwook Kim, Seunghyeon Lee, Minsu Cho</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24241)
+
++ **Zo3T: Zero-Shot 3D-Aware Trajectory-Guided Image-to-Video Generation via Test-Time Training** (8 Sep 2025)
+  <details><summary>Ruicheng Zhang, Jun Zhou, Zunnan Xu, et al.</summary>Ruicheng Zhang, Jun Zhou, Zunnan Xu, Zihao Liu, Jiehui Huang, Mingyang Zhang, Yu Sun, Xiu Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.06723)
+
++ **Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation** (9 Jul 2025)
+  <details><summary>Tao Feng, Xianbing Zhao, Zhenhua Chen, et al.</summary>Tao Feng, Xianbing Zhao, Zhenhua Chen, Tien Tsin Wong, Hamid Rezatofighi, Gholamreza Haffari, Lizhen Qu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.06830)
+
+<!-- RECENT_VERIFIED_END:Trajectory-Guided -->
+
 - **TrajectoryMover: Generative Movement of Object Trajectories in Videos** (31 Mar 2026)
   <details><summary>Kiran Chhatre, Hyeonho Jeong, Yulia Gryaditskaya, et al.</summary>Kiran Chhatre, Hyeonho Jeong, Yulia Gryaditskaya, Christopher E. Peters, Chun-Hao Paul Huang, Paul Guerrero</details>
 
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.29092)    [![Code](https://img.shields.io/github/stars/kiranchhatre/TrajectoryMover.svg?style=social&label=Star)](https://github.com/kiranchhatre/TrajectoryMover)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chhatrekiran.github.io/trajectorymover/)
 
-- **DiTraj: Training-free Trajectory Control For Video Diffusion Transformer** (29 Sep 2025)  
+- **DiTraj: training-free trajectory control for video diffusion transformer** (26 Sep 2025)  
   <details><summary>Cheng Lei, Jiayu Zhang, Yue Ma, et al.</summary>Cheng Lei, Jiayu Zhang, Yue Ma, Xinyu Wang, Long Chen, Liang Tang, Yiqiang Yan, Fei Su, Zhicheng Zhao</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21839)    [![Code](https://img.shields.io/github/stars/xduzhangjiayu/DiTraj)](https://github.com/xduzhangjiayu/DiTraj)    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://xduzhangjiayu.github.io/DiTraj_Project_Page/)
@@ -1484,6 +2075,320 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 📸 Camera-Guided
 <a id="-camera-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Camera-Guided -->
+
++ **3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement** (29 Jun 2026)
+  <details><summary>Deyin Liu, Jicheng Xu, Lin Yuanbo Wu, et al.</summary>Deyin Liu, Jicheng Xu, Lin Yuanbo Wu, Xiaowei Zhao, Xiatian Zhu, Zhe Jin, Anjan Dutta</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30514) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://robinhood256100.github.io/web-disp)
+
++ **Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control** (26 Jun 2026)
+  <details><summary>Haoyuan Wang, Yabo Chen, Haibin Huang, et al.</summary>Haoyuan Wang, Yabo Chen, Haibin Huang, Chi Zhang, Xuelong Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.27964) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://whydahuzi.github.io/Directing-the-World.github.io/)
+
++ **OrthoMotion:Disentangling Camera and Subject Motion via Geometry Semantics Orthogonal Attention** (22 Jun 2026)
+  <details><summary>Zijie Meng</summary>Zijie Meng</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.22835)
+
++ **TriMotion: Modality-Agnostic Camera Control for Video Generation** (18 Jun 2026)
+  <details><summary>Seunghyun Shin, Jifei Song, Wooseok Jeon, et al.</summary>Seunghyun Shin, Jifei Song, Wooseok Jeon, Hae-Gon Jeon, Jiankang Deng</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.20774)
+
++ **SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues** (15 Jun 2026)
+  <details><summary>Suttisak Wizadwongsa, Hyelin Nam, Supasorn Suwajanakorn, et al.</summary>Suttisak Wizadwongsa, Hyelin Nam, Supasorn Suwajanakorn, Jeong Joon Park</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17310) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hyelinnam.github.io/SierpinskiCam/)
+
++ **Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks** (14 Jun 2026)
+  <details><summary>Feng Qiao, Zhaochong An, Zhexiao Xiong, et al.</summary>Feng Qiao, Zhaochong An, Zhexiao Xiong, Serge Belongie, Nathan Jacobs</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15534) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://qjizhi.github.io/track2view)
+
++ **GeoStream: Toward Precise Camera Controlled Streaming Video Generation** (13 Jun 2026)
+  <details><summary>Yizhou Zhao, Yifan Wang, Xiaoyuan Wang, et al.</summary>Yizhou Zhao, Yifan Wang, Xiaoyuan Wang, Yushu Wu, Hao Zhang, Moayed Haji-Ali, Rameen Abdal, Ashkan Mirzaei, Yanyu Li, Willi Menapace, Laszlo Jeni, Sergey Tulyakov, Peter Wonka, Chaoyang Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15162)
+
++ **CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation** (11 Jun 2026)
+  <details><summary>Sharath Girish, Tsai-Shien Chen, Zhikang Dong, et al.</summary>Sharath Girish, Tsai-Shien Chen, Zhikang Dong, Mukesh Singhal, Hao Chen, Sergey Tulyakov, Aliaksandr Siarohin</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13768) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/CineOrchestra)
+
++ **Prisma-World: Camera-Controllable Multi-Agent Video World Model** (8 Jun 2026)
+  <details><summary>Huiqiang Sun, Zhan Peng, Size Wu, et al.</summary>Huiqiang Sun, Zhan Peng, Size Wu, Kun Wang, Kang Liao, Dianyi Wang, Xingyu Zeng, Sheng Jin, Yangguang Li, Zhiguo Cao, Ziwei Liu, Wei Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.09507)
+
++ **DisCo: World Models with Discrete Camera Motion Control** (6 Jun 2026)
+  <details><summary>Hongrui Huang, Junke Wang, Quanhao Li, et al.</summary>Hongrui Huang, Junke Wang, Quanhao Li, Yu-Gang Jiang, Zuxuan Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07967)
+
++ **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping** (29 May 2026)
+  <details><summary>Haoyu Zhao, Jiaxi Gu, Haoran Chen, et al.</summary>Haoyu Zhao, Jiaxi Gu, Haoran Chen, Qingping Zheng, Yeying Jin, Hongyi Yang, Junqi Cheng, Yuang Zhang, Zenghui Lu, Huan Yu, Jie Jiang, Peng Shu, Zuxuan Wu, Yu-Gang Jiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30774) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://gulucaptain.github.io/CameraNoise/)
+
++ **DeltaCam: Differential Intrinsic Camera Modeling for Video Generation** (24 May 2026)
+  <details><summary>Debabrata Mandal, Zhihan Peng, Yujie Wang, et al.</summary>Debabrata Mandal, Zhihan Peng, Yujie Wang, Praneeth Chakravarthula</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25266)
+
++ **WorldCraft: From Camera Navigation to Object Manipulation in Interactive Video World Models** (24 May 2026)
+  <details><summary>Bohai Gu, Taiyi Wu, Yueyang Yuan, et al.</summary>Bohai Gu, Taiyi Wu, Yueyang Yuan, Jian Liu, Xiaocheng Lu, Dazhao Du, Jie Zhang, Jinxiang Lai, Shuai Yang, Xiaotong Zhao, Alan Zhao, Song Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25077)
+
++ **Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video** (14 May 2026)
+  <details><summary>Yifan Wang, Tong He</summary>Yifan Wang, Tong He</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15182)
+
++ **Probing into Camera Control of Video Models** (14 May 2026)
+  <details><summary>Chen Hou, Christian Rupprecht</summary>Chen Hou, Christian Rupprecht</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.14815)
+
++ **CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation** (13 May 2026)
+  <details><summary>Seonghyun Jin, Youngmin Kim, Sunwoo Park, et al.</summary>Seonghyun Jin, Youngmin Kim, Sunwoo Park, Jong Chul Ye</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.12938)
+
++ **$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement** (12 May 2026)
+  <details><summary>Yuzhu Wang, Xi Ye, Duo Su, et al.</summary>Yuzhu Wang, Xi Ye, Duo Su, Yangyang Xu, Jun Zhu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.11871)
+
++ **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation** (7 May 2026)
+  <details><summary>Omar El Khalifi, Thomas Rossi, Oscar Fossey, et al.</summary>Omar El Khalifi, Thomas Rossi, Oscar Fossey, Thibault Fouque, Ulysse Mizrahi, Philip Torr, Ivan Laptev, Fabio Pizzati, Baptiste Bellot-Gurlet</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06667) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://elkhomar.github.io/actcam/)
+
++ **RealCam: Real-Time Novel-View Video Generation with Interactive Camera Control** (7 May 2026)
+  <details><summary>Youcan Xu, Jiaxin Shi, Zhen Wang, et al.</summary>Youcan Xu, Jiaxin Shi, Zhen Wang, Wensong Song, Feifei Shao, Chen Liang, Jun Xiao, Long Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06051) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xyc-fly.github.io/RealCam/)
+
++ **Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories** (10 Apr 2026)
+  <details><summary>Wonbong Jang, Shikun Liu, Soubhik Sanyal, et al.</summary>Wonbong Jang, Shikun Liu, Soubhik Sanyal, Juan Camilo Perez, Kam Woh Ng, Sanskar Agrawal, Juan-Manuel Perez-Rua, Yiannis Douratsos, Tao Xiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09429)
+
++ **CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation** (10 Apr 2026)
+  <details><summary>Haoyu Zhao, Zihao Zhang, Jiaxi Gu, et al.</summary>Haoyu Zhao, Zihao Zhang, Jiaxi Gu, Haoran Chen, Qingping Zheng, Pin Tang, Yeyin Jin, Yuang Zhang, Junqi Cheng, Zenghui Lu, Peng Shu, Zuxuan Wu, Yu-Gang Jiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.09201)
+
++ **OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control** (7 Apr 2026)
+  <details><summary>Yukun Wang, Ruihuang Li, Jiale Tao, et al.</summary>Yukun Wang, Ruihuang Li, Jiale Tao, Shiyuan Yang, Liyi Chen, Zhantao Yang, Handz, Yulan Guo, Shuai Shao, Qinglin Lu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06010)
+
++ **SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation** (4 Apr 2026)
+  <details><summary>Guiyu Zhang, Yabo Chen, Xunzhi Xiang, et al.</summary>Guiyu Zhang, Yabo Chen, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03723) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://grenoble-zhang.github.io/SymphoMotion/)
+
++ **MemCam: Memory-Augmented Camera Control for Consistent Video Generation** (27 Mar 2026)
+  <details><summary>Xinhang Gao, Junlin Guan, Shuhan Luo, et al.</summary>Xinhang Gao, Junlin Guan, Shuhan Luo, Wenzhuo Li, Guanghuan Tan, Jiacheng Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26193)
+
++ **I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation** (24 Mar 2026)
+  <details><summary>Jia Li, Han Yan, Yihang Chen, et al.</summary>Jia Li, Han Yan, Yihang Chen, Siqi Li, Xibin Song, Yifu Wang, Jianfei Cai, Tien-Tsin Wong, Pan Ji</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.23413)
+
++ **X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving** (20 Mar 2026)
+  <details><summary>Chaoda Zheng, Sean Li, Jinhao Deng, et al.</summary>Chaoda Zheng, Sean Li, Jinhao Deng, Zhennan Wang, Shijia Chen, Liqiang Xiao, Ziheng Chi, Hongbin Lin, Kangjie Chen, Boyang Wang, Yu Zhang, Xianming Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.19979)
+
++ **Stereo World Model: Camera-Guided Stereo Video Generation** (18 Mar 2026)
+  <details><summary>Yang-Tian Sun, Zehuan Huang, Yifan Niu, et al.</summary>Yang-Tian Sun, Zehuan Huang, Yifan Niu, Lin Ma, Yan-Pei Cao, Yuewen Ma, Xiaojuan Qi</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17375)
+
++ **CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control** (15 Mar 2026)
+  <details><summary>Zhiyi Kuang, Chengan He, Egor Zakharov, et al.</summary>Zhiyi Kuang, Chengan He, Egor Zakharov, Yuxuan Xue, Shunsuke Saito, Olivier Maury, Timur Bagautdinov, Youyi Zheng, Giljoo Nam</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14241)
+
++ **ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation** (10 Mar 2026)
+  <details><summary>Liudi Yang, George Eskandar, Fengyi Shen, et al.</summary>Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Yang Bai, Chi Zhang, Ziyuan Liu, Abhinav Valada</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.09819)
+
++ **FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning** (5 Mar 2026)
+  <details><summary>Weijie Lyu, Ming-Hsuan Yang, Zhixin Shu</summary>Weijie Lyu, Ming-Hsuan Yang, Zhixin Shu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.05506)
+
++ **WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories** (2 Mar 2026)
+  <details><summary>Yisu Zhang, Chenjie Cao, Tengfei Wang, et al.</summary>Yisu Zhang, Chenjie Cao, Tengfei Wang, Xuhui Zuo, Junta Wu, Jianke Zhu, Chunchao Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02049)
+
++ **UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models** (26 Feb 2026)
+  <details><summary>Tianxing Xu, Zixuan Wang, Guangyuan Wang, et al.</summary>Tianxing Xu, Zixuan Wang, Guangyuan Wang, Li Hu, Zhongyi Zhang, Peng Zhang, Bang Zhang, Songhai Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.22960)
+
++ **Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control** (20 Feb 2026)
+  <details><summary>Linxi Xie, Lisong C. Sun, Ashley Neall, et al.</summary>Linxi Xie, Lisong C. Sun, Ashley Neall, Tong Wu, Shengqu Cai, Gordon Wetzstein</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.18422)
+
++ **ReRoPE: Repurposing RoPE for Relative Camera Control** (8 Feb 2026)
+  <details><summary>Chunyang Li, Yuanbo Yang, Jiahao Shao, et al.</summary>Chunyang Li, Yuanbo Yang, Jiahao Shao, Hongyu Zhou, Katja Schwarz, Yiyi Liao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08068) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sisyphe-lee.github.io/ReRoPE/)
+
++ **3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation** (3 Feb 2026)
+  <details><summary>Zhixue Fang, Xu He, Songlin Tang, et al.</summary>Zhixue Fang, Xu He, Songlin Tang, Haoxian Zhang, Qingfeng Li, Xiaoqiang Liu, Pengfei Wan, Kun Gai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.03796)
+
++ **CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback** (22 Jan 2026)
+  <details><summary>Wenhang Ge, Guibao Shen, Jiawei Feng, et al.</summary>Wenhang Ge, Guibao Shen, Jiawei Feng, Luozhou Wang, Hao Lu, Xingye Tian, Xin Tao, Ying-Cong Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.16214) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://a-bigbao.github.io/CamPilot/)
+
++ **Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation** (15 Jan 2026)
+  <details><summary>Dong-Yu Chen, Yixin Guo, Shuojin Yang, et al.</summary>Dong-Yu Chen, Yixin Guo, Shuojin Yang, Tai-Jiang Mu, Shi-Min Hu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10214)
+
++ **Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering** (14 Jan 2026)
+  <details><summary>Jieying Chen, Jeffrey Hu, Joan Lasenby, et al.</summary>Jieying Chen, Jeffrey Hu, Joan Lasenby, Ayush Tewari</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.09697)
+
++ **VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** (8 Jan 2026)
+  <details><summary>Sixiao Zheng, Minghao Yin, Wenbo Hu, et al.</summary>Sixiao Zheng, Minghao Yin, Wenbo Hu, Xiaoyu Li, Ying Shan, Yanwei Fu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.05138)
+
++ **Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians** (2 Jan 2026)
+  <details><summary>Melonie de Almeida, Daniela Ivanova, Tong Shi, et al.</summary>Melonie de Almeida, Daniela Ivanova, Tong Shi, John H. Williamson, Paul Henderson</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.00678)
+
++ **CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization** (22 Dec 2025)
+  <details><summary>Zelin Zhao, Xinyu Gong, Bangya Liu, et al.</summary>Zelin Zhao, Xinyu Gong, Bangya Liu, Ziyang Song, Jun Zhang, Suhui Wu, Yongxin Chen, Hao Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.19020) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sjtuytc.github.io/CETCam_project_page.github.io/)
+
++ **Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation** (18 Dec 2025)
+  <details><summary>Min-Jung Kim, Jeongho Kim, Hoiyeong Jin, et al.</summary>Min-Jung Kim, Jeongho Kim, Hoiyeong Jin, Junha Hyung, Jaegul Choo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.17040) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://emjay73.github.io/InfCam/)
+
++ **ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions** (11 Dec 2025)
+  <details><summary>Xiaoxue Wu, Xinyuan Chen, Yaohui Wang, et al.</summary>Xiaoxue Wu, Xinyuan Chen, Yaohui Wang, Yu Qiao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.10286)
+
++ **GimbalDiffusion: Gravity-Aware Camera Control for Video Generation** (9 Dec 2025)
+  <details><summary>Frédéric Fortier-Chouinard, Yannick Hold-Geoffroy, Valentin Deschaintre, et al.</summary>Frédéric Fortier-Chouinard, Yannick Hold-Geoffroy, Valentin Deschaintre, Matheus Gadelha, Jean-François Lalonde</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.09112)
+
++ **Disturbance-Free Surgical Video Generation from Multi-Camera Shadowless Lamps for Open Surgery** (9 Dec 2025)
+  <details><summary>Yuna Kato, Shohei Mori, Hideo Saito, et al.</summary>Yuna Kato, Shohei Mori, Hideo Saito, Yoshifumi Takatsume, Hiroki Kajita, Mariko Isogawa</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.08577)
+
++ **Unified Camera Positional Encoding for Controlled Video Generation** (8 Dec 2025)
+  <details><summary>Cheng Zhang, Boying Li, Meng Wei, et al.</summary>Cheng Zhang, Boying Li, Meng Wei, Yan-Pei Cao, Camilo Cruz Gambardella, Dinh Phung, Jianfei Cai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.07237) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/chengzhag/UCPE)
+
++ **Light-X: Generative 4D Video Rendering with Camera and Illumination Control** (4 Dec 2025)
+  <details><summary>Tianqi Liu, Zhaoxi Chen, Zihao Huang, et al.</summary>Tianqi Liu, Zhaoxi Chen, Zihao Huang, Shaocong Xu, Saining Zhang, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.05115)
+
++ **BulletTime: Decoupled Control of Time and Camera Pose for Video Generation** (4 Dec 2025)
+  <details><summary>Yiming Wang, Qihang Zhang, Shengqu Cai, et al.</summary>Yiming Wang, Qihang Zhang, Shengqu Cai, Tong Wu, Jan Ackermann, Zhengfei Kuang, Yang Zheng, Frano Rajič, Siyu Tang, Gordon Wetzstein</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.05076) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://19reborn.github.io/Bullet4D/)
+
++ **ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation** (3 Dec 2025)
+  <details><summary>Yaokun Li, Shuaixian Wang, Mantang Guo, et al.</summary>Yaokun Li, Shuaixian Wang, Mantang Guo, Jiehui Huang, Taojun Ding, Mu Hu, Kaixuan Wang, Shaojie Shen, Guang Tan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.03621)
+
++ **Taming Camera-Controlled Video Generation with Verifiable Geometry Reward** (2 Dec 2025)
+  <details><summary>Zhaoqing Wang, Xiaobo Xia, Zhuolin Bie, et al.</summary>Zhaoqing Wang, Xiaobo Xia, Zhuolin Bie, Jinlin Liu, Dongdong Yu, Jia-Wang Bian, Changhu Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.02870)
+
++ **PanFlow: Decoupled Motion Control for Panoramic Video Generation** (30 Nov 2025)
+  <details><summary>Cheng Zhang, Hanwen Liang, Donny Y. Chen, et al.</summary>Cheng Zhang, Hanwen Liang, Donny Y. Chen, Qianyi Wu, Konstantinos N. Plataniotis, Camilo Cruz Gambardella, Jianfei Cai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.00832) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/chengzhag/PanFlow)
+
++ **DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation** (28 Nov 2025)
+  <details><summary>Hongfei Zhang, Kanghao Chen, Zixin Zhang, et al.</summary>Hongfei Zhang, Kanghao Chen, Zixin Zhang, Harold Haodong Chen, Yuanhuiyi Lyu, Yuqi Zhang, Shuai Yang, Kun Zhou, Yingcong Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.23127) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://soyouthinkyoucantell.github.io/dualcamctrl-page/)
+
++ **PostCam: Camera-Controllable Novel-View Video Generation with Query-Shared Cross-Attention** (21 Nov 2025)
+  <details><summary>Yipeng Chen, Zhichao Ye, Zhenzhou Fang, et al.</summary>Yipeng Chen, Zhichao Ye, Zhenzhou Fang, Xinyu Chen, Xiaoyu Zhang, Jialing Liu, Nan Wang, Guofeng Zhang, Haomin Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.17185) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cccqaq.github.io/PostCam.github.io/)
+
++ **3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation** (16 Oct 2025)
+  <details><summary>JoungBin Lee, Jaewoo Jung, Jisang Han, et al.</summary>JoungBin Lee, Jaewoo Jung, Jisang Han, Takuya Narihira, Kazumi Fukuda, Junyoung Seo, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14945) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cvlab-kaist.github.io/3DScenePrompt/)
+
++ **Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures** (16 Oct 2025)
+  <details><summary>Yuancheng Xu, Wenqi Xian, Li Ma, et al.</summary>Yuancheng Xu, Wenqi Xian, Li Ma, Julien Philip, Ahmet Levent Taşel, Yiwei Zhao, Ryan Burgert, Mingming He, Oliver Hermann, Oliver Pilarski, Rahul Garg, Paul Debevec, Ning Yu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14179) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://eyeline-labs.github.io/Virtually-Being)
+
++ **AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4D Scenes** (12 Oct 2025)
+  <details><summary>Yu Li, Menghan Xia, Gongye Liu, et al.</summary>Yu Li, Menghan Xia, Gongye Liu, Jianhong Bai, Xintao Wang, Conglang Zhang, Yuxuan Lin, Ruihang Chu, Pengfei Wan, Yujiu Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.10670)
+
++ **MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation** (25 Sep 2025)
+  <details><summary>Guojun Lei, Chi Wang, Yikai Wang, et al.</summary>Guojun Lei, Chi Wang, Yikai Wang, Hong Li, Ying Song, Weiwei Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21119)
+
++ **CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion** (24 Sep 2025)
+  <details><summary>Chenhao Ji, Chaohui Yu, Junyao Gao, et al.</summary>Chenhao Ji, Chaohui Yu, Junyao Gao, Fan Wang, Cairong Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.19979)
+
++ **Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation** (11 Aug 2025)
+  <details><summary>Xiaoyan Liu, Kangrui Li, Yuehao Song, et al.</summary>Xiaoyan Liu, Kangrui Li, Yuehao Song, Jiaxin Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07769)
+
++ **IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control** (6 Aug 2025)
+  <details><summary>Lijuan Liu, Wenfa Li, Dongbo Zhang, et al.</summary>Lijuan Liu, Wenfa Li, Dongbo Zhang, Shuo Wang, Shaohui Jiao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.04147) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://idcnet-scene.github.io)
+
++ **QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots** (4 Aug 2025)
+  <details><summary>Sheng Wu, Fei Teng, Hao Shi, et al.</summary>Sheng Wu, Fei Teng, Hao Shi, Qi Jiang, Kai Luo, Kaiwei Wang, Kailun Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02512) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/losehu/QuaDreamer)
+
++ **LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion** (8 Jul 2025)
+  <details><summary>Yisu Zhang, Chenjie Cao, Chaohui Yu, et al.</summary>Yisu Zhang, Chenjie Cao, Chaohui Yu, Jianke Zhu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.05678) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fuchengsu.github.io/lionlora.github.io/)
+
+<!-- RECENT_VERIFIED_END:Camera-Guided -->
+
 + **Follow-Your-Creation: Empowering 4D Creation through Video Inpainting** (5 Jun 2025)  
   <details><summary>Yue Ma, Kunyu Feng, Xinhua Zhang, et al.</summary> Yue Ma, Kunyu Feng, Xinhua Zhang, Hongyu Liu, David Junhao Zhang, Jinbo Xing, Yinhan Zhang, Ayden Yang, Zeyu Wang, Qifeng Chen</details>  
   
@@ -1674,6 +2579,155 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 ### 🎬 Motion-Guided
 <a id="-motion-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Motion-Guided -->
+
++ **Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling** (8 Jun 2026)
+  <details><summary>Yiheng Cao, Gustavo Andrade-Miranda, Jiatian Zhang, et al.</summary>Yiheng Cao, Gustavo Andrade-Miranda, Jiatian Zhang, Guillaume Sallé, Xin Gao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.14759)
+
++ **Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization** (1 Jun 2026)
+  <details><summary>Jingyun Liang, Min Wei, Shikai Li, et al.</summary>Jingyun Liang, Min Wei, Shikai Li, Yizeng Han, Hangjie Yuan, Lei Sun, Weihua Chen, Fan Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.02000)
+
++ **MotiMotion: Motion-Controlled Video Generation with Visual Reasoning** (21 May 2026)
+  <details><summary>Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei, et al.</summary>Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei, Jing Shi, Ming-Hsuan Yang, Zhixin Shu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.22818)
+
++ **From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation** (9 May 2026)
+  <details><summary>Bohan Li, Shuojue Yang, Baorui Peng, et al.</summary>Bohan Li, Shuojue Yang, Baorui Peng, Xianda Guo, Erli Zhang, Youqi Tao, Junfeng Duan, Daguang Xu, Qi Dou, Xin Jin, Wenjun Zeng, Hao Zhao, Yueming Jin</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08712)
+
++ **ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration** (1 Apr 2026)
+  <details><summary>Fengyuan Yang, Luying Huang, Jiazhi Guan, et al.</summary>Fengyuan Yang, Luying Huang, Jiazhi Guan, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, Hang Zhou, Angela Yao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01043) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://martayang.github.io/ONE-SHOT/)
+
++ **MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer** (1 Apr 2026)
+  <details><summary>Samuel Teodoro, Yun Chen, Agus Gunawan, et al.</summary>Samuel Teodoro, Yun Chen, Agus Gunawan, Soo Ye Kim, Jihyong Oh, Munchurl Kim</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00853)
+
++ **HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis** (31 Mar 2026)
+  <details><summary>Mingjin Chen, Junhao Chen, Zhaoxin Fan, et al.</summary>Mingjin Chen, Junhao Chen, Zhaoxin Fan, Yujian Lee, Zichen Dang, Lili Wang, Yawen Cui, Lap-Pui Chau, Yi Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03305)
+
++ **LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model** (28 Mar 2026)
+  <details><summary>Quankai Gao, Jiawei Yang, Qiangeng Xu, et al.</summary>Quankai Gao, Jiawei Yang, Qiangeng Xu, Le Chen, Yue Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27449)
+
++ **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search** (17 Mar 2026)
+  <details><summary>Sainan Liu, Tz-Ying Wu, Hector A Valdez, et al.</summary>Sainan Liu, Tz-Ying Wu, Hector A Valdez, Subarna Tripathi</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16711)
+
++ **SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents** (9 Mar 2026)
+  <details><summary>Yu Yang, Yue Liao, Jianbiao Mei, et al.</summary>Yu Yang, Yue Liao, Jianbiao Mei, Baisen Wang, Xuemeng Yang, Licheng Wen, Jiangning Zhang, Xiangtai Li, Liang Lv, Hanlin Chen, Botian Shi, Yong Liu, Shuicheng Yan, Gim Hee Lee</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.08403)
+
++ **Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades** (9 Mar 2026)
+  <details><summary>Ashkan Taghipour, Morteza Ghahremani, Zinuo Li, et al.</summary>Ashkan Taghipour, Morteza Ghahremani, Zinuo Li, Hamid Laga, Farid Boussaid, Mohammed Bennamoun</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.08028)
+
++ **RealWonder: Real-Time Physical Action-Conditioned Video Generation** (5 Mar 2026)
+  <details><summary>Wei Liu, Ziyu Chen, Zizhang Li, et al.</summary>Wei Liu, Ziyu Chen, Zizhang Li, Yue Wang, Hong-Xing Yu, Jiajun Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.05449) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://liuwei283.github.io/RealWonder/)
+
++ **Kling-MotionControl Technical Report** (3 Mar 2026)
+  <details><summary>Kling Team, Jialu Chen, Yikang Ding, et al.</summary>Kling Team, Jialu Chen, Yikang Ding, Zhixue Fang, Kun Gai, Kang He, Xu He, Jingyun Hua, Mingming Lao, Xiaohan Li, Hui Liu, Jiwen Liu, Xiaoqiang Liu, Fan Shi, Xiaoyu Shi, Peiqin Sun, Songlin Tang, Pengfei Wan, Tiancheng Wen, Zhiyong Wu, Haoxian Zhang, Runze Zhao, Yuanxing Zhang, Yan Zhou</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.03160)
+
++ **Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer** (1 Mar 2026)
+  <details><summary>Yuze Li, Dong Gong, Xiao Cao, et al.</summary>Yuze Li, Dong Gong, Xiao Cao, Junchao Yuan, Dongsheng Li, Lei Zhou, Yun Sing Koh, Cheng Yan, Xinyu Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.01000) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ethan-li123.github.io/FlexiMMT_page/)
+
++ **FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control** (13 Feb 2026)
+  <details><summary>Mingzhi Sheng, Zekai Gu, Peng Li, et al.</summary>Mingzhi Sheng, Zekai Gu, Peng Li, Cheng Lin, Hao-Xiang Guo, Ying-Cong Chen, Yuan Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.13185)
+
++ **MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer** (8 Dec 2025)
+  <details><summary>Penghui Liu, Jiangshan Wang, Yutong Shen, et al.</summary>Penghui Liu, Jiangshan Wang, Yutong Shen, Shanhui Mo, Chenyang Qi, Yue Ma</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.07500)
+
++ **LAMP: Language-Assisted Motion Planning for Controllable Video Generation** (3 Dec 2025)
+  <details><summary>Muhammed Burak Kizil, Enes Sanli, Niloy J. Mitra, et al.</summary>Muhammed Burak Kizil, Enes Sanli, Niloy J. Mitra, Erkut Erdem, Aykut Erdem, Duygu Ceylan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.03619)
+
++ **MultiShotMaster: A Controllable Multi-Shot Video Generation Framework** (2 Dec 2025)
+  <details><summary>Qinghe Wang, Xiaoyu Shi, Baolu Li, et al.</summary>Qinghe Wang, Xiaoyu Shi, Baolu Li, Weikang Bian, Quande Liu, Huchuan Lu, Xintao Wang, Pengfei Wan, Kun Gai, Xu Jia</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.03041)
+
++ **Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation** (1 Dec 2025)
+  <details><summary>Haodong Yan, Hang Yu, Zhide Zhong, et al.</summary>Haodong Yan, Hang Yu, Zhide Zhong, Weilin Yuan, Xin Gong, Zehang Luo, Chengxi Heyu, Junfeng Li, Wenxuan Song, Shunbo Zhou, Haoang Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.01677) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hgzn258.github.io/SCAR/)
+
++ **Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout** (25 Nov 2025)
+  <details><summary>Hidir Yesiltepe, Tuna Han Salih Meral, Adil Kaan Akan, et al.</summary>Hidir Yesiltepe, Tuna Han Salih Meral, Adil Kaan Akan, Kaan Oktay, Pinar Yanardag</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20649)
+
++ **PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding** (25 Nov 2025)
+  <details><summary>Haoze Zhang, Tianyu Huang, Zichen Wan, et al.</summary>Haoze Zhang, Tianyu Huang, Zichen Wan, Xiaowei Jin, Hongzhi Zhang, Hui Li, Wangmeng Zuo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20562)
+
++ **Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising** (9 Nov 2025)
+  <details><summary>Assaf Singer, Noam Rotstein, Amir Mann, et al.</summary>Assaf Singer, Noam Rotstein, Amir Mann, Ron Kimmel, Or Litany</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.08633) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://time-to-move.github.io/)
+
++ **MotionStream: Real-Time Video Generation with Interactive Motion Controls** (3 Nov 2025)
+  <details><summary>Joonghyuk Shin, Zhengqi Li, Richard Zhang, et al.</summary>Joonghyuk Shin, Zhengqi Li, Richard Zhang, Jun-Yan Zhu, Jaesik Park, Eli Shechtman, Xun Huang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.01266)
+
++ **Real-Time Motion-Controllable Autoregressive Video Diffusion** (9 Oct 2025)
+  <details><summary>Kesen Zhao, Jiaxin Shi, Beier Zhu, et al.</summary>Kesen Zhao, Jiaxin Shi, Beier Zhu, Junbao Zhou, Xiaolong Shen, Yuan Zhou, Qianru Sun, Hanwang Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08131) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://kesenzhao.github.io/AR-Drag.github.io/)
+
++ **MultiModal Action Conditioned Video Generation** (2 Oct 2025)
+  <details><summary>Yichen Li, Antonio Torralba</summary>Yichen Li, Antonio Torralba</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.02287)
+
++ **PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation** (24 Sep 2025)
+  <details><summary>Chen Wang, Chuhao Chen, Yiming Huang, et al.</summary>Chen Wang, Chuhao Chen, Yiming Huang, Zhiyang Dou, Yuan Liu, Jiatao Gu, Lingjie Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.20358) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cwchenwang.github.io/physctrl)
+
++ **Precise Action-to-Video Generation Through Visual Action Prompts** (18 Aug 2025)
+  <details><summary>Yuang Wang, Chao Wen, Haoyu Guo, et al.</summary>Yuang Wang, Chao Wen, Haoyu Guo, Sida Peng, Minghan Qin, Hujun Bao, Xiaowei Zhou, Ruizhen Hu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13104) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zju3dv.github.io/VAP/)
+
++ **Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers** (10 Aug 2025)
+  <details><summary>Xin Ma, Yaohui Wang, Genyun Jia, et al.</summary>Xin Ma, Yaohui Wang, Genyun Jia, Xinyuan Chen, Tien-Tsin Wong, Cunjian Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07246)
+
++ **MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation** (22 Jul 2025)
+  <details><summary>Yanchen Liu, Yanan Sun, Zhening Xing, et al.</summary>Yanchen Liu, Yanan Sun, Zhening Xing, Junyao Gao, Kai Chen, Wenjie Pei</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.16310)
+
+<!-- RECENT_VERIFIED_END:Motion-Guided -->
+
 + **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (6 May 2025)
    <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
         Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
@@ -1840,6 +2894,205 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
 ### 🗣️ Voice-Guided
 <a id="-voice-guided"></a>
+
+<!-- RECENT_VERIFIED_START:Voice-Guided -->
+
++ **SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation** (29 Jun 2026)
+  <details><summary>Juncheng Ma, Yuxuan Du, Yanan Sun, et al.</summary>Juncheng Ma, Yuxuan Du, Yanan Sun, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou, Yonghong Tian</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30849)
+
++ **EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units** (14 Jun 2026)
+  <details><summary>Tingting Chen, Shaojun Wang, Huaye Zhang, et al.</summary>Tingting Chen, Shaojun Wang, Huaye Zhang, Diqiong Jiang, Chenglizhao Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.15848)
+
++ **ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance** (11 Jun 2026)
+  <details><summary>Salaheldin Mohamed, M. Hamza Mughal, Rishabh Dabral, et al.</summary>Salaheldin Mohamed, M. Hamza Mughal, Rishabh Dabral, Christian Theobalt</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13304)
+
++ **Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation** (2 Jun 2026)
+  <details><summary>Xuan Wei, Jiahui Chen, Kaiheng Li, et al.</summary>Xuan Wei, Jiahui Chen, Kaiheng Li, Mingyu Shao, Qingqi Hong</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.03402)
+
++ **Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs** (1 Jun 2026)
+  <details><summary>Sicheng Xu, Yu Deng, Shoukang Hu, et al.</summary>Sicheng Xu, Yu Deng, Shoukang Hu, Yichuan Wang, Yizhong Zhang, Zhan Chen, Jiaolong Yang, Baining Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.01620)
+
++ **Test-Time Self-Adaptive Conditioning for Stable Audio-Driven Talking-Head Generation** (25 May 2026)
+  <details><summary>Zhicheng Zhang, Lei Wang, Yu Zhang, et al.</summary>Zhicheng Zhang, Lei Wang, Yu Zhang, Yongsheng Gao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.25488)
+
++ **MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation** (8 May 2026)
+  <details><summary>Xinyan Ye, Jiankang Deng, Abbas Edalat</summary>Xinyan Ye, Jiankang Deng, Abbas Edalat</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.08050)
+
++ **TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation** (16 Apr 2026)
+  <details><summary>Xiangyu Liu, Feng Gao, Xiaomei Zhang, et al.</summary>Xiangyu Liu, Feng Gao, Xiaomei Zhang, Yong Zhang, Xiaoming Wei, Zhen Lei, Xiangyu Zhu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.14580)
+
++ **PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation** (9 Apr 2026)
+  <details><summary>Soumya Mazumdar, Vineet Kumar Rakesh, Tapas Samanta</summary>Soumya Mazumdar, Vineet Kumar Rakesh, Tapas Samanta</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08037)
+
++ **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization** (22 Mar 2026)
+  <details><summary>Haolan Xu, Keli Cheng, Lei Wang, et al.</summary>Haolan Xu, Keli Cheng, Lei Wang, Ning Bi, Xiaoming Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.21332)
+
++ **EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control** (19 Mar 2026)
+  <details><summary>Yuzhe Weng, Haotian Wang, Yuanhong Yu, et al.</summary>Yuzhe Weng, Haotian Wang, Yuanhong Yu, Jun Du, Shan He, Xiaoyan Wu, Haoran Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.20307)
+
++ **TempoSyncDiff: Distilled Temporally-Consistent Diffusion for Low-Latency Audio-Driven Talking Head Generation** (6 Mar 2026)
+  <details><summary>Soumya Mazumdar, Vineet Kumar Rakesh</summary>Soumya Mazumdar, Vineet Kumar Rakesh</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.06057) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mazumdarsoumya.github.io/TempoSyncDiff)
+
++ **FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation** (25 Feb 2026)
+  <details><summary>Weiting Tan, Andy T. Liu, Ming Tu, et al.</summary>Weiting Tan, Andy T. Liu, Ming Tu, Xinghua Qu, Philipp Koehn, Lu Lu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.00159)
+
++ **DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation** (12 Feb 2026)
+  <details><summary>Xu Guo, Fulong Ye, Qichao Sun, et al.</summary>Xu Guo, Fulong Ye, Qichao Sun, Liyang Chen, Bingchuan Li, Pengze Zhang, Jiawei Liu, Songtao Zhao, Qian He, Xiangwang Hou</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.12160)
+
++ **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars** (11 Feb 2026)
+  <details><summary>Zhongju Wang, Zhenhong Sun, Beier Wang, et al.</summary>Zhongju Wang, Zhenhong Sun, Beier Wang, Yifu Wang, Daoyi Dong, Huadong Mo, Hongdong Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.10516)
+
++ **Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars** (2 Feb 2026)
+  <details><summary>Youliang Zhang, Zhengguang Zhou, Zhentao Yu, et al.</summary>Youliang Zhang, Zhengguang Zhou, Zhentao Yu, Ziyao Huang, Teng Hu, Sen Liang, Guozhen Zhang, Ziqiao Peng, Shunkai Li, Yi Chen, Zixiang Zhou, Yuan Zhou, Qinglin Lu, Xiu Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.01538) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://interactavatar.github.io)
+
++ **EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers** (29 Jan 2026)
+  <details><summary>John Flynn, Wolfgang Paier, Dimitar Dinev, et al.</summary>John Flynn, Wolfgang Paier, Dimitar Dinev, Sam Nhut Nguyen, Hayk Poghosyan, Manuel Toribio, Sandipan Banerjee, Guy Gafni</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.22127)
+
++ **MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning** (4 Jan 2026)
+  <details><summary>Chunyu Qiang, Jun Wang, Xiaopeng Wang, et al.</summary>Chunyu Qiang, Jun Wang, Xiaopeng Wang, Kang Yin, Yuxin Guo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01568)
+
++ **PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment** (27 Dec 2025)
+  <details><summary>Bin Wang, Yang Xu, Huan Zhao, et al.</summary>Bin Wang, Yang Xu, Huan Zhao, Hao Zhang, Zixing Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.22602)
+
++ **TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation** (16 Dec 2025)
+  <details><summary>Zhenzhi Wang, Jian Wang, Ke Ma, et al.</summary>Zhenzhi Wang, Jian Wang, Ke Ma, Dahua Lin, Bing Zhou</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.14938) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zhenzhiwang.github.io/talkverse/)
+
++ **STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits** (15 Dec 2025)
+  <details><summary>Foivos Paraperas Papantoniou, Stathis Galanakis, Rolandos Alexandros Potamias, et al.</summary>Foivos Paraperas Papantoniou, Stathis Galanakis, Rolandos Alexandros Potamias, Bernhard Kainz, Stefanos Zafeiriou</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13247)
+
++ **JoyStreamer-Flash: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion** (12 Dec 2025)
+  <details><summary>Chaochao Li, Ruikui Wang, Liangbo Zhou, et al.</summary>Chaochao Li, Ruikui Wang, Liangbo Zhou, Jinheng Feng, Huaishao Luo, Huan Zhang, Youzheng Wu, Xiaodong He</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.11423)
+
++ **GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting** (11 Dec 2025)
+  <details><summary>Madhav Agarwal, Mingtian Zhang, Laura Sevilla-Lara, et al.</summary>Madhav Agarwal, Mingtian Zhang, Laura Sevilla-Lara, Steven McDonagh</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.10939)
+
++ **AI killed the video star. Audio-driven diffusion model for expressive talking head generation** (27 Nov 2025)
+  <details><summary>Baptiste Chopin, Tashvik Dhamija, Pranav Balaji, et al.</summary>Baptiste Chopin, Tashvik Dhamija, Pranav Balaji, Yaohui Wang, Antitza Dantcheva</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.22488)
+
++ **ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search** (10 Nov 2025)
+  <details><summary>Zhenjie Liu, Jianzhang Lu, Renjie Lu, et al.</summary>Zhenjie Liu, Jianzhang Lu, Renjie Lu, Cong Liang, Shangfei Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.06833)
+
++ **Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback** (14 Oct 2025)
+  <details><summary>Xingpei Ma, Shenneng Huang, Jiaran Cai, et al.</summary>Xingpei Ma, Shenneng Huang, Jiaran Cai, Yuansheng Guan, Shen Zheng, Hanfeng Zhao, Qiang Zhang, Shunsi Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12089)
+
++ **DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis** (12 Oct 2025)
+  <details><summary>Peiyin Chen, Zhuowei Yang, Hui Feng, et al.</summary>Peiyin Chen, Zhuowei Yang, Hui Feng, Sheng Jiang, Rui Yan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.10650)
+
++ **Wan-S2V: Audio-Driven Cinematic Video Generation** (26 Aug 2025)
+  <details><summary>Xin Gao, Li Hu, Siqi Hu, et al.</summary>Xin Gao, Li Hu, Siqi Hu, Mingyang Huang, Chaonan Ji, Dechao Meng, Jinwei Qi, Penchong Qiao, Zhen Shen, Yafei Song, Ke Sun, Linrui Tian, Guangyuan Wang, Qi Wang, Zhongjian Wang, Jiayu Xiao, Sheng Xu, Bang Zhang, Peng Zhang, Xindi Zhang, Zhe Zhang, Jingren Zhou, Lian Zhuo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.18621)
+
++ **InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing** (19 Aug 2025)
+  <details><summary>Shaoshu Yang, Zhe Kong, Feng Gao, et al.</summary>Shaoshu Yang, Zhe Kong, Feng Gao, Meng Cheng, Xiangyu Liu, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14033)
+
++ **EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis** (19 Aug 2025)
+  <details><summary>Shuai Tan, Bin Ji</summary>Shuai Tan, Bin Ji</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13442)
+
++ **StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation** (11 Aug 2025)
+  <details><summary>Shuyuan Tu, Yueming Pan, Yinming Huang, et al.</summary>Shuyuan Tu, Yueming Pan, Yinming Huang, Xintong Han, Zhen Xing, Qi Dai, Chong Luo, Zuxuan Wu, Yu-Gang Jiang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08248)
+
++ **RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer** (7 Aug 2025)
+  <details><summary>Fangyu Du, Taiqing Li, Qian Qiao, et al.</summary>Fangyu Du, Taiqing Li, Qian Qiao, Tan Yu, Ziwei Zhang, Dingcheng Zhen, Xu Jia, Yang Yang, Shunshun Yin, Siyuan Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05115)
+
++ **READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation** (5 Aug 2025)
+  <details><summary>Haotian Wang, Yuzhe Weng, Jun Du, et al.</summary>Haotian Wang, Yuzhe Weng, Jun Du, Haoran Xu, Xiaoyan Wu, Shan He, Bing Yin, Cong Liu, Jianqing Gao, Qingfeng Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03457)
+
++ **X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio** (4 Aug 2025)
+  <details><summary>Chenxu Zhang, Zenan Li, Hongyi Xu, et al.</summary>Chenxu Zhang, Zenan Li, Hongyi Xu, You Xie, Xiaochen Zhao, Tianpei Gu, Guoxian Song, Xin Chen, Chao Liang, Jianwen Jiang, Linjie Luo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02944)
+
++ **SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation** (1 Aug 2025)
+  <details><summary>Kien T. Pham, Yingqing He, Yazhou Xing, et al.</summary>Kien T. Pham, Yingqing He, Yazhou Xing, Qifeng Chen, Long Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.00782)
+
++ **DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation** (29 Jul 2025)
+  <details><summary>He Feng, Yongjia Ma, Donglin Di, et al.</summary>He Feng, Yongjia Ma, Donglin Di, Lei Fan, Tonghua Su, Xiangqian Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.06511)
+
++ **ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion** (17 Jul 2025)
+  <details><summary>Hoang-Son Vo, Quang-Vinh Nguyen, Seungwon Kim, et al.</summary>Hoang-Son Vo, Quang-Vinh Nguyen, Seungwon Kim, Hyung-Jeong Yang, Soonja Yeom, Soo-Hyung Kim</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12804) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/sonvth/ATL-Diff)
+
++ **Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation** (17 Jul 2025)
+  <details><summary>Hanlei Shi, Leyuan Qu, Yu Liu, et al.</summary>Hanlei Shi, Leyuan Qu, Yu Liu, Di Gao, Yuhua Zheng, Taihao Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12761)
+
++ **FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases** (2 Jul 2025)
+  <details><summary>Shuai Tan, Bill Gong, Bin Ji, et al.</summary>Shuai Tan, Bill Gong, Bin Ji, Ye Pan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.01390)
+
+<!-- RECENT_VERIFIED_END:Voice-Guided -->
 
 + **Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Sep 2025)<details><summary>[IJCV 2025] Chaolong Yang, Kai Yao, Yuyao Yan, et al.</summary>
 Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang</details>
@@ -2018,6 +3271,30 @@ Liefeng Bo</details>
 ### 🎵 Sound-Guided
 <a id="-sound-guided"></a>
 
+<!-- RECENT_VERIFIED_START:Sound-Guided -->
+
++ **In-Context Audio Control of Video Diffusion Transformers** (21 Dec 2025)
+  <details><summary>Wenze Liu, Weicai Ye, Minghong Cai, et al.</summary>Wenze Liu, Weicai Ye, Minghong Cai, Quande Liu, Xintao Wang, Xiangyu Yue</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18772)
+
++ **MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation** (20 Dec 2025)
+  <details><summary>Kaixing Yang, Jiashu Zhu, Xulong Tang, et al.</summary>Kaixing Yang, Jiashu Zhu, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Puwei Wang, Jiahong Wu, Xiangxiang Chu, Hongyan Liu, Jun He</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.18181) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/AMAP-ML/MACE-Dance)
+
++ **YingVideo-MV: Music-Driven Multi-Stage Video Generation** (2 Dec 2025)
+  <details><summary>Jiahui Chen, Weida Wang, Runhua Shi, et al.</summary>Jiahui Chen, Weida Wang, Runhua Shi, Huan Yang, Chaofan Ding, Zihao Chen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.02492) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://giantailab.github.io/YingVideo-MV/)
+
++ **ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion** (26 Jul 2025)
+  <details><summary>Xuanchen Wang, Heng Wang, Weidong Cai</summary>Xuanchen Wang, Heng Wang, Weidong Cai</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19836) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://choreomuse.github.io)
+
+<!-- RECENT_VERIFIED_END:Sound-Guided -->
+
 
 + *MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (7 Mar 2025) <details><summary>Hongwei Yi, Tian Ye, Shitong Shao, Xuancheng Yang, et al.</summary> Hongwei Yi, Tian Ye, Shitong Shao, Xuancheng Yang, Jiantong Zhao, Hanzhong Guo, Terrance Wang, Qingyu Yin, Zeke Xie, Lei Zhu, Wei Li, Michael Lingelbach, Daquan Zhou</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)]([https://arxiv.org/abs/2505.10238](https://arxiv.org/abs/2503.05978v1)) 
 
@@ -2068,6 +3345,25 @@ Guy Yariv, Itai Gat, Sagie Benaim, Lior Wolf, Idan Schwartz, Yossi Adi</details>
 
 ### 🎨 Style-Guided
 <a id="-style-guided"></a>
+
+<!-- RECENT_VERIFIED_START:Style-Guided -->
+
++ **Lighting-grounded Video Generation with Renderer-based Agent Reasoning** (9 Apr 2026)
+  <details><summary>Ziqi Cai, Taoyu Yang, Zheng Chang, et al.</summary>Ziqi Cai, Taoyu Yang, Zheng Chang, Si Li, Han Jiang, Shuchen Weng, Boxin Shi</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.07966)
+
++ **LightCtrl: Training-free Controllable Video Relighting** (28 Mar 2026)
+  <details><summary>Yizuo Peng, Xuelin Chen, Kai Zhang, et al.</summary>Yizuo Peng, Xuelin Chen, Kai Zhang, Xiaodong Cun</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.27083) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/GVCLab/LightCtrl)
+
++ **DreamStyle: A Unified Framework for Video Stylization** (6 Jan 2026)
+  <details><summary>Mengtian Li, Jinshu Chen, Songtao Zhao, et al.</summary>Mengtian Li, Jinshu Chen, Songtao Zhao, Wanquan Feng, Pengqi Tu, Qian He</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.02785)
+
+<!-- RECENT_VERIFIED_END:Style-Guided -->
 
 + **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
    <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
@@ -2155,6 +3451,25 @@ Zhenguo Li, Xihui Liu</details>
 ### 🗺️ BEV-Guided
 <a id="-bev-guided"></a>
 
+<!-- RECENT_VERIFIED_START:BEV-Guided -->
+
++ **DriveCtrl: Conditioned Sim-to-Real Driving Video Generation** (14 May 2026)
+  <details><summary>Haonan Zhao, Yiting Wang, Jingkun Chen, et al.</summary>Haonan Zhao, Yiting Wang, Jingkun Chen, Valentina Donzella, Thomas Bashford-Rogers, Kurt Debattista</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15116)
+
++ **GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation** (14 Dec 2025)
+  <details><summary>Zhenya Yang, Zhe Liu, Yuxiang Lu, et al.</summary>Zhenya Yang, Zhe Liu, Yuxiang Lu, Liping Hou, Chenxuan Miao, Siyi Peng, Bailan Feng, Xiang Bai, Hengshuang Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.12751)
+
++ **Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation** (28 Aug 2025)
+  <details><summary>Jiusi Li, Jackson Jiang, Jinyu Miao, et al.</summary>Jiusi Li, Jackson Jiang, Jinyu Miao, Miao Long, Tuopu Wen, Peijin Jia, Shengxiang Liu, Chunlei Yu, Maolin Liu, Yuzhan Cai, Kun Jiang, Mengmeng Yang, Diange Yang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.20471)
+
+<!-- RECENT_VERIFIED_END:BEV-Guided -->
+
 + **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention** (04 Dec 2024)<details><summary>Hannan Lu, Xiaohe Wu, Shudong Wang, et al.</summary>
 Hannan Lu, Xiaohe Wu, Shudong Wang, Xiameng Qin, Xinyu Zhang, Junyu Han, Wangmeng Zuo, Ji Tao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03520)
@@ -2203,6 +3518,215 @@ Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang 
 [![Project](https://img.shields.io/badge/Project_Page-00CED1)](http://gaoruiyuan.com/magicdrive/)
 
 ## 🌀 Universal Control
+
+<!-- RECENT_VERIFIED_START:Universal Control -->
+
++ **World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration** (30 Jun 2026)
+  <details><summary>Ye Chen, Xuanhong Chen, Yupeng Zhu, et al.</summary>Ye Chen, Xuanhong Chen, Yupeng Zhu, Liming Tan, Zhewen Wan, Yuxuan Xiong, Tielong Wang, Jinfan Liu, Wuze Zhang, Xiongzhen Zhang, Feifei Li, Xianglin Luo, Zhehan Zhao, Zhifan Zhang, Laisheng Kou, Zhujin Liang, Yugang Chen, Muchun Chen, Xu Miao, Yijing Zhang, Xiaojie Sheng, Qiang Hu, Jialiang Chen, Weimin Zhang, Wenjun Zhang, Bingbing Ni</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.31946) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://glassroom.sjtu.edu.cn/WNM/)
+
++ **Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models** (23 Jun 2026)
+  <details><summary>Xin Wang, Wenxuan Liu, Tongtong Feng, et al.</summary>Xin Wang, Wenxuan Liu, Tongtong Feng, Wenwu Zhu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24152)
+
++ **PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory** (15 Jun 2026)
+  <details><summary>Shuai Yang, Bingjie Gao, Ziwei Liu, et al.</summary>Shuai Yang, Bingjie Gao, Ziwei Liu, Jiaqi Wang, Dahua Lin, Tong Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16449)
+
++ **Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation** (29 May 2026)
+  <details><summary>Hanlin Chen, Jiaxin Wei, Xibin Song, et al.</summary>Hanlin Chen, Jiaxin Wei, Xibin Song, Yifu Wang, Steve Wang, Hongdong Li, Pan Ji, Gim Hee Lee</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30855)
+
++ **CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** (19 May 2026)
+  <details><summary>Hongji Yang, Songlian Li, Yucheng Zhou, et al.</summary>Hongji Yang, Songlian Li, Yucheng Zhou, Xiaotong Zhao, Alan Zhao, Chengzhong Xu, Jianbing Shen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.19995) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://um-lab.github.io/CogOmniControl/)
+
++ **Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory** (18 May 2026)
+  <details><summary>Jinzhuo Liu, Jiangning Zhang, Wencan Jiang, et al.</summary>Jinzhuo Liu, Jiangning Zhang, Wencan Jiang, Yabiao Wang, Dingkang Liang, Zhucun Xue, Ran Yi, Yong Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18733)
+
++ **EduStory: A Unified Framework for Pedagogically-Consistent Multi-Shot STEM Instructional Video Generation** (10 May 2026)
+  <details><summary>Xinyi Wu, Jayant Teotia, Shuai Zhao, et al.</summary>Xinyi Wu, Jayant Teotia, Shuai Zhao, Erik Cambria</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.09378)
+
++ **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis** (21 Apr 2026)
+  <details><summary>Zhengwentai Sun, Keru Zheng, Chenghong Li, et al.</summary>Zhengwentai Sun, Keru Zheng, Chenghong Li, Hongjie Liao, Xihe Yang, Heyuan Li, Yihao Zhi, Shuliang Ning, Shuguang Cui, Xiaoguang Han</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19720) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Taited/ReImagine)
+
++ **MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation** (21 Apr 2026)
+  <details><summary>Liyang Li, Wen Wang, Canyu Zhao, et al.</summary>Liyang Li, Wen Wang, Canyu Zhao, Tianjian Feng, Zhiyue Zhao, Hao Chen, Chunhua Shen</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.19679)
+
++ **Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation** (11 Apr 2026)
+  <details><summary>Gordon Chen, Ziqi Huang, Ziwei Liu</summary>Gordon Chen, Ziqi Huang, Ziwei Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.10030)
+
++ **VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward** (27 Mar 2026)
+  <details><summary>Zhaochong An, Orest Kupyn, Théo Uscidda, et al.</summary>Zhaochong An, Orest Kupyn, Théo Uscidda, Andrea Colaco, Karan Ahuja, Serge Belongie, Mar Gonzalez-Franco, Marta Tintore Gazulla</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26599)
+
++ **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models** (24 Mar 2026)
+  <details><summary>Zekai Gu, Shuoxuan Feng, Yansong Wang, et al.</summary>Zekai Gu, Shuoxuan Feng, Yansong Wang, Hanzhuo Huang, Zhongshuo Du, Chengfeng Zhao, Chengwei Ren, Peng Wang, Yuan Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.23246)
+
++ **MosaicMem: Hybrid Spatial Memory for Controllable Video World Models** (17 Mar 2026)
+  <details><summary>Wei Yu, Runjia Qian, Yumeng Li, et al.</summary>Wei Yu, Runjia Qian, Yumeng Li, Liquan Wang, Songheng Yin, Sri Siddarth Chakaravarthy P, Dennis Anthony, Yang Ye, Yidi Li, Weiwei Wan, Animesh Garg</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.17117)
+
++ **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion** (16 Mar 2026)
+  <details><summary>Zhenghong Zhou, Xiaohang Zhan, Zhiqin Chen, et al.</summary>Zhenghong Zhou, Xiaohang Zhan, Zhiqin Chen, Soo Ye Kim, Nanxuan Zhao, Haitian Zheng, Qing Liu, He Zhang, Zhe Lin, Yuqian Zhou, Jiebo Luo</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.15614)
+
++ **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation** (13 Mar 2026)
+  <details><summary>Sampath Rapuri, Lalithkumar Seenivasan, Dominik Schneider, et al.</summary>Sampath Rapuri, Lalithkumar Seenivasan, Dominik Schneider, Roger Soberanis-Mukul, Yufan He, Hao Ding, Jiru Xu, Chenhao Yu, Chenyan Jing, Pengfei Guo, Daguang Xu, Mathias Unberath</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.13024)
+
++ **Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA** (9 Mar 2026)
+  <details><summary>Zexi Wu, Baolu Li, Jing Dai, et al.</summary>Zexi Wu, Baolu Li, Jing Dai, Yiming Zhang, Yue Ma, Qinghe Wang, Xu Jia, Hongming Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.08210)
+
++ **Towards Controllable Video Synthesis of Routine and Rare OR Events** (24 Feb 2026)
+  <details><summary>Dominik Schneider, Lalithkumar Seenivasan, Sampath Rapuri, et al.</summary>Dominik Schneider, Lalithkumar Seenivasan, Sampath Rapuri, Vishalroshan Anil, Aiza Maksutova, Yiqing Shen, Jan Emily Mangulabnan, Hao Ding, Jose L. Porras, Masaru Ishii, Mathias Unberath</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.21365)
+
++ **Tele-Omni: a Unified Multimodal Framework for Video Generation and Editing** (10 Feb 2026)
+  <details><summary>Jialun Liu, Tian Li, Xiao Cao, et al.</summary>Jialun Liu, Tian Li, Xiao Cao, Yukuo Ma, Gonghu Shang, Haibin Huang, Chi Zhang, Xiangzhen Chang, Zhiyong Huang, Jiakui Hu, Zuoxin Li, Yuanzhi Liang, Cong Liu, Junqi Liu, Robby T. Tan, Haitong Tang, Qizhen Weng, Yifan Xu, Liying Yang, Xiaoyan Yang, Peng Yu, Shiwen Zhang, Xuelong Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09609)
+
++ **TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation** (7 Feb 2026)
+  <details><summary>Yuanzhi Liang, Xuan'er Wu, Yirui Liu, et al.</summary>Yuanzhi Liang, Xuan'er Wu, Yirui Liu, Yijie Fang, Yizhen Fan, Ke Hao, Rui Li, Ruiying Liu, Ziqi Ni, Peng Yu, Yanbo Wang, Haibin Huang, Qizhen Weng, Chi Zhang, Xuelong Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.07595)
+
++ **Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models** (12 Jan 2026)
+  <details><summary>Yuanyang Yin, Yufan Deng, Shenghai Yuan, et al.</summary>Yuanyang Yin, Yufan Deng, Shenghai Yuan, Kaipeng Zhang, Xiao Yang, Feng Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.07287)
+
++ **ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision** (24 Dec 2025)
+  <details><summary>Weiqi Li, Zehao Zhang, Liang Lin, et al.</summary>Weiqi Li, Zehao Zhang, Liang Lin, Guangrun Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.21268)
+
++ **CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion** (17 Dec 2025)
+  <details><summary>Liudi Yang, Yang Bai, George Eskandar, et al.</summary>Liudi Yang, Yang Bai, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Ziyuan Liu, Abhinav Valada</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.16023)
+
++ **LongVie 2: Multimodal Controllable Ultra-Long Video World Model** (15 Dec 2025)
+  <details><summary>Jianxiong Gao, Zhaoxi Chen, Xian Liu, et al.</summary>Jianxiong Gao, Zhaoxi Chen, Xian Liu, Junhao Zhuang, Chengming Xu, Jianfeng Feng, Yu Qiao, Yanwei Fu, Chenyang Si, Ziwei Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13604)
+
++ **UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation** (8 Dec 2025)
+  <details><summary>Jiehui Huang, Yuechen Zhang, Xu He, et al.</summary>Jiehui Huang, Yuechen Zhang, Xu He, Yuan Gao, Zhi Cen, Bin Xia, Yan Zhou, Xin Tao, Pengfei Wan, Jiaya Jia</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.07831) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/dvlab-research/UnityVideo)
+
++ **World Models That Know When They Don't Know - Controllable Video Generation with Calibrated Uncertainty** (5 Dec 2025)
+  <details><summary>Zhiting Mei, Tenny Yin, Micah Baker, et al.</summary>Zhiting Mei, Tenny Yin, Micah Baker, Ola Shorinwa, Anirudha Majumdar</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.05927)
+
++ **CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion** (26 Nov 2025)
+  <details><summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, et al.</summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, Xi Qiu, Jialun Liu, Hao Pan, Yuchi Huo, Rui Wang, Haibin Huang, Chi Zhang, Xuelong Li</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.21129)
+
++ **A Reason-then-Describe Instruction Interpreter for Controllable Video Generation** (25 Nov 2025)
+  <details><summary>Shengqiong Wu, Weicai Ye, Yuanxing Zhang, et al.</summary>Shengqiong Wu, Weicai Ye, Yuanxing Zhang, Jiahao Wang, Quande Liu, Xintao Wang, Pengfei Wan, Kun Gai, Hao Fei, Tat-Seng Chua</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20563) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sqwu.top/ReaDe/)
+
++ **In-Video Instructions: Visual Signals as Generative Control** (24 Nov 2025)
+  <details><summary>Gongfan Fang, Xinyin Ma, Xinchao Wang</summary>Gongfan Fang, Xinyin Ma, Xinchao Wang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19401)
+
++ **Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation** (21 Nov 2025)
+  <details><summary>Shihan Cheng, Nilesh Kulkarni, David Hyde, et al.</summary>Shihan Cheng, Nilesh Kulkarni, David Hyde, Dmitriy Smirnov</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.17844)
+
++ **Show Me: Unifying Instructional Image and Video Generation with Diffusion Models** (21 Nov 2025)
+  <details><summary>Yujiang Pu, Zhanbo Huang, Vishnu Boddeti, et al.</summary>Yujiang Pu, Zhanbo Huang, Vishnu Boddeti, Yu Kong</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.17839)
+
++ **Video-As-Prompt: Unified Semantic Control for Video Generation** (23 Oct 2025)
+  <details><summary>Yuxuan Bian, Xin Chen, Zenan Li, et al.</summary>Yuxuan Bian, Xin Chen, Zenan Li, Tiancheng Zhi, Shen Sang, Linjie Luo, Qiang Xu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.20888)
+
++ **MultiCOIN: Multi-Modal COntrollable Video INbetweening** (9 Oct 2025)
+  <details><summary>Maham Tanveer, Yang Zhou, Simon Niklaus, et al.</summary>Maham Tanveer, Yang Zhou, Simon Niklaus, Ali Mahdavi Amiri, Hao Zhang, Krishna Kumar Singh, Nanxuan Zhao</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08561)
+
++ **VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning** (9 Oct 2025)
+  <details><summary>Minghong Cai, Qiulin Wang, Zongli Ye, et al.</summary>Minghong Cai, Qiulin Wang, Zongli Ye, Wenze Liu, Quande Liu, Weicai Ye, Xintao Wang, Pengfei Wan, Kun Gai, Xiangyu Yue</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08555)
+
++ **Ctrl-VI: Controllable Video Synthesis via Variational Inference** (9 Oct 2025)
+  <details><summary>Haoyi Duan, Yunzhi Zhang, Yilun Du, et al.</summary>Haoyi Duan, Yunzhi Zhang, Yilun Du, Jiajun Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07670)
+
++ **ControlHair: Synergizing Physics Simulator and Video Diffusion for Controllable Dynamic Hair Rendering** (25 Sep 2025)
+  <details><summary>Weikai Lin, Haoxiang Li, Yuhao Zhu</summary>Weikai Lin, Haoxiang Li, Yuhao Zhu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21541) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://linwk20.github.io/controlhair-web)
+
++ **NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics** (25 Sep 2025)
+  <details><summary>Yu Yuan, Xijun Wang, Tharindu Wickremasinghe, et al.</summary>Yu Yuan, Xijun Wang, Tharindu Wickremasinghe, Zeeshan Nadir, Bole Ma, Stanley H. Chan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.21309) [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/pandayuanyu/NewtonGen)
+
++ **HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning** (10 Sep 2025)
+  <details><summary>Liyang Chen, Tianxiang Ma, Jiawei Liu, et al.</summary>Liyang Chen, Tianxiang Ma, Jiawei Liu, Bingchuan Li, Zhuowei Chen, Lijie Liu, Xu He, Gen Li, Qian He, Zhiyong Wu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.08519) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://phantom-video.github.io/HuMo)
+
++ **SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation** (23 Aug 2025)
+  <details><summary>Peng Hu, Yu Gu, Liang Luo, et al.</summary>Peng Hu, Yu Gu, Liang Luo, Fuji Ren</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.17062)
+
++ **EVCtrl: Efficient Control Adapter for Visual Generation** (14 Aug 2025)
+  <details><summary>Zixiang Yang, Yue Ma, Yinhan Zhang, et al.</summary>Zixiang Yang, Yue Ma, Yinhan Zhang, Shanhui Mo, Dongrui Liu, Linfeng Zhang</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10963)
+
++ **Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation** (11 Aug 2025)
+  <details><summary>Fangyuan Mao, Aiming Hao, Jintao Chen, et al.</summary>Fangyuan Mao, Aiming Hao, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.07981)
+
++ **LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation** (5 Aug 2025)
+  <details><summary>Jianxiong Gao, Zhaoxi Chen, Xian Liu, et al.</summary>Jianxiong Gao, Zhaoxi Chen, Xian Liu, Jianfeng Feng, Chenyang Si, Yanwei Fu, Yu Qiao, Ziwei Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.03694)
+
+<!-- RECENT_VERIFIED_END:Universal Control -->
 <a id="-universal-control"></a>
 
 + **Aether: Geometric-Aware Unified World Modeling** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)  (18 Mar 2025)
@@ -2231,6 +3755,5 @@ Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang 
 + **VideoComposer: Compositional Video Synthesis with Motion Controllability** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)  (6 Jun 2023)<details><summary>Xiang Wang, Hangjie Yuan, Shiwei Zhang, et al.</summary>Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02018)
 [![Code](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/ali-vilab/videocomposer)
-
 
 
