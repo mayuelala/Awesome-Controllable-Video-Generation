@@ -973,6 +973,13 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 ## 🖼️ Image Control
 <a id="-image-control"></a>
 
++ **StableV2V: Stablizing Shape Consistency in Video-to-Video Editing** (18 Nov 2024)
+   <details><summary>Chang Liu, Rui Li, Kaidong Zhang, et al.</summary>  
+         Chang Liu, Rui Li, Kaidong Zhang, Yunwei Lan, Dong Liu</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11045)
+   [![Code](https://img.shields.io/github/stars/AlonzoLeeeooo/StableV2V.svg?style=social&label=Star)](https://github.com/AlonzoLeeeooo/StableV2V)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://alonzoleeeooo.github.io/StableV2V/)
 + **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
    <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
          Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details> 
